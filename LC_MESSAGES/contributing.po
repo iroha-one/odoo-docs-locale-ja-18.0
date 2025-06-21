@@ -19,23 +19,23 @@ msgstr ""
 
 #: ../../content/contributing.rst:6
 msgid "Contributing"
-msgstr "開発への協力・貢献"
+msgstr "貢献について"
 
 #: ../../content/contributing.rst:8
 msgid "First off, **thank you** for landing here and considering contributing to Odoo!"
-msgstr "まずは、閲覧いただき、**ありがとうございます** 。Odooへの貢献をご検討ください！"
+msgstr "まずはこのページをご覧いただき、Odooへの貢献をご検討いただき**ありがとうございます**。"
 
 #: ../../content/contributing.rst:10
 msgid "This documentation serves as a guide for first-timer and veteran contributors. As an open-core project, Odoo accepts contributions from everyone, Odoo employees and members of the Odoo community alike. The Odoo community comprises users, developers, and other interested parties who contribute their time and expertise."
-msgstr "このドキュメントは、初めての貢献者と経験豊富な貢献者のためのガイドです。Odooはオープンコアプロジェクトであり、Odooの社員だけでなく、Odooコミュニティのメンバーを含むすべての人からの貢献を受け入れています。Odooコミュニティは、ユーザー、開発者、その他の関心を持つ人々で構成されており、皆さんの時間と専門知識を提供しています。"
+msgstr "このドキュメントは、初めての方から経験豊富な方まで、すべての貢献者のためのガイドです。Odooはオープンコアプロジェクトであり、Odoo社員だけでなく、コミュニティのすべてのメンバーからの貢献を歓迎しています。Odooコミュニティは、ユーザー、開発者、その他の関係者で構成され、皆さんの時間と専門知識によって支えられています。"
 
 #: ../../content/contributing.rst:15
 msgid "Depending on your skill set and interest, there are many ways to contribute to Odoo. The table below lists the most important of them."
-msgstr "あなたのスキルや関心に応じて、Odoo に貢献する方法はたくさんあります。以下の表はその中で最も重要なものです。"
+msgstr "あなたのスキルや関心に応じて、Odooに貢献する方法はさまざまです。下記の表に主な方法をまとめています。"
 
 #: ../../content/contributing.rst:23
 msgid "Contribution"
-msgstr "貢献"
+msgstr "貢献方法"
 
 #: ../../content/contributing.rst:24
 msgid "Description"
@@ -47,7 +47,7 @@ msgstr "リソース"
 
 #: ../../content/contributing.rst:26
 msgid "Target Audience"
-msgstr "対象のオーディエンス数"
+msgstr "対象者"
 
 #: ../../content/contributing.rst:27
 msgid "Join the community"
@@ -55,7 +55,7 @@ msgstr "コミュニティに参加する"
 
 #: ../../content/contributing.rst:28
 msgid "Participate in discussions on the forums, help answer questions, and assist other members of the Odoo community."
-msgstr "フォーラムでの議論に参加し、質問に答えたり、Odooコミュニティの他のメンバーを支援したりします。"
+msgstr "フォーラムでの議論に参加し、質問に答えたり、Odooコミュニティの他のメンバーをサポートしたりしましょう。"
 
 #: ../../content/contributing.rst:30
 msgid "`Odoo forums <https://www.odoo.com/forum>`_"
@@ -453,7 +453,7 @@ msgstr "他のオプションディレクトリがモジュールを構成しま
 
 #: ../../content/contributing/development/coding_guidelines.rst:45
 msgid "*wizard/* : regroups the transient models (``models.TransientModel``) and their views"
-msgstr "*ウィザード/* : 一時モデルとそのビュー (``models.TransientModel``) を再グループ化します。"
+msgstr "*ウィザード/* : 一時モデル (``models.TransientModel``) とそのビューを再グループ化します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:46
 msgid "*report/* : contains the printable reports and models based on SQL views. Python objects and XML views are included in this directory"
@@ -828,7 +828,7 @@ msgstr "同様に、システムはテストスイートの実行中に専用の
 
 #: ../../content/contributing/development/coding_guidelines.rst:688
 msgid "The consequence is that if you manually call ``cr.commit()`` anywhere there is a very high chance that you will break the system in various ways, because you will cause partial commits, and thus partial and unclean rollbacks, causing among others:"
-msgstr "その結果、手動で ``cr を呼び出した場合に発生します。 ommit()`` では、さまざまな方法でシステムを壊す可能性が非常に高いです なぜならあなたは部分的なコミットを引き起こし、このような部分的でクリーンでないロールバックを引き起こすからです。"
+msgstr "その結果、手動で ``cr.commit()`` を呼び出した場合に発生します。 これは、さまざまな方法でシステムを壊す可能性が非常に高いです なぜならあなたは部分的なコミットを引き起こし、このような部分的でクリーンでないロールバックを引き起こすからです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:693
 msgid "inconsistent business data, usually data loss"
@@ -848,7 +848,7 @@ msgstr "ここに非常に単純なルールがあります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:700
 msgid "You should **NEVER** call ``cr.commit()`` yourself, **UNLESS** you have created your own database cursor explicitly! And the situations where you need to do that are exceptional!"
-msgstr "``cr を**決して呼び出さない** でください。 ommit()はあなた自身、 **UNLESS** はあなた自身のデータベースカーソルを明示的に作成しました！ そして、あなたがそれを行う必要がある状況は例外的です！"
+msgstr " ``cr.commit()`` を**決して呼び出さない** でください。**UNLESS** はあなた自身のデータベースカーソルを明示的に作成しました！ そして、あなたがそれを行う必要がある状況は例外的です！"
 
 #: ../../content/contributing/development/coding_guidelines.rst:704
 msgid "And by the way if you did create your own cursor, then you need to handle error cases and proper rollback, as well as properly close the cursor when you're done with it."
@@ -860,7 +860,7 @@ msgstr "一般的な信念とは異なり、以下のような状況で ``cr.com
 
 #: ../../content/contributing/development/coding_guidelines.rst:720
 msgid "All ``cr.commit()`` calls outside of the server framework from now on must have an **explicit comment** explaining why they are absolutely necessary, why they are indeed correct, and why they do not break the transactions. Otherwise they can and will be removed !"
-msgstr "すべての ``cr。 ommit()`` は今後サーバーフレームワークの外で呼び出されますが、なぜそれらが絶対に必要なのかを説明する **明示的なコメント** が必要です。 なぜ彼らが正しいのか?なぜ彼らは取引を破らないのか? そうでなければ、彼らはすることができ、削除されます!"
+msgstr "すべての ``cr.commit()`` は今後サーバーフレームワークの外で呼び出されますが、なぜそれらが絶対に必要なのかを説明する **明示的なコメント** が必要です。 なぜ彼らが正しいのか?なぜ彼らは取引を破らないのか? そうでなければ、彼らはすることができ、削除されます!"
 
 #: ../../content/contributing/development/coding_guidelines.rst:726
 msgid "Use translation method correctly"
@@ -888,7 +888,7 @@ msgstr "また、翻訳者はアンダースコア関数に渡されるリテラ
 
 #: ../../content/contributing/development/coding_guidelines.rst:808
 msgid "In general in Odoo, when manipulating strings, prefer ``%`` over ``.format()`` (when only one variable to replace in a string), and prefer ``%(varname)`` instead of position (when multiple variables have to be replaced). This makes the translation easier for the community translators."
-msgstr "Odoo では一般的に文字列を操作する場合、``よりも ``%`` を優先します。 ormat()`` (複数の変数を置換する必要がある場合) ではなく、(文字列内で置き換えるために1つの変数のみ) 位置の代わりに「%(varname)」を好みます。 これにより、コミュニティの翻訳者にとって翻訳が容易になります。"
+msgstr "一般的にOdooでは、文字列を操作する際に、（1つの変数だけを置換する場合） ``.format()`` よりも ``%`` を使うことを推奨しています。また、（複数の変数を置換する必要がある場合）位置指定よりも ``%(varname)`` を使用することを推奨します。こうすることで、コミュニティ翻訳者によって翻訳作業が容易になります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:814
 msgid "Symbols and Conventions"
@@ -1024,7 +1024,7 @@ msgstr "Odoo アドオンには、さまざまなファイルをどのように�
 
 #: ../../content/contributing/development/coding_guidelines.rst:931
 msgid "The first thing to know is that the Odoo server will serve (statically) all files located in a *static/* folder, but prefixed with the addon name. So, for example, if a file is located in *addons/web/static/src/js/some_file.js*, then it will be statically available at the url *your-odoo-server.com/web/static/src/js/some_file.js*"
-msgstr "最初に知っておくべきことは、Odooサーバーは*static/*フォルダにあるすべてのファイルを(静的に)提供します。 でもアドオン名の前に付けられています 例えば、ファイルが *addons/web/static/src/js/some_file.js* にある場合は、静的に *your-odoo-server.com/web/static/src/some_file.js* URL で利用できます。"
+msgstr "最初に知っておくべきことは、Odooサーバーは*static/*フォルダにあるすべてのファイルを(静的に)提供します。 でもアドオン名の前に付けられています 例えば、ファイルが *addons/web/static/src/js/some_file.js* にある場合は、静的に *your-odoo-server.com/web/static/src/js/some_file.js* URL で利用できます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:936
 msgid "The convention is to organize the code according to the following structure:"
@@ -1240,7 +1240,7 @@ msgstr "SCSS 変数 (スコープ付き)"
 
 #: ../../content/contributing/development/coding_guidelines.rst:1167
 msgid "These variables are declared within blocks and are not accessible from the outside. Our standard convention is `$-[variable name]`."
-msgstr "これらの変数はブロック内で宣言されており、外部からはアクセスできません。標準の規約は `$-format@@0` です。"
+msgstr "これらの変数はブロック内で宣言されており、外部からはアクセスできません。標準の規約は `$-[variable name]` です。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:1185
 msgid "`Variables scope on the SASS Documentation <https://sass-lang.com/documentation/variables#scope>`_"
@@ -1496,7 +1496,7 @@ msgstr "慣れていない場合は、 :ref:`reStructuredText言語 <contributin
 
 #: ../../content/contributing/documentation.rst:26
 msgid "**For minor changes**, for example, adding a paragraph or fixing a typo, we recommend **using the GitHub interface**. This is the easiest and fastest way to submit your changes, and it is suitable for non-technical people. Jump directly to the :ref:`contributing/documentation/first-contribution` section to get started."
-msgstr "**小規模な変更**については、例えば段落を追加したり、タイプミスを修正したりするために、**GitHubインターフェースを使用することをお勧めします**。 これは、変更を提出するための最も簡単で最速の方法であり、非技術的な人に適しています。 :ref:の「コントリビューション/ドキュメンテーション/first-contribution」セクションに直接ジャンプして開始します。"
+msgstr "**小規模な変更**については、例えば段落を追加したり、タイプミスを修正したりするために、**GitHubインターフェースを使用することをお勧めします**。 これは、変更を提出するための最も簡単で最速の方法であり、非技術的な人に適しています。 :ref:`contributing/documentation/first-contribution` セクションに直接ジャンプして開始します。"
 
 #: ../../content/contributing/documentation.rst:30
 msgid "**For more complex changes**, it is necessary to **use Git** and work from a local copy of the documentation. Follow the instructions in the :ref:`contributing/documentation/setup` section to first prepare your environment."
@@ -1536,7 +1536,7 @@ msgstr "以下の手順は、ドキュメントにローカルで変更を加え
 
 #: ../../content/contributing/documentation.rst:72
 msgid "Go to `github.com/odoo/documentation <https://github.com/odoo/documentation>`_ and click on the :guilabel:`Fork` button in the top right corner to create a fork (:dfn:`your own copy`) of the repository on your account. This creates a copy of the codebase to which you can make changes without affecting the main codebase. Skip this step if you work at Odoo."
-msgstr "`github. を開きます。 om/odoo/documentation <https://github.com/odoo/documentation>`_ そして右上隅にある :guilabel:`Fork` ボタンをクリックして、あなたのアカウントにリポジトリのフォーク(:dfn:`あなた自身のコピー`)を作成します。 これにより、メインのコードベースに影響を与えずに変更できるコードベースのコピーが作成されます。 Odoo で作業している場合は、この手順をスキップします。"
+msgstr "`github. を開きます。 om/odoo/documentation <https://github.com/odoo/documentation>`_ そして右上隅にある :guilabel:`Fork` ボタンをクリックして、あなたのアカウントにリポジトリのフォーク(:dfn:`your own copy` ) を作成します。 これにより、メインのコードベースに影響を与えずに変更できるコードベースのコピーが作成されます。 Odoo で作業している場合は、この手順をスキップします。"
 
 #: ../../content/contributing/documentation.rst:78
 msgid "Clone the sources with Git and navigate into the local repository."
@@ -1600,7 +1600,7 @@ msgstr "変更したいページに進み、ページの右上隅にある :guil
 
 #: ../../content/contributing/documentation.rst:168
 msgid "Click on the :guilabel:`Fork this repository` button to create a fork (:dfn:`your own copy`) of the repository on your account. This creates a copy of the codebase to which you can make changes without affecting the main codebase. Skip this step if you work at Odoo."
-msgstr ":guilabel:`Fork this repository` ボタンをクリックして、あなたのアカウントにリポジトリの fork (:dfn:`your own copy` ) を作成します。 これにより、メインのコードベースに影響を与えずに変更できるコードベースのコピーが作成されます。 Odoo で作業している場合は、この手順をスキップします。"
+msgstr ":guilabel:`Fork this repository` ボタンをクリックして、あなたのアカウントにリポジトリのフォーク(:dfn:`your own copy` ) を作成します。 これにより、メインのコードベースに影響を与えずに変更できるコードベースのコピーが作成されます。 Odoo で作業している場合は、この手順をスキップします。"
 
 #: ../../content/contributing/documentation.rst:175
 #: ../../content/contributing/documentation.rst:230
