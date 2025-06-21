@@ -27,7 +27,7 @@ jobs:
         # upload sources option
         upload_sources: true
         # upload translations options
-        upload_translations: false
+        upload_translations: true
         # download translations options
         download_translations: true
         download_language: 'ja'
