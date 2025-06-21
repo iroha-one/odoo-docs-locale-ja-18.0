@@ -57,8 +57,8 @@ jobs:
         # -----------------------------------------------------------------------------------------------------------------
         # Git and Pull Request options: https://github.com/marketplace/actions/crowdin-action#git-and-pull-request-options
         # -----------------------------------------------------------------------------------------------------------------
-        # push_translations: true # default: true
-        # push_sources: true # default: true
+        # push_translations: false # default: true
+        # push_sources: false # default: true
         # localization_branch_name: l10n_crowdin_action
         # commit_message: New Crowdin translations by GitHub Action
         # create_pull_request: false # default: true
@@ -69,7 +69,7 @@ jobs:
         # pull_request_reviewers: user-reviewer
         # pull_request_team_reviewers: team-reviewer
         # pull_request_base_branch_name: main
-        # skip_ref_checkout: false
+        # skip_ref_checkout: true # default: false
 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
