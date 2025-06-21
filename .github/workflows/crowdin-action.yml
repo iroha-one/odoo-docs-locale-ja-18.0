@@ -61,7 +61,7 @@ jobs:
         # push_sources: true # default: true
         # localization_branch_name: l10n_crowdin_action
         # commit_message: New Crowdin translations by GitHub Action
-        create_pull_request: false # default: true
+        # create_pull_request: false # default: true
         # pull_request_title: New Crowdin translations by GitHub Action
         # pull_request_body: New Crowdin pull request with translations
         # pull_request_labels: localization, l10n
