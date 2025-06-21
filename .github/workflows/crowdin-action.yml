@@ -33,11 +33,11 @@ jobs:
         # --------------------------------------------------------------------------------------
         #  Upload options: https://github.com/marketplace/actions/crowdin-action#upload-options
         # --------------------------------------------------------------------------------------
-        # upload_sources: true  # default: true
+        # upload_sources: false  # default: true
         upload_translations: ${{ github.event.inputs.upload_translations }} # default: false
         upload_language: 'ja'
-        # auto_approve_imported: false
-        # import_eq_suggestions: false
+        # auto_approve_imported: true # default: false
+        # import_eq_suggestions: true # default: false
         # upload_sources_args: --no-auto-update label=web
         # upload_translations_args: --translate-hidden
         
@@ -47,7 +47,7 @@ jobs:
         # download_sources: true # default: false
         download_translations: true # default: false
         # download_bundle: 1
-        # download_language: 'ja'
+        download_language: 'ja'
         # skip_untranslated_strings: true # default: false
         # skip_untranslated_files: true # default: false
         # export_only_approved: true # default: false
