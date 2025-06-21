@@ -12,8 +12,8 @@ name: crowdin-action
 on: 
   workflow_dispatch:
     inputs:
-      upload_translations:
-        description: 'Upload translations to Crowdin?'
+      upload_files:
+        description: 'Upload files to Crowdin?'
         required: false
         default: 'false'
         type: boolean
@@ -33,8 +33,8 @@ jobs:
         # --------------------------------------------------------------------------------------
         #  Upload options: https://github.com/marketplace/actions/crowdin-action#upload-options
         # --------------------------------------------------------------------------------------
-        # upload_sources: false  # default: true
-        upload_translations: ${{ github.event.inputs.upload_translations }} # default: false
+        upload_sources: ${{ github.event.inputs.upload_files }} # default: true
+        upload_translations: ${{ github.event.inputs.upload_files }} # default: false
         upload_language: 'ja'
         # auto_approve_imported: true # default: false
         # import_eq_suggestions: true # default: false
