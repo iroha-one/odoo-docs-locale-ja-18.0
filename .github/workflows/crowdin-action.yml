@@ -44,13 +44,13 @@ jobs:
         # ------------------------------------------------------------------------------------------
         #  Download options: https://github.com/marketplace/actions/crowdin-action#download-options
         # ------------------------------------------------------------------------------------------
-        # download_sources: false
-        # download_translations: false
+        # download_sources: true # default: false
+        download_translations: true # default: false
         # download_bundle: 1
         # download_language: 'ja'
-        # skip_untranslated_strings: false
-        # skip_untranslated_files: false
-        # export_only_approved: false
+        # skip_untranslated_strings: true # default: false
+        # skip_untranslated_files: true # default: false
+        # export_only_approved: true # default: false
         # download_sources_args: --reviewed
         # download_translations_args: --all --skip-untranslated-strings
 
