@@ -2378,7 +2378,7 @@ msgstr "いつものように、マークアップの使用方法は2つあり�
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:401
 msgid "``:doc:`path_to_doc_page``` creates a hyperlink to the documentation page with the title of the page as label."
-msgstr ":doc:`path_to_doc_page``` は、ページのタイトルをラベルとしたドキュメントページへのハイパーリンクを作成します。"
+msgstr "``:doc:`path_to_doc_page``` は、ページのタイトルをラベルとしたドキュメントページへのハイパーリンクを作成します。"
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:403
 msgid "``:doc:`label <path_to_doc_page>``` creates a hyperlink to the documentation page with the given label."
