@@ -209,7 +209,7 @@ msgstr "環境設定"
 
 #: ../../content/contributing/development.rst:27
 msgid "The instructions below help you prepare your environment for making local changes to the codebase and then push them to GitHub. Skip this section and go to :ref:`contributing/development/first-contribution` if you have already completed this step."
-msgstr "以下の手順は、コードベースにローカルで変更を加えた後、GitHub にプッシュするための環境を準備するのに役立ちます。 このセクションをスキップして、すでにこのステップを完了している場合は、 :ref:`貢献/開発/ファースト貢献` にアクセスしてください。"
+msgstr "以下の手順は、コードベースにローカルで変更を加えた後、GitHub にプッシュするための環境を準備するのに役立ちます。 このセクションをスキップして、すでにこのステップを完了している場合は、 :ref:`contributing/development/first-contribution` にアクセスしてください。"
 
 #: ../../content/contributing/development.rst:33
 msgid "Go to `github.com/odoo/odoo <https://github.com/odoo/odoo>`_ and click on the :guilabel:`Fork` button in the top right corner to create a fork (:dfn:`your own copy`) of the repository on your account. Do the same with `github.com/odoo/enterprise <https://github.com/odoo/enterprise>`_ if you have access to it. This creates a copy of the codebase to which you can make changes without affecting the main codebase. Skip this step if you work at Odoo."
