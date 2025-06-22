@@ -196,7 +196,7 @@ msgstr "これを読んでいるなら、Odoo のコードベースに貢献す�
 #: ../../content/contributing/development.rst:17
 #: ../../content/contributing/documentation.rst:19
 msgid ":doc:`Discover other ways to contribute to Odoo <../contributing>`"
-msgstr ":doc:`Odoo <../contributoring>に貢献する他の方法を見つけましょう"
+msgstr ":doc:`Odooに貢献する他の方法を見つけましょう <../contributoring>"
 
 #: ../../content/contributing/development.rst:19
 msgid "When you feel ready, jump to the :ref:`contributing/development/setup` section to begin your journey in contributing to the development of Odoo."
