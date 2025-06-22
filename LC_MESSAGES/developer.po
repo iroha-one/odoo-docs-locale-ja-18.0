@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-08 12:48+0000\n"
-"PO-Revision-Date: 2025-06-21 22:00\n"
+"PO-Revision-Date: 2025-06-21 23:24\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../content/developer.rst:9
 msgid "Developer"
-msgstr ""
+msgstr "開発者"
 
 #: ../../content/developer.rst:11
 msgid "Learn through tutorials and get help using reference guides."
@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../content/developer/glossary.rst:5
 msgid "Glossary"
-msgstr ""
+msgstr "用語集"
 
 #: ../../content/developer/glossary.rst:8
 msgid "external id"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/accounting_localization.rst:83
 msgid "Chart of Accounts"
-msgstr ""
+msgstr "勘定科目表"
 
 #: ../../content/developer/howtos/accounting_localization.rst:86
 msgid "Account tags"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/accounting_localization.rst:106
 msgid "Accounts"
-msgstr ""
+msgstr "アカウント"
 
 #: ../../content/developer/howtos/accounting_localization.rst:109
 msgid ":ref:`Account References <reference/account_account>`"
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/accounting_localization.rst:131
 msgid "Account groups"
-msgstr ""
+msgstr "勘定グループ"
 
 #: ../../content/developer/howtos/accounting_localization.rst:134
 msgid ":ref:`Account Group References <reference/account_group>`"
@@ -216,7 +216,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/layout.rst:71
 #: ../../content/developer/reference/backend/data/res.country.state.csv:1
 msgid "id"
-msgstr ""
+msgstr "ID"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "code_prefix_start"
@@ -331,7 +331,7 @@ msgstr ""
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.zip_to:0
 #: ../../content/developer/reference/backend/data/res.country.state.csv:1
 msgid "name"
-msgstr ""
+msgstr "名称"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "name@he_IL"
@@ -351,7 +351,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Fixed Assets"
-msgstr ""
+msgstr "固定資産"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "רכוש קבוע"
@@ -371,7 +371,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Current Assets"
-msgstr ""
+msgstr "流動資産"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "רכוש שוטף"
@@ -411,7 +411,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Current Liabilities"
-msgstr ""
+msgstr "流動負債"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "התחייבויות שוטפות"
@@ -431,7 +431,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Non-current Liabilities"
-msgstr ""
+msgstr "非流動負債"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "התחייבויות לא שוטפות"
@@ -471,7 +471,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Other Income"
-msgstr ""
+msgstr "その他収益"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "הכנסות אחרות"
@@ -511,7 +511,7 @@ msgstr ""
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "Expenses"
-msgstr ""
+msgstr "費用"
 
 #: ../../../odoo/addons/l10n_il/data/template/account.group-il.csv:1
 msgid "הוצאות"
@@ -540,7 +540,7 @@ msgstr ""
 #: ../../content/developer/howtos/accounting_localization.rst:151
 #: ../../content/developer/reference/standard_modules/account/account_tax.rst:5
 msgid "Taxes"
-msgstr ""
+msgstr "税金"
 
 #: ../../content/developer/howtos/accounting_localization.rst:154
 msgid ":ref:`Tax References <reference/account_tax>`"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/accounting_localization.rst:181
 msgid "Tax Report"
-msgstr ""
+msgstr "税レポート"
 
 #: ../../content/developer/howtos/accounting_localization.rst:187
 msgid "The tax report is declared in the :guilabel:`Invoicing` (`account`) app, but the report is only accessible when :guilabel:`Accounting` (`account_accountant`) is installed."
@@ -605,7 +605,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/accounting_localization.rst:229
 msgid "Fiscal positions"
-msgstr ""
+msgstr "会計ポジション"
 
 #: ../../content/developer/howtos/accounting_localization.rst:232
 msgid ":ref:`Fiscal Position References <reference/account_fiscal_position>`"
@@ -961,7 +961,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/theming.rst:496
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1154
 msgid "Views"
-msgstr ""
+msgstr "ビュー"
 
 #: ../../content/developer/howtos/company.rst:170
 msgid "As stated in :ref:`above <howto/company/default_company>`, the company is usually hidden from view if the user does not have access to multiple companies. This is assessed with the group `base.group_multi_company`."
@@ -1073,7 +1073,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/connect_device.rst:74
 msgid "Driver"
-msgstr ""
+msgstr "運転手"
 
 #: ../../content/developer/howtos/connect_device.rst:76
 msgid "Once the interface has retrieved the list of detected devices, it will loop through all of the Drivers that have the same `connection_type` attribute and test their respective `supported` method on all detected devices. If the supported method of a Driver returns `True`, an instance of this Driver will be created for the corresponding device."
@@ -1124,7 +1124,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/actions.rst:3
 #: ../../content/developer/tutorials/getting_started/06_firstui.rst:47
 msgid "Actions"
-msgstr ""
+msgstr "アクション"
 
 #: ../../content/developer/howtos/connect_device.rst:139
 msgid "Actions are used to tell a selected device to execute a specific action, such as taking a picture, printing a receipt, etc."
@@ -1710,7 +1710,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/services.rst:834
 #: ../../content/developer/reference/user_interface/scss_inheritance.rst:6
 msgid "Overview"
-msgstr ""
+msgstr "概要"
 
 #: ../../content/developer/howtos/standalone_owl_application.rst:12
 msgid "To have a standalone Owl app, a few things are required:"
@@ -2178,11 +2178,11 @@ msgstr ""
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:130
 msgid "Email templates"
-msgstr ""
+msgstr "メールテンプレート"
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:131
 msgid "Reports"
-msgstr ""
+msgstr "レポート"
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:132
 msgid "Server actions and automated actions"
@@ -2315,7 +2315,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:239
 msgid "Odoo Online"
-msgstr ""
+msgstr "Odooオンライン"
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:241
 msgid "As the instalation of custom modules containing Python files is not allowed on Odoo Online databases, it is not possible to run upgrade scripts on this platform."
@@ -2325,7 +2325,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/going_live.rst:34
 #: ../../content/developer/howtos/website_themes/setup.rst:121
 msgid "Odoo.sh"
-msgstr ""
+msgstr "Odoo.sh"
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:246
 msgid "As explained on the `Odoo.sh` tab of :ref:`upgrade/request-test-database`, Odoo.sh is integrated with the upgrade platform."
@@ -2341,7 +2341,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:256
 msgid "On-premise"
-msgstr ""
+msgstr "オンプレミス"
 
 #: ../../content/developer/howtos/upgrade_custom_db.rst:258
 msgid "Once you receive the upgraded dump of the database from the `Upgrade platform <https://upgrade.odoo.com>`_, deploy the database and update all the custom modules by invoking the command :doc:`odoo-bin </developer/reference/cli>` in the shell. To update the custom modules, use the option: `-u <modules>, --update <modules>`."
@@ -2733,7 +2733,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/services.rst:852
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTax.description:1
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:86
 msgid "class"
@@ -2774,7 +2774,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:105
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.column_ids:1
 msgid "Columns"
-msgstr ""
+msgstr "カラム"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:107
 msgid "Any large Bootstrap columns directly descending from a `.row` element (respecting Bootstrap structure) will be triggered by the Website Builder to make them resizable."
@@ -2859,7 +2859,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/layout.rst:466
 #: ../../content/developer/howtos/website_themes/shapes.rst:88
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:244
 msgid "Create the snippet's content."
@@ -2938,7 +2938,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:306
 #: ../../content/developer/reference/frontend/odoo_editor.rst:207
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:308
 msgid "Options allow users to edit a snippet's appearance using the Website Builder. You can create snippet options easily and automatically add them to the Website Builder."
@@ -3084,7 +3084,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:450
 msgid "Products"
-msgstr ""
+msgstr "プロダクト"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:470
 msgid "The ID of the template. Has to start with `dynamic_filter_template_product_product_`"
@@ -3117,7 +3117,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:481
 #: ../../content/developer/tutorials/web.rst:1003
 msgid "Events"
-msgstr ""
+msgstr "イベント"
 
 #: ../../content/developer/howtos/website_themes/building_blocks.rst:501
 msgid "The ID of the template. Has to start with `dynamic_filter_template_event_event_`"
@@ -3361,7 +3361,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/navigation.rst:14
 #: ../../content/developer/tutorials/getting_started/09_compute_onchange.rst:173
 msgid "Default"
-msgstr ""
+msgstr "デフォルト"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:16
 msgid "An Odoo page combines cross-page and unique elements. Cross-page elements are the same on every page, while unique elements are only related to a specific page. By default, a page has two cross-page elements, the header and the footer, and a unique main element that contains the specific content of that page."
@@ -3438,7 +3438,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/layout.rst:103
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReportLine.expression_ids:1
 msgid "Expressions"
-msgstr ""
+msgstr "式"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:105
 msgid "XPath uses path expressions to select nodes in an XML document. Selectors are used inside the expression to target the right element. The most useful ones are listed below."
@@ -3519,7 +3519,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/layout.rst:153
 msgid "replace"
-msgstr ""
+msgstr "置換える"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:154
 msgid "Replaces the targeted node with the XPath content."
@@ -3535,7 +3535,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/layout.rst:157
 msgid "before"
-msgstr ""
+msgstr "前"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:158
 msgid "Adds the XPath content before the targeted node."
@@ -3543,7 +3543,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/layout.rst:159
 msgid "after"
-msgstr ""
+msgstr "変更後"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:160
 msgid "Adds the XPath content after the targeted node."
@@ -3552,7 +3552,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/layout.rst:161
 #: ../../content/developer/reference/frontend/qweb.rst:196
 msgid "attributes"
-msgstr ""
+msgstr "属性"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:162
 msgid "Adds the XPath content inside an attribute."
@@ -3701,7 +3701,7 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures.rst:1742
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2406
 msgid "Components"
-msgstr ""
+msgstr "構成要素"
 
 #: ../../content/developer/howtos/website_themes/layout.rst:350
 msgid "In your custom header, you can call several sub-templates using the `t-call` directive from QWeb:"
@@ -3859,7 +3859,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/navigation.rst:3
 msgid "Navigation"
-msgstr ""
+msgstr "ナビゲーション"
 
 #: ../../content/developer/howtos/website_themes/navigation.rst:5
 msgid "You can easily modify the navigation with the Website Builder to fit your needs."
@@ -3914,7 +3914,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:263
 #: ../../content/developer/tutorials/getting_started/13_inheritance.rst:155
 msgid "Field"
-msgstr ""
+msgstr "フィールド"
 
 #: ../../content/developer/howtos/website_themes/navigation.rst:59
 msgid "Link text"
@@ -3949,7 +3949,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/navigation.rst:66
 msgid "sequence"
-msgstr ""
+msgstr "シーケンス"
 
 #: ../../content/developer/howtos/website_themes/navigation.rst:67
 msgid "Defines the link's position in the top menu."
@@ -4033,7 +4033,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/pages.rst:3
 msgid "Pages"
-msgstr ""
+msgstr "ページ"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:5
 msgid "In this chapter, you will learn how to declare static pages."
@@ -4121,7 +4121,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/pages.rst:143
 msgid "key"
-msgstr ""
+msgstr "キー"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:144
 msgid "View key (must be unique)"
@@ -4184,7 +4184,7 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures/root_attribute_string.rst:0
 #: ../../docstring of odoo.models.BaseModel._inherit:0
 msgid "type"
-msgstr ""
+msgstr "タイプ"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:148
 msgid "View type"
@@ -4213,11 +4213,11 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/pages.rst:169
 msgid "Media"
-msgstr ""
+msgstr "メディア"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:172
 msgid "Images"
-msgstr ""
+msgstr "画像"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:174
 msgid "You can record images in the database and use them later in your design/code. They will also be available for the end user through the *media dialog*."
@@ -4270,7 +4270,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/pages.rst:236
 msgid "Videos"
-msgstr ""
+msgstr "ビデオ"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:238
 msgid "Add videos as background."
@@ -4300,7 +4300,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/pages.rst:282
 msgid "Icons"
-msgstr ""
+msgstr "アイコン"
 
 #: ../../content/developer/howtos/website_themes/pages.rst:284
 msgid "By default, the Font Awesome icons library is included in the Website Builder. You can place icons anywhere using the CSS Prefix `fa` and the icon's name. Font Awesome is designed to be used with inline elements. You can use `<i>` tag for brevity, but using a `<span>` is more semantically correct."
@@ -4326,7 +4326,7 @@ msgstr ""
 #: ../../content/developer/tutorials/discover_js_framework.rst:37
 #: ../../content/developer/tutorials/master_odoo_web_framework.rst:46
 msgid "Setup"
-msgstr ""
+msgstr "セットアップ"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:5
 msgid "In this chapter, you will learn:"
@@ -4350,7 +4350,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/setup.rst:13
 msgid "Install"
-msgstr ""
+msgstr "インストール"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:15
 msgid "There are multiple ways to :doc:`install Odoo <../../../administration/install>`, depending on the intended use case. This documentation assumes you use the :doc:`source install <../../../administration/install/source>` (running Odoo from the source code), which is best suited for Odoo designers and developers."
@@ -4364,7 +4364,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/data.rst:14
 #: ../../content/developer/reference/backend/testing.rst:546
 msgid "Structure"
-msgstr ""
+msgstr "給与体系"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:26
 msgid "Every Odoo application works similarly; they are built with the same logic. A model contains fields and relational fields that link to other models. Each model has views representing all its fields, with backend and frontend views."
@@ -4374,7 +4374,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/orm.rst:20
 #: ../../content/developer/reference/upgrade_utils.rst:113
 msgid "Models"
-msgstr ""
+msgstr "モデル"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:33
 msgid "The basis of Odoo is models. Models use fields to record the data. Records are stored in a database: they are therefore linked to a model. In Odoo, you can find the different models in the backend by enabling the :ref:`developer mode <developer-mode>` and then going to :menuselection:`Settings --> Technical --> Database Structure: Models`."
@@ -4391,7 +4391,7 @@ msgstr ""
 #: ../../content/developer/reference/upgrade_utils.rst:69
 #: ../../content/developer/reference/user_interface/view_records.rst:68
 msgid "Fields"
-msgstr ""
+msgstr "フィールド"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:44
 msgid "In a model, we will centralize fields (field names we need to target in our code)."
@@ -4409,7 +4409,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:192
 #: ../../content/developer/tutorials/getting_started/09_compute_onchange.rst:176
 msgid "Date"
-msgstr ""
+msgstr "日付"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:53
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:189
@@ -4417,7 +4417,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:73
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:180
 msgid "Char"
-msgstr ""
+msgstr "文字"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:54
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:201
@@ -4585,11 +4585,11 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/setup.rst:180
 msgid "Running Odoo"
-msgstr ""
+msgstr "Odooを稼働"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:182
 msgid "Once all dependencies are set up, Odoo can be launched by running `odoo-bin`, the command-line interface of the server. It is located at the root of the Odoo Community directory."
-msgstr ""
+msgstr "すべての依存関係が設定されたら、サーバのコマンドラインインターフェースである `odoo-bin` を実行することで Odoo を起動できます。これは Odoo コミュニティ版ディレクトリルートにあります。"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:185
 msgid ":ref:`Running Odoo <install/source/running_odoo>`"
@@ -4618,7 +4618,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/setup.rst:210
 #: ../../content/developer/howtos/website_themes/theming.rst:69
 msgid "Folder"
-msgstr ""
+msgstr "フォルダ"
 
 #: ../../content/developer/howtos/website_themes/setup.rst:212
 msgid ":option:`--addons-path <odoo-bin --addons-path>`"
@@ -4836,7 +4836,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/shapes.rst:140
 msgid "public"
-msgstr ""
+msgstr "パブリック"
 
 #: ../../content/developer/howtos/website_themes/shapes.rst:141
 msgid "Makes the shape available for later editing."
@@ -4850,7 +4850,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/assets.rst:297
 #: ../../content/developer/reference/frontend/framework_overview.rst:106
 msgid "Key"
-msgstr ""
+msgstr "キー"
 
 #: ../../content/developer/howtos/website_themes/shapes.rst:166
 msgid "File location"
@@ -4878,7 +4878,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/shapes.rst:172
 msgid "colors"
-msgstr ""
+msgstr "色"
 
 #: ../../content/developer/howtos/website_themes/shapes.rst:173
 msgid "Defines the color c* you want it to have (this will override the color you specified in your SVG)."
@@ -5031,7 +5031,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:79
 msgid "views"
-msgstr ""
+msgstr "ビュー"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:80
 msgid "Custom views and templates (`*.xml`)"
@@ -5070,7 +5070,7 @@ msgstr ""
 #: ../../content/developer/tutorials/define_module_data.rst:179
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:190
 msgid "description"
-msgstr ""
+msgstr "説明"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:124
 msgid "Extended description of the module, in `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_"
@@ -5078,7 +5078,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:126
 msgid "category"
-msgstr ""
+msgstr "カテゴリー"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:127
 msgid "Classification category within Odoo"
@@ -5122,7 +5122,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:139
 msgid "assets"
-msgstr ""
+msgstr "資産"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:140
 msgid "List of SCSS and JS files"
@@ -5228,7 +5228,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:320
 msgid "Colors"
-msgstr ""
+msgstr "色"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:322
 msgid "The Website Builder relies on palettes composed of five named colors. Defining those in your theme ensures it stays consistent."
@@ -5238,7 +5238,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/owl_components.rst:384
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:265
 msgid "Color"
-msgstr ""
+msgstr "色"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:332
 msgid "o-color-1"
@@ -5282,7 +5282,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:-1
 msgid "Theme colors"
-msgstr ""
+msgstr "テーマ色"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:364
 msgid "Add the created palette to the list of palettes offered by the Website Builder."
@@ -5371,7 +5371,7 @@ msgstr ""
 #: ../../content/developer/howtos/website_themes/theming.rst:545
 #: ../../content/developer/reference/frontend/assets.rst:6
 msgid "Assets"
-msgstr ""
+msgstr "資産"
 
 #: ../../content/developer/howtos/website_themes/theming.rst:547
 msgid "For this part, we will refer to the `assets_frontend` bundle located in the web module. This bundle specifies the list of assets loaded by the Website Builder, and the goal is to add your SCSS and JS files to the bundle."
@@ -5469,7 +5469,7 @@ msgstr ""
 #: ../../content/developer/tutorials/pdf_reports.rst:284
 #: ../../content/developer/tutorials/web.rst:1221
 msgid "Translations"
-msgstr ""
+msgstr "翻訳"
 
 #: ../../content/developer/howtos/website_themes/translations.rst:5
 msgid "With Odoo, you can translate your website into different languages."
@@ -5505,7 +5505,7 @@ msgstr ""
 
 #: ../../content/developer/howtos/website_themes/translations.rst:29
 msgid "Backend"
-msgstr ""
+msgstr "バックエンド"
 
 #: ../../content/developer/howtos/website_themes/translations.rst:31
 msgid "Translating pages directly from the backend allows you to translate several languages at the same time. To do so, go to :menuselection:`Settings --> Technical --> User Interface: Views`, search for the name of the page you want to translate, and click the :guilabel:`Edit Translations` button."
@@ -6278,7 +6278,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/actions.rst:444
 msgid "``code``"
-msgstr ""
+msgstr "``コード``"
 
 #: ../../content/developer/reference/backend/actions.rst:439
 msgid "Code content of the action. Can be a simple call to the model's method :"
@@ -6681,7 +6681,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/data/res.country.state.csv:1
 msgid "code"
-msgstr ""
+msgstr "コード"
 
 #: ../../content/developer/reference/backend/data/res.country.state.csv:1
 msgid "state_au_1"
@@ -7128,7 +7128,7 @@ msgstr ""
 #: ../../../odoo/odoo/tools/populate.py:docstring of odoo.tools.populate.randint:0
 #: ../../../odoo/odoo/tools/populate.py:docstring of odoo.tools.populate.randomize:0
 msgid "Returns"
-msgstr ""
+msgstr "返品"
 
 #: ../../../odoo/odoo/http.py:docstring of odoo.http.Request.csrf_token:7
 msgid "ASCII token string"
@@ -8314,7 +8314,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/mixins.rst:967
 msgid "Others"
-msgstr ""
+msgstr "その他"
 
 #: ../../content/developer/reference/backend/mixins.rst:972
 msgid "Customer Rating"
@@ -8884,7 +8884,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:216
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:263
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 #: ../../../odoo/odoo/models.py:docstring of odoo.models.Model:1
 msgid "Main super-class for regular database-persisted Odoo models."
@@ -9226,7 +9226,7 @@ msgstr ""
 #: ../../../odoo/odoo/exceptions.py:docstring of odoo.exceptions.ValidationError:3
 #: ../../../odoo/odoo/fields.py:docstring of odoo.fields.Float:18
 msgid "Example"
-msgstr ""
+msgstr "例"
 
 #: ../../../odoo/odoo/fields.py:docstring of odoo.fields.Float:20
 msgid "To round a quantity with the precision of the unit of measure::"
@@ -10315,7 +10315,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/orm.rst:654
 #: ../../content/developer/reference/frontend/framework_overview.rst:96
 msgid "Environment"
-msgstr ""
+msgstr "環境"
 
 #: ../../../odoo/odoo/api.py:docstring of odoo.api.Environment:1
 msgid "The environment stores various contextual data used by the ORM:"
@@ -11335,7 +11335,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/orm.rst:1007
 #: ../../content/developer/reference/frontend/assets.rst:103
 msgid "Operations"
-msgstr ""
+msgstr "オペレーション"
 
 #: ../../content/developer/reference/backend/orm.rst:1009
 msgid "Recordsets are immutable, but sets of the same model can be combined using various set operations, returning new recordsets."
@@ -11376,7 +11376,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/orm.rst:1038
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:0
 msgid "Filter"
-msgstr ""
+msgstr "フィルター"
 
 #: ../../../odoo/odoo/models.py:docstring of odoo.models.BaseModel.filtered:1
 msgid "Return the records in ``self`` satisfying ``func``."
@@ -11402,7 +11402,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/orm.rst:1045
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3635
 msgid "Map"
-msgstr ""
+msgstr "マップ"
 
 #: ../../../odoo/odoo/models.py:docstring of odoo.models.BaseModel.mapped:1
 msgid "Apply ``func`` on all records in ``self``, and return the result as a list or a recordset (if ``func`` return recordsets). In the latter case, the order of the returned recordset is arbitrary."
@@ -11951,7 +11951,7 @@ msgstr ""
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.name:1
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReportLine.name:1
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ../../content/developer/reference/backend/performance.rst:184
 msgid "Toggle button"
@@ -12020,7 +12020,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/performance.rst:200
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: ../../content/developer/reference/backend/performance.rst:201
 msgid "`traces_sync`"
@@ -12541,7 +12541,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/reports.rst:148
 #: ../../content/developer/tutorials/pdf_reports.rst:299
 msgid "Barcodes"
-msgstr ""
+msgstr "バーコード"
 
 #: ../../content/developer/reference/backend/reports.rst:150
 msgid "Barcodes are images returned by a controller and can easily be embedded in reports thanks to the QWeb syntax (e.g. see :ref:`reference/qweb/attributes`):"
@@ -12658,7 +12658,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/qweb.rst:613
 #: ../../content/developer/reference/frontend/qweb.rst:653
 msgid "Example::"
-msgstr ""
+msgstr "例::"
 
 #: ../../content/developer/reference/backend/reports.rst:238
 msgid "Custom Reports"
@@ -13066,7 +13066,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/security.rst:548
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: ../../content/developer/reference/backend/security.rst:548
 msgid "Data type"
@@ -13083,7 +13083,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/qweb.rst:414
 #: ../../content/developer/tutorials/getting_started/11_constraints.rst:69
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../../content/developer/reference/backend/security.rst:550
 #: ../../content/developer/reference/backend/security.rst:551
@@ -13514,7 +13514,7 @@ msgstr ""
 #: ../../content/developer/reference/backend/testing.rst:248
 #: ../../content/developer/reference/frontend/services.rst:479
 msgid "Examples"
-msgstr ""
+msgstr "例"
 
 #: ../../content/developer/reference/backend/testing.rst:252
 msgid "Tests will be executed only in installed modules. If you're starting from a clean database, you'll need to install the modules with the :option:`-i <odoo-bin -i>` switch at least once. After that it's no longer needed, unless you need to upgrade the module, in which case :option:`-u <odoo-bin -u>` can be used. For simplicity, those switches are not specified in the examples below."
@@ -13730,7 +13730,7 @@ msgstr ""
 
 #: ../../content/developer/reference/backend/testing.rst:516
 msgid "Tips"
-msgstr ""
+msgstr "ヒント"
 
 #: ../../content/developer/reference/backend/testing.rst:518
 msgid "running only one test: you can (temporarily!) change the *QUnit.test(...)* definition into *QUnit.only(...)*.  This is useful to make sure that QUnit only runs this specific test."
@@ -14305,7 +14305,7 @@ msgstr ""
 
 #: ../../content/developer/reference/cli.rst:196
 msgid "Database"
-msgstr ""
+msgstr "データベース"
 
 #: ../../content/developer/reference/cli.rst:200
 msgid "database username, used to connect to PostgreSQL."
@@ -14545,7 +14545,7 @@ msgstr ""
 
 #: ../../content/developer/reference/cli.rst:470
 msgid "Logging"
-msgstr ""
+msgstr "ログ管理"
 
 #: ../../content/developer/reference/cli.rst:472
 msgid "By default, Odoo displays all logging of level_ ``INFO``, ``WARNING`` and ``ERROR``. All logs independently of the level are output on ``stderr``. Various options are available to redirect logging to other destinations and to customize the verbosity."
@@ -14757,7 +14757,7 @@ msgstr ""
 
 #: ../../content/developer/reference/cli.rst:669
 msgid "Shell"
-msgstr ""
+msgstr "シェル"
 
 #: ../../content/developer/reference/cli.rst:671
 msgid "The Odoo command line also allows launching Odoo as a Python console environment, enabling direct interaction with the :ref:`orm <reference/orm>` and its functionalities."
@@ -15010,11 +15010,11 @@ msgstr ""
 
 #: ../../content/developer/reference/external_api.rst:19
 msgid "Connection"
-msgstr ""
+msgstr "接続"
 
 #: ../../content/developer/reference/external_api.rst:22
 msgid "Configuration"
-msgstr ""
+msgstr "設定"
 
 #: ../../content/developer/reference/external_api.rst:24
 msgid "If you already have an Odoo server installed, you can just use its parameters."
@@ -15127,7 +15127,7 @@ msgstr ""
 
 #: ../../content/developer/reference/external_api.rst:214
 msgid "Logging in"
-msgstr ""
+msgstr "ログイン"
 
 #: ../../content/developer/reference/external_api.rst:216
 msgid "Odoo requires users of the API to be authenticated before they can query most data."
@@ -15153,7 +15153,7 @@ msgstr ""
 #: ../../content/developer/reference/external_api.rst:1438
 #: ../../content/developer/tutorials/web.rst:649
 msgid "Result:"
-msgstr ""
+msgstr "結果:"
 
 #: ../../content/developer/reference/external_api.rst:304
 msgid "Calling methods"
@@ -15716,7 +15716,7 @@ msgstr ""
 #: ../../content/developer/reference/extract_api.rst:178
 #: ../../content/developer/reference/extract_api.rst:279
 msgid "``result``"
-msgstr ""
+msgstr "``結果``"
 
 #: ../../content/developer/reference/extract_api.rst:173
 #: ../../content/developer/reference/extract_api.rst:269
@@ -15751,7 +15751,7 @@ msgstr ""
 #: ../../content/developer/reference/extract_api.rst:282
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:244
 msgid "status"
-msgstr ""
+msgstr "状態"
 
 #: ../../content/developer/reference/extract_api.rst:181
 #: ../../content/developer/reference/extract_api.rst:282
@@ -15911,7 +15911,7 @@ msgstr ""
 
 #: ../../content/developer/reference/extract_api.rst:317
 msgid "Common fields"
-msgstr ""
+msgstr "一般的なフィールド"
 
 #: ../../content/developer/reference/extract_api.rst:322
 msgid "``feature_result``"
@@ -15979,7 +15979,7 @@ msgstr ""
 
 #: ../../content/developer/reference/extract_api.rst:379
 msgid "Invoices"
-msgstr ""
+msgstr "請求書"
 
 #: ../../content/developer/reference/extract_api.rst:381
 msgid "Invoices are complex and can have a lot of different fields. The following table gives an exhaustive list of all the fields we can extract from an invoice."
@@ -16188,7 +16188,7 @@ msgstr ""
 
 #: ../../content/developer/reference/extract_api.rst:483
 msgid "Expense"
-msgstr ""
+msgstr "費用"
 
 #: ../../content/developer/reference/extract_api.rst:485
 msgid "The expenses are less complex than invoices. The following table gives an exhaustive list of all the fields we can extract from an expense report."
@@ -16245,7 +16245,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/assets.rst:27
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.code:1
 msgid "Code"
-msgstr ""
+msgstr "コード"
 
 #: ../../content/developer/reference/frontend/assets.rst:22
 msgid "Odoo supports :ref:`three different kinds of javascript files<frontend/js_modules>`. All these files are then processed (native JS modules are transformed into odoo modules), then minified (if not in `debug=assets` :ref:`mode <frontend/framework/assets_debug_mode>`) and concatenated. The result is then saved as a file attachment. These file attachments are usually loaded via a `<script>` tag in the `<head>` part of the page (as a static file)."
@@ -16261,7 +16261,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/assets.rst:42
 msgid "Template"
-msgstr ""
+msgstr "テンプレート"
 
 #: ../../content/developer/reference/frontend/assets.rst:38
 msgid "Templates (static `xml` files) are handled in a different way: they are simply read from the file system whenever they are needed, and concatenated."
@@ -16345,7 +16345,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/assets.rst:146
 msgid "`before`"
-msgstr ""
+msgstr "`前`"
 
 #: ../../content/developer/reference/frontend/assets.rst:148
 msgid "Add one or multiple file(s) before a specific file."
@@ -16357,7 +16357,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/assets.rst:162
 msgid "`after`"
-msgstr ""
+msgstr "`変更後`"
 
 #: ../../content/developer/reference/frontend/assets.rst:164
 msgid "Add one or multiple file(s) after a specific file."
@@ -16393,7 +16393,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/assets.rst:208
 msgid "`replace`"
-msgstr ""
+msgstr "`置換える`"
 
 #: ../../content/developer/reference/frontend/assets.rst:210
 msgid "Replace an asset file with one or multiple file(s)."
@@ -16503,7 +16503,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/13_inheritance.rst:155
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.account_type:1
 msgid "Type"
-msgstr ""
+msgstr "タイプ"
 
 #: ../../content/developer/reference/frontend/assets.rst:300
 msgid "`jsLibs`"
@@ -16559,7 +16559,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/odoo_editor.rst:175
 #: ../../content/developer/reference/frontend/services.rst:468
 msgid "`name`"
-msgstr ""
+msgstr "`名前`"
 
 #: ../../content/developer/reference/frontend/assets.rst:333
 msgid "Name of the asset record (for identification purpose)."
@@ -16664,7 +16664,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/framework_overview.rst:6
 #: ../../content/developer/reference/frontend/mobile.rst:8
 msgid "Introduction"
-msgstr ""
+msgstr "入門"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:8
 msgid "The Odoo Javascript framework is a set of features/building blocks provided by the ``web/`` addon to help build odoo applications running in the browser. At the same time, the Odoo Javascript framework is a single page application, usually known as the *web client* (available at the url ``/web``)."
@@ -16748,7 +16748,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:107
 msgid "Value"
-msgstr ""
+msgstr "数値"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:109
 msgid "required by Owl (contains all templates)"
@@ -16764,7 +16764,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:112
 msgid "`services`"
-msgstr ""
+msgstr "`サービス`"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:113
 msgid "all deployed :ref:`services <frontend/services>` (should usually be accessed with the `useService` hook)"
@@ -16828,7 +16828,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/javascript_reference.rst:822
 #: ../../content/developer/reference/frontend/services.rst:6
 msgid "Services"
-msgstr ""
+msgstr "サービス"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:169
 msgid ":ref:`Services <frontend/services>` are long lived pieces of code that provide a feature. They may be imported by components (with ``useService``) or by other services. Also, they can declare a set of dependencies. In that sense, services are basically a DI (dependency injection) system. For example, the ``notification`` service provides a way to display a notification, or the ``rpc`` service is the proper way to perform a request to the Odoo server."
@@ -16962,7 +16962,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/framework_overview.rst:331
 #: ../../content/developer/reference/frontend/registries.rst:292
 msgid "Example:"
-msgstr ""
+msgstr "例:"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:340
 msgid "The ``py`` javascript code exports 5 functions:"
@@ -17100,7 +17100,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/framework_overview.rst:481
 #: ../../content/developer/reference/frontend/framework_overview.rst:492
 msgid "Domain"
-msgstr ""
+msgstr "ドメイン"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:467
 msgid "Returns a domain representing the intersection of all domains."
@@ -17140,7 +17140,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:519
 msgid "Message"
-msgstr ""
+msgstr "メッセージ"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:520
 msgid "Payload"
@@ -17148,7 +17148,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:521
 msgid "Trigger"
-msgstr ""
+msgstr "トリガー"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:522
 msgid "``ACTION_MANAGER:UI-UPDATED``"
@@ -17293,7 +17293,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:582
 msgid "`Date`"
-msgstr ""
+msgstr "`日付`"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:583
 msgid "`fetch`"
@@ -17301,7 +17301,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:584
 msgid "`history`"
-msgstr ""
+msgstr "`履歴`"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:585
 msgid "`localStorage`"
@@ -17309,7 +17309,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:586
 msgid "`location`"
-msgstr ""
+msgstr "`ロケーション`"
 
 #: ../../content/developer/reference/frontend/framework_overview.rst:587
 msgid "`navigator`"
@@ -17485,7 +17485,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/owl_components.rst:866
 #: ../../content/developer/reference/frontend/owl_components.rst:1044
 msgid "Location"
-msgstr ""
+msgstr "ロケーション"
 
 #: ../../content/developer/reference/frontend/hooks.rst:44
 msgid "`@web/core/assets`"
@@ -17588,7 +17588,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/hooks.rst:232
 msgid "`container`"
-msgstr ""
+msgstr "`コンテナー`"
 
 #: ../../content/developer/reference/frontend/hooks.rst:233
 msgid "HTMLElement"
@@ -17782,7 +17782,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/javascript_modules.rst:193
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3158
 msgid "Limitations"
-msgstr ""
+msgstr "制約"
 
 #: ../../content/developer/reference/frontend/javascript_modules.rst:195
 msgid "For performance reasons, Odoo does not use a full javascript parser to transform native modules. There are, therefore, a number of limitations including but not limited to:"
@@ -18566,7 +18566,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:867
 msgid "Widget"
-msgstr ""
+msgstr "ウィジェット"
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:869
 msgid "The widget is the part that requests a service.  In order to do that, it simply triggers an event *call_service* (typically by using the helper function *call*). This event will bubble up and communicate the intent to the rest of the system."
@@ -18602,7 +18602,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:924
 msgid "Notifications"
-msgstr ""
+msgstr "通知"
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:926
 msgid "The Odoo framework has a standard way to communicate various information to the user: notifications, which are displayed on the top right of the user interface."
@@ -18626,7 +18626,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:942
 msgid "Notification system"
-msgstr ""
+msgstr "通知システム"
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:944
 msgid "The notification system in Odoo is designed with the following components:"
@@ -18954,7 +18954,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1958
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1987
 msgid "Options:"
-msgstr ""
+msgstr "オプション:"
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1268
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1309
@@ -19003,7 +19003,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1807
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1878
 msgid "Attributes:"
-msgstr ""
+msgstr "属性:"
 
 #: ../../content/developer/reference/frontend/javascript_reference.rst:1301
 msgid "`digits`: displayed precision"
@@ -19836,7 +19836,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/mobile.rst:25
 msgid "How does it work?"
-msgstr ""
+msgstr "どのように機能しますか？"
 
 #: ../../content/developer/reference/frontend/mobile.rst:27
 msgid "Internal workings of the mobile application:"
@@ -20082,7 +20082,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/odoo_editor.rst:140
 #: ../../content/developer/reference/frontend/registries.rst:107
 msgid "Category"
-msgstr ""
+msgstr "カテゴリー"
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:151
 msgid "the name of the category"
@@ -20113,7 +20113,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:166
 msgid "Command"
-msgstr ""
+msgstr "コマンド"
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:177
 msgid "the name of the command"
@@ -20121,7 +20121,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:178
 msgid "`category`"
-msgstr ""
+msgstr "`カテゴリー`"
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:180
 msgid "the name of the category the command belongs to"
@@ -20129,7 +20129,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:181
 msgid "`description`"
-msgstr ""
+msgstr "`説明`"
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:183
 msgid "a short text to describe the command"
@@ -20178,7 +20178,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:219
 msgid "`commands`"
-msgstr ""
+msgstr "`コマンド`"
 
 #: ../../content/developer/reference/frontend/odoo_editor.rst:220
 msgid "`array of commands`"
@@ -20514,7 +20514,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/owl_components.rst:324
 #: ../../content/developer/reference/frontend/owl_components.rst:914
 msgid "`value`"
-msgstr ""
+msgstr "`数値`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:325
 #: ../../content/developer/reference/frontend/owl_components.rst:328
@@ -20566,7 +20566,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:362
 msgid "`colors`"
-msgstr ""
+msgstr "`色`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:363
 #: ../../content/developer/reference/frontend/owl_components.rst:732
@@ -20575,7 +20575,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/owl_components.rst:897
 #: ../../content/developer/reference/frontend/owl_components.rst:1075
 msgid "`array`"
-msgstr ""
+msgstr "`配列`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:364
 msgid "list of colors to display in the component. Each color has a unique `id`"
@@ -20643,7 +20643,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:388
 msgid "`Red`"
-msgstr ""
+msgstr "`Red`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:389
 #: ../../content/developer/reference/user_interface/view_architectures.rst:575
@@ -20652,7 +20652,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:390
 msgid "`Orange`"
-msgstr ""
+msgstr "`橙`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:391
 msgid "`3`"
@@ -20660,7 +20660,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:392
 msgid "`Yellow`"
-msgstr ""
+msgstr "`黄`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:393
 msgid "`4`"
@@ -21048,7 +21048,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:731
 msgid "`icons`"
-msgstr ""
+msgstr "`アイコン`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:733
 msgid "optional. List of icons used in the tabs."
@@ -21072,7 +21072,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:740
 msgid "`pages`"
-msgstr ""
+msgstr "`ページ`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:742
 msgid "optional. Contain the list of `page`'s to populate from a template."
@@ -21128,7 +21128,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:847
 msgid "`total`"
-msgstr ""
+msgstr "`合計`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:849
 msgid "Total number of elements the page can reach."
@@ -21340,7 +21340,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/owl_components.rst:1074
 msgid "`tags`"
-msgstr ""
+msgstr "`タグ`"
 
 #: ../../content/developer/reference/frontend/owl_components.rst:1076
 msgid "list of `tag`'s elements given to the component."
@@ -22451,7 +22451,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/registries.rst:50
 msgid "options"
-msgstr ""
+msgstr "オプション"
 
 #: ../../content/developer/reference/frontend/registries.rst:51
 msgid "do not throw if key already exists"
@@ -22515,7 +22515,7 @@ msgstr ""
 #: ../../content/developer/tutorials/discover_js_framework.rst:46
 #: ../../content/developer/tutorials/master_odoo_web_framework.rst:55
 msgid "Content"
-msgstr ""
+msgstr "コンテンツ"
 
 #: ../../content/developer/reference/frontend/registries.rst:109
 msgid ":ref:`effects <frontend/registries/effects>`"
@@ -22682,7 +22682,7 @@ msgstr ""
 #: ../../content/developer/reference/frontend/services.rst:579
 #: ../../content/developer/tutorials/master_odoo_web_framework/01_build_clicker_game.rst:294
 msgid "For example:"
-msgstr ""
+msgstr "例:"
 
 #: ../../content/developer/reference/frontend/registries.rst:259
 msgid "The systray registry is an ordered registry (with the `sequence` number):"
@@ -23193,7 +23193,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/services.rst:443
 msgid "`type`"
-msgstr ""
+msgstr "`タイプ`"
 
 #: ../../content/developer/reference/frontend/services.rst:444
 msgid "`warning` | `danger` | `success` | `info`"
@@ -23225,7 +23225,7 @@ msgstr ""
 
 #: ../../content/developer/reference/frontend/services.rst:455
 msgid "`buttons`"
-msgstr ""
+msgstr "`ボタン`"
 
 #: ../../content/developer/reference/frontend/services.rst:456
 msgid "button[] (see below)"
@@ -23731,12 +23731,12 @@ msgstr ""
 
 #: ../../content/developer/reference/standard_modules/account.rst:5
 msgid "Accounting"
-msgstr ""
+msgstr "会計"
 
 #: ../../content/developer/reference/standard_modules/account/account_account.rst:5
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.account_id:1
 msgid "Account"
-msgstr ""
+msgstr "勘定科目"
 
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount:1
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountGroup:1
@@ -23780,7 +23780,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.name:1
 msgid "Account Name"
-msgstr ""
+msgstr "勘定科目名"
 
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.currency_id:1
 msgid "Account Currency"
@@ -23883,7 +23883,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.tag_ids:1
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 #: ../../../odoo/addons/account/models/account_account.py:docstring of odoo.addons.account.models.account_account.AccountAccount.tag_ids:1
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.tag_ids:1
@@ -23968,11 +23968,11 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures/root_attribute_sample.rst:0
 #: ../../content/developer/reference/user_interface/view_architectures/root_attribute_string.rst:0
 msgid "default"
-msgstr ""
+msgstr "デフォルト"
 
 #: ../../../odoo/addons/account/models/account_account_tag.py:docstring of odoo.addons.account.models.account_account_tag.AccountAccountTag.applicability:1
 msgid "accounts"
-msgstr ""
+msgstr "アカウント"
 
 #: ../../../odoo/addons/account/models/account_account_tag.py:docstring of odoo.addons.account.models.account_account_tag.AccountAccountTag.color:1
 msgid "Color Index"
@@ -23981,7 +23981,7 @@ msgstr ""
 #: ../../../odoo/addons/account/models/account_account_tag.py:docstring of odoo.addons.account.models.account_account_tag.AccountAccountTag.active:1
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTax.active:1
 msgid "Active"
-msgstr ""
+msgstr "有効化"
 
 #: ../../../odoo/addons/account/models/account_account_tag.py:docstring of odoo.addons.account.models.account_account_tag.AccountAccountTag.active:1
 msgid "Set active to false to hide the Account Tag without removing it."
@@ -23999,7 +23999,7 @@ msgstr ""
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.country_id:1
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.country_id:1
 msgid "Country"
-msgstr ""
+msgstr "国"
 
 #: ../../../odoo/addons/account/models/account_account_tag.py:docstring of odoo.addons.account.models.account_account_tag.AccountAccountTag.country_id:1
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.country_id:1
@@ -24026,7 +24026,7 @@ msgstr ""
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTax.sequence:1
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.sequence:1
 msgid "Sequence"
-msgstr ""
+msgstr "シーケンス"
 
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.account_ids:1
 msgid "Account Mapping"
@@ -24046,7 +24046,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.note:1
 msgid "Notes"
-msgstr ""
+msgstr "ノート"
 
 #: ../../../odoo/addons/account/models/partner.py:docstring of odoo.addons.account.models.partner.AccountFiscalPosition.note:1
 msgid "Legal mentions that have to be printed on the invoices."
@@ -24126,11 +24126,11 @@ msgstr ""
 
 #: ../../content/developer/reference/standard_modules/account/account_report.rst:3
 msgid "Report"
-msgstr ""
+msgstr "レポート"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.line_ids:1
 msgid "Lines"
-msgstr ""
+msgstr "行"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.line_ids:1
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReportLine.children_ids:1
@@ -24161,7 +24161,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.availability_condition:1
 msgid "Availability"
-msgstr ""
+msgstr "利用可能"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.availability_condition:1
 msgid "``country``: Country Matches ``coa``: Chart of Accounts Matches ``always``: Always"
@@ -24217,7 +24217,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.filter_journals:1
 msgid "Journals"
-msgstr ""
+msgstr "仕訳帳"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.filter_analytic:1
 msgid "Analytic Filter"
@@ -24233,7 +24233,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.filter_account_type:1
 msgid "Account Types"
-msgstr ""
+msgstr "勘定科目タイプ"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReport.filter_account_type:1
 msgid "``both``: Payable and receivable ``payable``: Payable ``receivable``: Receivable ``disabled``: Disabled"
@@ -24289,7 +24289,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReportLine.action_id:1
 msgid "Action"
-msgstr ""
+msgstr "アクション"
 
 #: ../../../odoo/addons/account/models/account_report.py:docstring of odoo.addons.account.models.account_report.AccountReportLine.action_id:1
 msgid ":ref:`ir.actions.actions <model-ir-actions-actions>`"
@@ -24394,7 +24394,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTax.amount:1
 msgid "Amount"
-msgstr ""
+msgstr "金額"
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTax.amount:1
 msgid "0.0"
@@ -24523,7 +24523,7 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.repartition_type:1
 msgid "tax"
-msgstr ""
+msgstr "税"
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.repartition_type:1
 msgid "Base on which the factor will be applied."
@@ -24543,11 +24543,11 @@ msgstr ""
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.tax_id:1
 msgid "Tax"
-msgstr ""
+msgstr "税"
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.tag_ids:1
 msgid "Tax Grids"
-msgstr ""
+msgstr "税グリッド"
 
 #: ../../../odoo/addons/account/models/account_tax.py:docstring of odoo.addons.account.models.account_tax.AccountTaxRepartitionLine.use_in_tax_closing:1
 msgid "Tax Closing Entry"
@@ -24555,7 +24555,7 @@ msgstr ""
 
 #: ../../content/developer/reference/standard_modules/payment.rst:5
 msgid "Payment"
-msgstr ""
+msgstr "支払"
 
 #: ../../content/developer/reference/standard_modules/payment/payment_method.rst:5
 msgid "Payment Method"
@@ -25471,7 +25471,7 @@ msgstr ""
 
 #: ../../content/developer/reference/upgrade_utils.rst:15
 msgid "Installation"
-msgstr ""
+msgstr "インストール"
 
 #: ../../content/developer/reference/upgrade_utils.rst:17
 msgid "Clone the `Upgrade utils repository <https://github.com/odoo/upgrade-util/>`_ locally and start ``odoo`` with the ``src`` directory prepended to the ``--upgrade-path`` option."
@@ -25654,7 +25654,7 @@ msgstr ""
 #: ../../content/developer/reference/upgrade_utils.rst:151
 #: ../../content/developer/tutorials/unit_tests.rst:167
 msgid "Modules"
-msgstr ""
+msgstr "モジュール"
 
 #: ../../content/developer/reference/upgrade_utils.rst:156
 msgid "Uninstall and remove a module and its references from the database."
@@ -25750,7 +25750,7 @@ msgstr ""
 
 #: ../../content/developer/reference/upgrade_utils.rst:213
 msgid "Records"
-msgstr ""
+msgstr "レコード"
 
 #: ../../content/developer/reference/upgrade_utils.rst:218
 msgid "Return the id corresponding to the given :term:`xml_id <external identifier>`."
@@ -26014,7 +26014,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:72
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:235
 msgid "Form"
-msgstr ""
+msgstr "フォーム"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:63
 msgid "Form views are used to display the data from a single record. They are composed of regular HTML_ with additional semantic and structural components."
@@ -27069,7 +27069,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:902
 msgid "Settings"
-msgstr ""
+msgstr "管理設定"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:904
 msgid "Settings views are a customization of the :ref:`form <reference/view_architectures/form>` view. They are used to display settings in a centralized place. They differ from generic form views in that they have a search bar and a sidebar."
@@ -27188,7 +27188,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:23
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:318
 msgid "List"
-msgstr ""
+msgstr "リスト"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:1146
 msgid "The root element of list views is `tree`\\ [#treehistory]_."
@@ -27440,7 +27440,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:134
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:386
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:1716
 msgid "Search views are different from other view types in that they are not used to display content. Although they apply to a specific model, they are used to filter another view's content (usually aggregated views; e.g., :ref:`reference/view_architectures/list` and :ref:`reference/view_architectures/graph`)."
@@ -27719,7 +27719,7 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2240
 #: ../../content/developer/tutorials/backend.rst:1043
 msgid "Kanban"
-msgstr ""
+msgstr "かんばん"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2242
 msgid "Kanban views are a used as a `kanban board <https://en.wikipedia.org/wiki/Kanban_board>`_ visualisation: they display records as \"cards\", halfway between a :ref:`list <reference/view_architectures/list>` view and a non-editable :ref:`form <reference/view_architectures/form>` view."
@@ -27839,7 +27839,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2509
 msgid "`display`"
-msgstr ""
+msgstr "`表示`"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2514
 msgid "`progressbar`: show progress bars on top of columns"
@@ -28019,7 +28019,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2739
 msgid "Graph"
-msgstr ""
+msgstr "グラフ"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2741
 msgid "The graph view is used to visualize aggregations over a number of records or record groups. Its root element is ``<graph>`` which can take the following attributes:"
@@ -28119,7 +28119,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2809
 msgid "Pivot"
-msgstr ""
+msgstr "ピボット"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2811
 msgid "The pivot view is used to visualize aggregations as a `pivot table`_. Its root element is ``<pivot>`` which can take the following attributes:"
@@ -28209,7 +28209,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2892
 msgid "Calendar"
-msgstr ""
+msgstr "カレンダー"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2894
 msgid "Calendar views display records as events in a daily, weekly, monthly or yearly calendar."
@@ -28254,7 +28254,7 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures.rst:0
 #: ../../content/developer/tutorials/restrict_data_access.rst:158
 msgid "delete"
-msgstr ""
+msgstr "削除"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:2924
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3441
@@ -28424,7 +28424,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3005
 msgid "Activity"
-msgstr ""
+msgstr "活動"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3007
 msgid "The Activity view is used to display the activities linked to the records. The data are displayed in a chart with the records forming the rows and the activity types the columns. The first cell of each row displays a (customizable, see ``templates``, quite similarly to :ref:`reference/view_architectures/kanban`) card representing the corresponding record. When clicking on others cells, a detailed description of all activities of the same type for the record is displayed."
@@ -28496,7 +28496,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3065
 msgid "Cohort"
-msgstr ""
+msgstr "コーホート"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3071
 msgid "The cohort view is used to display and understand the way some data changes over a period of time.  For example, imagine that for a given business, clients can subscribe to some service.  The cohort view can then display the total number of subscriptions each month, and study the rate at which client leave the service (churn). When clicking on a cell, the cohort view will redirect you to a new action in which you will only see the records contained in the cell's time interval; this action contains a list view and a form view."
@@ -28584,7 +28584,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3151
 msgid "Grid"
-msgstr ""
+msgstr "グリッド"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3160
 msgid "This view is a work in progress and may have to be expanded or altered."
@@ -29064,7 +29064,7 @@ msgstr ""
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3411
 #: ../../content/developer/tutorials/backend.rst:971
 msgid "Gantt"
-msgstr ""
+msgstr "ガント"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3417
 msgid "Gantt views appropriately display Gantt charts (for scheduling)."
@@ -29165,7 +29165,7 @@ msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3495
 msgid "``consolidation``"
-msgstr ""
+msgstr "``連結``"
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:3496
 msgid "field name to display consolidation value in record cell"
@@ -30723,7 +30723,7 @@ msgstr ""
 #: ../../content/developer/tutorials/backend.rst:695
 #: ../../content/developer/tutorials/getting_started/09_compute_onchange.rst:59
 msgid "Dependencies"
-msgstr ""
+msgstr "依存関係"
 
 #: ../../content/developer/tutorials/backend.rst:697
 msgid "The value of a computed field usually depends on the values of other fields on the computed record. The ORM expects the developer to specify those dependencies on the compute method with the decorator :func:`~odoo.api.depends`. The given dependencies are used by the ORM to trigger the recomputation of the field whenever some of its dependencies have been modified::"
@@ -30940,7 +30940,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:916
 msgid "Calendar view"
-msgstr ""
+msgstr "カレンダビュー"
 
 #: ../../content/developer/tutorials/backend.rst:918
 msgid "Add a Calendar view to the *Session* model enabling the user to view the events associated to the Open Academy."
@@ -31025,7 +31025,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1013
 msgid "Line"
-msgstr ""
+msgstr "ライン"
 
 #: ../../content/developer/tutorials/backend.rst:1014
 msgid "2-dimensional line chart"
@@ -31033,7 +31033,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1016
 msgid "Pie"
-msgstr ""
+msgstr "円グラフ"
 
 #: ../../content/developer/tutorials/backend.rst:1016
 msgid "2-dimensional pie"
@@ -31057,7 +31057,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1037
 msgid "Graph view"
-msgstr ""
+msgstr "グラフビュー"
 
 #: ../../content/developer/tutorials/backend.rst:1039
 msgid "Add a Graph view in the Session object that displays, for each course, the number of attendees under the form of a bar chart."
@@ -31082,7 +31082,7 @@ msgstr ""
 #: ../../content/developer/tutorials/backend.rst:1057
 #: ../../content/developer/tutorials/getting_started/15_qwebintro.rst:0
 msgid "Kanban view"
-msgstr ""
+msgstr "かんばんビュー"
 
 #: ../../content/developer/tutorials/backend.rst:1059
 msgid "Add a Kanban view that displays sessions grouped by course (columns are thus courses)."
@@ -31090,7 +31090,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1063
 msgid "Security"
-msgstr ""
+msgstr "セキュリティ"
 
 #: ../../content/developer/tutorials/backend.rst:1065
 msgid "Access control mechanisms must be configured to achieve a coherent security policy."
@@ -31106,7 +31106,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1079
 msgid "Access rights"
-msgstr ""
+msgstr "アクセス権"
 
 #: ../../content/developer/tutorials/backend.rst:1081
 msgid "Access rights are defined as records of the model ``ir.model.access``. Each access right is associated to a model, a group (or no group for global access), and a set of permissions: read, write, create, unlink. Such access rights are usually created by a CSV file named after its model: ``ir.model.access.csv``."
@@ -31258,7 +31258,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/backend.rst:1252
 msgid "Reporting"
-msgstr ""
+msgstr "レポーティング"
 
 #: ../../content/developer/tutorials/backend.rst:1255
 msgid "Printed reports"
@@ -31514,7 +31514,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/define_module_data.rst:178
 msgid "New"
-msgstr ""
+msgstr "新規"
 
 #: ../../content/developer/tutorials/define_module_data.rst:178
 msgid "Canceled"
@@ -31658,7 +31658,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/define_module_data.rst:239
 msgid "Partner"
-msgstr ""
+msgstr "取引先"
 
 #: ../../content/developer/tutorials/define_module_data.rst:239
 msgid "Estate"
@@ -31782,7 +31782,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/define_module_data.rst:374
 msgid "Advanced"
-msgstr ""
+msgstr "詳細"
 
 #: ../../content/developer/tutorials/define_module_data.rst:379
 msgid "What is the XML id?"
@@ -33553,7 +33553,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:134
 msgid "Types"
-msgstr ""
+msgstr "タイプ"
 
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:138
 msgid "**Goal**: at the end of this section, several basic fields should have been added to the table ``estate_property``:"
@@ -33577,13 +33577,13 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:190
 msgid "Text"
-msgstr ""
+msgstr "テキスト"
 
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:193
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:194
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:243
 msgid "Float"
-msgstr ""
+msgstr "フロート"
 
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:195
 #: ../../content/developer/tutorials/getting_started/04_basicmodel.rst:196
@@ -34199,7 +34199,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:0
 msgid "List view"
-msgstr ""
+msgstr "ビュー一覧"
 
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:36
 msgid "List views, also called tree views, display records in a tabular form."
@@ -34225,7 +34225,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:379
 #: ../../content/developer/tutorials/getting_started/14_other_module.rst:117
 msgid "Tips:"
-msgstr ""
+msgstr "ヒント:"
 
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:58
 msgid "do not add the ``editable=\"bottom\"`` attribute that you can find in the example above. We'll come back to it later."
@@ -34301,7 +34301,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:0
 msgid "Group By"
-msgstr ""
+msgstr "グループ化"
 
 #: ../../content/developer/tutorials/getting_started/07_basicviews.rst:155
 msgid "Search views are slightly different from the list and form views since they don't display *content*. Although they apply to a specific model, they are used to filter other views' content (generally aggregated views such as :ref:`reference/view_architectures/list`). Beyond the difference in use case, they are defined the same way."
@@ -34486,7 +34486,7 @@ msgstr ""
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:178
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:241
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:76
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:183
@@ -34655,7 +34655,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:243
 msgid "price"
-msgstr ""
+msgstr "価格"
 
 #: ../../content/developer/tutorials/getting_started/08_relations.rst:244
 msgid "no copy"
@@ -35414,7 +35414,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:200
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 #: ../../content/developer/tutorials/getting_started/12_sprinkles.rst:202
 msgid "Both model and view ordering allow flexibility when sorting records, but there is still one case we need to cover: the manual ordering. A user may want to sort records depending on the business logic. For example, in our real estate module we would like to sort the property types manually. It is indeed useful to have the most used types appear at the top of the list. If our real estate agency mainly sells houses, it is more convenient to have 'House' appear before 'Apartment'."
@@ -35915,7 +35915,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/13_inheritance.rst:0
 msgid "Users"
-msgstr ""
+msgstr "ユーザ"
 
 #: ../../content/developer/tutorials/getting_started/13_inheritance.rst:180
 msgid "Instead of modifying existing views in place (by overwriting them), Odoo provides view inheritance where children 'extension' views are applied on top of root views. These extension can both add and remove content from their parent view."
@@ -35983,7 +35983,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/14_other_module.rst:0
 msgid "Invoice creation"
-msgstr ""
+msgstr "請求書作成"
 
 #: ../../content/developer/tutorials/getting_started/14_other_module.rst:27
 msgid "Any time we interact with another module, we need to keep in mind the modularity. If we intend to sell our application to real estate agencies, some may want the invoicing feature but others may not want it."
@@ -36119,7 +36119,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/getting_started/14_other_module.rst:130
 msgid "``quantity``"
-msgstr ""
+msgstr "``数量``"
 
 #: ../../content/developer/tutorials/getting_started/14_other_module.rst:131
 msgid "``price_unit``"
@@ -38337,7 +38337,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/restrict_data_access.rst:479
 msgid "Here are some examples:"
-msgstr ""
+msgstr "下記に例を挙げます:"
 
 #: ../../content/developer/tutorials/restrict_data_access.rst:481
 msgid "Groups on *model fields* (in Python) are a security feature, users outside the group will not be able to retrieve the field, or even know it exists."
@@ -39338,7 +39338,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/web.rst:1076
 msgid "Properties"
-msgstr ""
+msgstr "属性"
 
 #: ../../content/developer/tutorials/web.rst:1078
 msgid "Properties are very similar to normal object attributes in that they allow storing data on a widget instance, however they have the additional feature that they trigger events when set::"
@@ -40032,7 +40032,7 @@ msgstr ""
 
 #: ../../content/developer/tutorials/website.rst:89
 msgid "Templates"
-msgstr ""
+msgstr "テンプレート"
 
 #: ../../content/developer/tutorials/website.rst:91
 msgid "Generating HTML in Python isn't very pleasant."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-30 09:16+0000\n"
-"PO-Revision-Date: 2025-06-21 22:37\n"
+"PO-Revision-Date: 2025-06-22 00:17\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +136,7 @@ msgstr "Odoo ドキュメントの修正と改善を提出してください。�
 
 #: ../../content/contributing.rst:58
 msgid ":doc:`Guide: Contributing to the documentation <contributing/documentation>`"
-msgstr ""
+msgstr ":doc:`Guide: Contributing to the documentation <contributing/documentation>`"
 
 #: ../../content/contributing.rst:59
 msgid "Anyone interested in improving the Odoo documentation"
@@ -213,7 +213,7 @@ msgstr "以下の手順は、コードベースにローカルで変更を加え
 
 #: ../../content/contributing/development.rst:33
 msgid "Go to `github.com/odoo/odoo <https://github.com/odoo/odoo>`_ and click on the :guilabel:`Fork` button in the top right corner to create a fork (:dfn:`your own copy`) of the repository on your account. Do the same with `github.com/odoo/enterprise <https://github.com/odoo/enterprise>`_ if you have access to it. This creates a copy of the codebase to which you can make changes without affecting the main codebase. Skip this step if you work at Odoo."
-msgstr ""
+msgstr "`github.com/odoo/odoo <https://github.com/odoo/odoo>`_ を開き、右上隅にある :guilabel:`Fork` ボタンをクリックすると、あなたのアカウントにリポジトリのフォーク(:dfn:`your own copy` ) が作成されます。 これにより、メインのコードベースに影響を与えずに変更できるコードベースのコピーが作成されます。 もし、Odoo で作業している場合は、この手順をスキップします。"
 
 #: ../../content/contributing/install_git.rst:1
 #: ../../content/contributing/install_git.rst:1
