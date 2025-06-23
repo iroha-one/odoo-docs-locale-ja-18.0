@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 07:10+0000\n"
+"POT-Creation-Date: 2025-06-22 22:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -457,7 +457,7 @@ msgstr ""
 msgid "Upon clicking the :guilabel:`Delete Account` button, a pop-up window appears, requesting confirmation for the account deletion."
 msgstr ""
 
-#: ../../content/administration/odoo_accounts.rst:-1
+#: ../../content/administration/odoo_accounts.rst:None
 msgid "Clicking on the Delete Account button will populate a window verifying the change."
 msgstr ""
 
@@ -553,7 +553,7 @@ msgstr ""
 msgid "All the main database management options are available by clicking the database name, except the upgrade option, which can be accessed by clicking the **arrow in a circle** icon next to the database name. It is only displayed if an upgrade is available."
 msgstr ""
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "Accessing the database management options"
 msgstr ""
 
@@ -694,7 +694,7 @@ msgstr ""
 msgid "Carefully read the warning message and only proceed if the implications of deleting a database are fully understood."
 msgstr ""
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "The warning message displayed before deleting a database"
 msgstr ""
 
@@ -726,7 +726,7 @@ msgstr ""
 msgid "To invite users, fill out the new user's email address and click :guilabel:`Invite`. To add multiple users, click :guilabel:`Add more users`."
 msgstr ""
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "Inviting a user on a database"
 msgstr ""
 
@@ -962,7 +962,7 @@ msgstr ""
 msgid "Finally, *via* the Odoo Shell, you can trigger the piece of code/function/method you want to debug."
 msgstr ""
 
-#: ../../content/administration/odoo_sh/advanced/containers.rst:-1
+#: ../../content/administration/odoo_sh/advanced/containers.rst:None
 msgid "Console screenshot showing ``pdb`` running in an Odoo.sh shell."
 msgstr ""
 
@@ -3176,7 +3176,7 @@ msgstr ""
 msgid "In case of a registration error, the following message should be displayed."
 msgstr ""
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database registration error message"
 msgstr ""
 
@@ -3200,7 +3200,7 @@ msgstr ""
 msgid "Verify that **no databases share the same UUID** (Universally Unique Identifier) by opening your `Odoo Contract <https://accounts.odoo.com/my/subscription>`_. If two or more databases share the same UUID, their name will be displayed."
 msgstr ""
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database UUID error message"
 msgstr ""
 
@@ -3232,7 +3232,7 @@ msgstr ""
 msgid "If you have more users in a local database than provisioned in your Odoo Enterprise subscription, the following message should be displayed."
 msgstr ""
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Too many users on a database error message"
 msgstr ""
 
@@ -3265,7 +3265,7 @@ msgstr ""
 msgid "If your database expires before you renew your subscription, the following message should be displayed."
 msgstr ""
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database expired error message"
 msgstr ""
 
