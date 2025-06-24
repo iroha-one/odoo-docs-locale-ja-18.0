@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 07:10+0000\n"
-"PO-Revision-Date: 2025-06-22 04:46\n"
+"POT-Creation-Date: 2025-06-22 22:44+0000\n"
+"PO-Revision-Date: 2025-06-24 11:31\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "The :guilabel:`360 Feedback` section displays information for all the surveys configured for the **Appraisals** app. To view the surveys and their statistics, navigate to :menuselection:`Appraisals app --> Configuration --> 360 Feedback`."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/360.rst:-1
+#: ../../content/applications/hr/appraisals/360.rst:None
 msgid "A list view of all available surveys in the Appraisals application."
 msgstr ""
 
@@ -117,7 +117,7 @@ msgstr ""
 msgid "Click :guilabel:`Send`, and the feedback requests are sent to the specified employees."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/360.rst:-1
+#: ../../content/applications/hr/appraisals/360.rst:None
 msgid "The email pop-up when requesting feedback from other employees."
 msgstr ""
 
@@ -257,7 +257,7 @@ msgstr ""
 msgid "The report can have other :ref:`filters <search/filters>` and :ref:`groupings <search/group>` set in the search bar at the top."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:-1
+#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:None
 msgid "A report showing all the appraisals for the Appraisal Analysis report."
 msgstr ""
 
@@ -281,7 +281,7 @@ msgstr ""
 msgid "This view shows which appraisals need to be completed, and when, as well as which appraisals still need to be confirmed."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:-1
+#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:None
 msgid "A report showing all the appraisals, grouped by status."
 msgstr ""
 
@@ -309,7 +309,7 @@ msgstr ""
 msgid "Click into the first field, and a pop-over appears with a variety of options. Click the :icon:`fa-chevron-right` :guilabel:`(right arrow)` icon after the word :guilabel:`Employee`, then scroll down and click on :guilabel:`Manager`. Next, set the middle field to :guilabel:`=` :guilabel:`(equal)`. Last, click the third field and select the desired user from the list. When all the fields are set, click :guilabel:`Add`."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:-1
+#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:None
 msgid "A customized filter to show only the user's employees."
 msgstr ""
 
@@ -321,7 +321,7 @@ msgstr ""
 msgid "This report can also be :ref:`grouped by status <appraisals/group-status>`."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:-1
+#: ../../content/applications/hr/appraisals/appraisal_analysis.rst:None
 msgid "A report showing only the appraisals the user is responsible for, by status."
 msgstr ""
 
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Only employees with goals assigned to them appear in the list."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/goals.rst:-1
+#: ../../content/applications/hr/appraisals/goals.rst:None
 msgid "A list of goals for all employees."
 msgstr ""
 
@@ -655,7 +655,7 @@ msgstr ""
 msgid "Some goals can be broken down into steps, which may be input as a checklist. A checklist is a tool the employee may use to mark their progress."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/goals.rst:-1
+#: ../../content/applications/hr/appraisals/goals.rst:None
 msgid "A completed goal created for learning Python."
 msgstr ""
 
@@ -891,7 +891,7 @@ msgstr ""
 msgid "The meeting now appears on the calendar, and the invited parties are informed, via email."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/new_appraisals.rst:-1
+#: ../../content/applications/hr/appraisals/new_appraisals.rst:None
 msgid "The meeting form with all information entered for Ronnie Hart's annual appraisal."
 msgstr ""
 
@@ -1043,7 +1043,7 @@ msgstr ""
 msgid "The :guilabel:`Appraisals Plan` settings determines the frequency that appraisals are scheduled."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/schedule_appraisals.rst:-1
+#: ../../content/applications/hr/appraisals/schedule_appraisals.rst:None
 msgid "The appraisals sections with the timeline filled in and 360 feedback enabled."
 msgstr ""
 
@@ -1119,7 +1119,7 @@ msgstr ""
 msgid "Once the appraisal is confirmed, both the employee and manager can start to fill out the appraisal."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/schedule_appraisals.rst:-1
+#: ../../content/applications/hr/appraisals/schedule_appraisals.rst:None
 msgid "A new appraisal form with the top half filled out."
 msgstr ""
 
@@ -1204,7 +1204,7 @@ msgstr ""
 msgid "This report can be modified to find specific information by adjusting the :ref:`filters <search/filters>` and :ref:`groupings <search/group>` set in the search bar at the top."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/skills_evolution.rst:-1
+#: ../../content/applications/hr/appraisals/skills_evolution.rst:None
 msgid "A report showing all the skills grouped by employee."
 msgstr ""
 
@@ -1240,7 +1240,7 @@ msgstr ""
 msgid "Finally, click the :guilabel:`Add` button."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/skills_evolution.rst:-1
+#: ../../content/applications/hr/appraisals/skills_evolution.rst:None
 #: ../../content/applications/hr/appraisals/skills_evolution.rst:0
 msgid "The Custom Filter pop-up with the parameters set."
 msgstr ""
@@ -1249,7 +1249,7 @@ msgstr ""
 msgid "Now, only employees that have an :guilabel:`Expert` level for the skill :guilabel:`Javascript` appear. In this example, only :guilabel:`Marc Demo` meets these criteria."
 msgstr ""
 
-#: ../../content/applications/hr/appraisals/skills_evolution.rst:-1
+#: ../../content/applications/hr/appraisals/skills_evolution.rst:None
 msgid "The employees with expert Javascript skills."
 msgstr ""
 
@@ -1462,7 +1462,7 @@ msgstr ""
 msgid "The **Attendance** dashboard allows switching between :icon:`fa-tasks` :guilabel:`(Gantt)` and :icon:`oi-view-list` :guilabel:`(List)` views, and selecting a period to analyze. The current period is automatically highlighted in yellow for real-time attendance records, while the :icon:`fa-crosshairs` :guilabel:`(Focus Today)` button instantly returns the dashboard to the present date."
 msgstr ""
 
-#: ../../content/applications/hr/attendances.rst:-1
+#: ../../content/applications/hr/attendances.rst:None
 msgid "The overview dashboard presenting the information for the week, with the current day\n"
 "highlighted."
 msgstr ""
@@ -1657,7 +1657,7 @@ msgstr ""
 msgid ":guilabel:`GPS Coordinates`: the specific coordinates when the user logged in or out. To view the specific coordinates on a map, click the :icon:`oi-arrow-right` :guilabel:`View on Maps` button beneath the :guilabel:`GPS Coordinates`. This opens a map in a new browser tab, with the specific location pointed out."
 msgstr ""
 
-#: ../../content/applications/hr/attendances.rst:-1
+#: ../../content/applications/hr/attendances.rst:None
 msgid "The detailed information for an attendance entry."
 msgstr ""
 
@@ -1745,7 +1745,7 @@ msgstr ""
 msgid "To present different information, adjust the :ref:`filters and groups <attendances/filters-groups>` in the same way as in the :guilabel:`Overview` dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/attendance_reporting.rst:-1
+#: ../../content/applications/hr/attendances/attendance_reporting.rst:None
 msgid "The default report view, with all the optional view buttons highlighted."
 msgstr ""
 
@@ -1829,7 +1829,7 @@ msgstr "チェックイン"
 msgid "If the attendance widget circle is red, this indicates the user is not currently checked in. Click the :icon:`fa-circle` :guilabel:`(red circle)`, and the attendance widget appears, displaying a green :guilabel:`Check in` :icon:`fa-sign-in` button."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/check_in_check_out.rst:-1
+#: ../../content/applications/hr/attendances/check_in_check_out.rst:None
 msgid "Top right main menu with check in button highlighted."
 msgstr ""
 
@@ -1878,7 +1878,7 @@ msgstr ""
 msgid "When the user checks out from the database, the **Attendances** app logs the location details for the user. This information is logged **only** if the user grants permission."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/check_in_check_out.rst:-1
+#: ../../content/applications/hr/attendances/check_in_check_out.rst:None
 msgid "The pop-up that appears when an employee checks in inside the database."
 msgstr ""
 
@@ -1959,7 +1959,7 @@ msgstr ""
 msgid "Badges can be printed for employees using any thermal or inkjet printer."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/hardware.rst:-1
+#: ../../content/applications/hr/attendances/hardware.rst:None
 msgid "A badge for an employee that is created from the Employees app."
 msgstr ""
 
@@ -2111,7 +2111,7 @@ msgstr ""
 msgid "Navigate to the :menuselection:`Attendances app --> Configuration`. In the :guilabel:`Kiosk Settings` section, use the link in the :guilabel:`Attendance Kiosk Url` field to open *Kiosk Mode* on any device."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/kiosks.rst:-1
+#: ../../content/applications/hr/attendances/kiosks.rst:None
 msgid "The Attendances Kiosk URL field in the settings section of the Attendances application."
 msgstr ""
 
@@ -2139,7 +2139,7 @@ msgstr "バッジ"
 msgid "To check in or out using a badge, tap the :icon:`fa-barcode` :guilabel:`Scan your badge` image in the center of the kiosk."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/kiosks.rst:-1
+#: ../../content/applications/hr/attendances/kiosks.rst:None
 msgid "The Attendances Kiosk view displaying the scan badge image."
 msgstr ""
 
@@ -2207,7 +2207,7 @@ msgstr ""
 msgid "Tap in the PIN using the number pad, then tap :guilabel:`OK` when done. The employee is then checked in or out, and a :ref:`confirmation message <attendances/confirmation>` appears."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/kiosks.rst:-1
+#: ../../content/applications/hr/attendances/kiosks.rst:None
 msgid "The pop-up that appears when prompted to enter a pin."
 msgstr ""
 
@@ -2231,7 +2231,7 @@ msgstr ""
 msgid "Beneath both the \"welcome\" and \"goodbye\" messages is an :guilabel:`OK` button. To exit the screen before the preset time in the kiosk, tap the :guilabel:`OK` button."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/kiosks.rst:-1
+#: ../../content/applications/hr/attendances/kiosks.rst:None
 msgid "The goodbye message with all the employee's check out information."
 msgstr ""
 
@@ -2287,7 +2287,7 @@ msgstr ""
 msgid ":guilabel:`Overtime Status`: the status of the attendance record. All attendance records that appear on this dashboard have a status of :guilabel:`To Approve`."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/management.rst:-1
+#: ../../content/applications/hr/attendances/management.rst:None
 msgid "The Attendances app Management dashboard, displaying entries needing approval."
 msgstr ""
 
@@ -2327,7 +2327,7 @@ msgstr ""
 msgid "Once overtime hours are partially approved, the status changes to :guilabel:`Approved`."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/management.rst:-1
+#: ../../content/applications/hr/attendances/management.rst:None
 msgid "A detailed attendance record."
 msgstr ""
 
@@ -2395,7 +2395,7 @@ msgstr ""
 msgid "Once :guilabel:`Extra Hours` are added, they are automatically approved by the system. However, it is possible to manually refuse them, as explained in the :ref:`Approvals and Refusals <attendances/approve-refuse>` section."
 msgstr ""
 
-#: ../../content/applications/hr/attendances/management.rst:-1
+#: ../../content/applications/hr/attendances/management.rst:None
 msgid "An Attendances app record form, filled out for Doris Cole for April 23, 2025."
 msgstr ""
 
@@ -2411,7 +2411,7 @@ msgstr ""
 
 #: ../../content/applications/hr/employees.rst:53
 #: ../../content/applications/hr/fleet/new_vehicle.rst:16
-#: ../../content/applications/hr/lunch.rst:15
+#: ../../content/applications/hr/lunch.rst:19
 #: ../../content/applications/hr/payroll.rst:15
 #: ../../content/applications/hr/recruitment.rst:34
 msgid "Settings"
@@ -2513,7 +2513,7 @@ msgstr ""
 msgid "Each badge has a :guilabel:`Grant` button to :ref:`award the badge <employees/grant_badge>` from the :guilabel:`Badges` dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/employees/badges.rst:-1
+#: ../../content/applications/hr/employees/badges.rst:None
 msgid "All the available badges, on the Badges dashboard."
 msgstr ""
 
@@ -2573,7 +2573,7 @@ msgstr ""
 msgid "Users cannot grant themselves badges. An error message appears if attempted."
 msgstr ""
 
-#: ../../content/applications/hr/employees/badges.rst:-1
+#: ../../content/applications/hr/employees/badges.rst:None
 msgid "The 'Reward Employee' field populated."
 msgstr ""
 
@@ -2629,7 +2629,7 @@ msgstr ""
 msgid "The entries are also color-coded. Current certifications that are still valid appear in black, expired certifications appear in red, and certifications that are going to expire within the next 90 days appear in orange."
 msgstr ""
 
-#: ../../content/applications/hr/employees/certifications.rst:-1
+#: ../../content/applications/hr/employees/certifications.rst:None
 msgid "The list of employee certifications."
 msgstr ""
 
@@ -2657,7 +2657,7 @@ msgstr ""
 msgid "Filter certifications by expiration status to identify certifications expiring soon, and identify employees who must renew."
 msgstr ""
 
-#: ../../content/applications/hr/employees/certifications.rst:-1
+#: ../../content/applications/hr/employees/certifications.rst:None
 msgid "The list of employee certifications, grouped by status."
 msgstr ""
 
@@ -2729,7 +2729,7 @@ msgstr ""
 msgid ":guilabel:`Duration`: Click into the first field, and a calendar pop-over window appears. Click on the start and end dates for the certification validity period. When the correct dates are selected, click :icon:`fa-check` :guilabel:`Apply`, and both fields are populated."
 msgstr ""
 
-#: ../../content/applications/hr/employees/certifications.rst:-1
+#: ../../content/applications/hr/employees/certifications.rst:None
 msgid "A certification form filled out for an OSHA certificate for construction."
 msgstr ""
 
@@ -2793,7 +2793,7 @@ msgstr ""
 msgid "After the form is completed, click the :icon:`fa-cloud-upload` :guilabel:`(cloud upload)` icon to manually save the changes. When saved, a :guilabel:`DEPARTMENT ORGANIZATION` chart appears in the top-right of the department card, illustrating where the department lies in the organization."
 msgstr ""
 
-#: ../../content/applications/hr/employees/departments.rst:-1
+#: ../../content/applications/hr/employees/departments.rst:None
 msgid "The department for with all fields filled out."
 msgstr ""
 
@@ -2817,7 +2817,7 @@ msgstr ""
 msgid "The default view for the :guilabel:`Departments` dashboard is a :ref:`Kanban view <employees/department-kanban>`. It is possible to view the departments in two other forms: a :ref:`list view <employees/department-list>` and a :ref:`hierarchy view <employees/department-hierarchy>`."
 msgstr ""
 
-#: ../../content/applications/hr/employees/departments.rst:-1
+#: ../../content/applications/hr/employees/departments.rst:None
 msgid "The departments dashboard view with all the department cards in a Kanban view."
 msgstr ""
 
@@ -2891,7 +2891,7 @@ msgstr ""
 msgid "The departments are sorted alphabetically by :guilabel:`Department Name`, by default."
 msgstr ""
 
-#: ../../content/applications/hr/employees/departments.rst:-1
+#: ../../content/applications/hr/employees/departments.rst:None
 msgid "The departments presented in a list view."
 msgstr ""
 
@@ -2915,7 +2915,7 @@ msgstr ""
 msgid "Click anywhere on a department card to open the department form. Click the :guilabel:`(#) Employees` smart button to view a list of all the employees in that department."
 msgstr ""
 
-#: ../../content/applications/hr/employees/departments.rst:-1
+#: ../../content/applications/hr/employees/departments.rst:None
 msgid "The departments presented in a hierarchy view."
 msgstr ""
 
@@ -2951,7 +2951,7 @@ msgstr ""
 msgid "Each Kanban card displays the equipment's name and model on the first line, followed by the serial number (if available), and lastly, the employee's name. Any current maintenance requests appear at the bottom of the card in a red box."
 msgstr ""
 
-#: ../../content/applications/hr/employees/equipment.rst:-1
+#: ../../content/applications/hr/employees/equipment.rst:None
 msgid "A Kanban view of all equipment for an employee."
 msgstr ""
 
@@ -2983,7 +2983,7 @@ msgstr ""
 msgid "In the Kanban view displaying all employee equipment records, equipment can be reassigned by clicking and dragging an equipment card to the desired employee. This changes ownership of the equipment."
 msgstr ""
 
-#: ../../content/applications/hr/employees/equipment.rst:-1
+#: ../../content/applications/hr/employees/equipment.rst:None
 msgid "A Kanban view of all equipment for all employees."
 msgstr ""
 
@@ -3039,7 +3039,7 @@ msgstr ""
 msgid "Proceed to fill out the required information, along with any additional details."
 msgstr ""
 
-#: ../../content/applications/hr/employees/new_employee.rst:-1
+#: ../../content/applications/hr/employees/new_employee.rst:None
 msgid "Create a new employee form with all fields filled out."
 msgstr ""
 
@@ -3170,7 +3170,7 @@ msgstr ""
 msgid "Once all the information is entered, click the :guilabel:`Save & Close` button if there is only one entry to add, or click the :guilabel:`Save & New` button to save the current entry and create another resumé line."
 msgstr ""
 
-#: ../../content/applications/hr/employees/new_employee.rst:-1
+#: ../../content/applications/hr/employees/new_employee.rst:None
 msgid "A resumé entry form with all the information populated."
 msgstr ""
 
@@ -3218,7 +3218,7 @@ msgstr ""
 msgid "At any point, a new line can be added by clicking the :guilabel:`ADD` button next to the corresponding section."
 msgstr ""
 
-#: ../../content/applications/hr/employees/new_employee.rst:-1
+#: ../../content/applications/hr/employees/new_employee.rst:None
 msgid "A skill form with the information filled out."
 msgstr ""
 
@@ -3818,7 +3818,7 @@ msgstr ""
 msgid ":guilabel:`Take Back HR Materials`: The manager must obtain any documents and materials the HR department requires. It is recommended to check with the HR department to ensure everything required for this step is completed."
 msgstr ""
 
-#: ../../content/applications/hr/employees/offboarding.rst:-1
+#: ../../content/applications/hr/employees/offboarding.rst:None
 msgid "The three default steps in the Offboarding plan."
 msgstr ""
 
@@ -3941,7 +3941,7 @@ msgstr ""
 msgid "After an employee has given notice (typically two weeks) or once the company has decided to terminate the working relationship with the employee, the offboarding plan should be launched. Navigate to the :menuselection:`Employees app` and click on the departing employee profile. Click the :guilabel:`Launch Plan` button, and a blank :guilabel:`Launch Plan` pop-up window loads."
 msgstr ""
 
-#: ../../content/applications/hr/employees/offboarding.rst:-1
+#: ../../content/applications/hr/employees/offboarding.rst:None
 msgid "The Launch Plan button on the employee profile."
 msgstr ""
 
@@ -4039,7 +4039,7 @@ msgstr ""
 msgid "When the form is complete, click :guilabel:`Apply`. The employee record is archived, an email with a download link to their personal documents is sent to the employee's private email address (if selected), and a red :guilabel:`Archived` banner appears in the top-right corner of the employee form. The chatter logs the :guilabel:`Departure Date` and :guilabel:`Departure Reason`, and if an access link was emailed."
 msgstr ""
 
-#: ../../content/applications/hr/employees/offboarding.rst:-1
+#: ../../content/applications/hr/employees/offboarding.rst:None
 msgid "The employee termination form with all fields filled out."
 msgstr ""
 
@@ -4220,7 +4220,7 @@ msgstr ""
 msgid ":guilabel:`Training`: the new employee must complete the training planned by the manager."
 msgstr ""
 
-#: ../../content/applications/hr/employees/onboarding.rst:-1
+#: ../../content/applications/hr/employees/onboarding.rst:None
 msgid "The three default steps in the Onboarding plan."
 msgstr ""
 
@@ -4296,7 +4296,7 @@ msgstr ""
 msgid "If any activity assignments were configured to :guilabel:`Ask at launch`, an :guilabel:`Assigned to` field appears on the :guilabel:`Launch Plan` pop-up window. Using the drop-down menu, select the user responsible for all the unassigned activities."
 msgstr ""
 
-#: ../../content/applications/hr/employees/onboarding.rst:-1
+#: ../../content/applications/hr/employees/onboarding.rst:None
 msgid "All onboarding tasks scheduled in the chatter."
 msgstr ""
 
@@ -4312,7 +4312,7 @@ msgstr ""
 msgid "First, navigate to :menuselection:`Employees app --> Reporting --> Contracts` to open the :guilabel:`Employee Analysis` report. This report shows the number of all employees for the :guilabel:`Last 365 Days`, in a default :icon:`fa-line-chart` :guilabel:`Line Chart`."
 msgstr ""
 
-#: ../../content/applications/hr/employees/retention_report.rst:-1
+#: ../../content/applications/hr/employees/retention_report.rst:None
 msgid "The default Employees Analysis report."
 msgstr ""
 
@@ -4328,7 +4328,7 @@ msgstr ""
 msgid "The various employees, organized by department, populate the rows. The columns display the following totals: the monthly :guilabel:`Wage`, the :guilabel:`Fuel Card` budget, total :guilabel:`Annual Employee Budget` (also referred to as the *annual salary*), the number of :guilabel:`New Employees`, as well as the number of :guilabel:`Departure Employees` (employees who left)."
 msgstr ""
 
-#: ../../content/applications/hr/employees/retention_report.rst:-1
+#: ../../content/applications/hr/employees/retention_report.rst:None
 msgid "The Employees Analysis report, modified to show departed employees only."
 msgstr ""
 
@@ -4508,7 +4508,7 @@ msgstr ""
 msgid "Once a file is added to a service record, a :guilabel:`Files` section appears in the *chatter*. To attach more records, click :icon:`fa-plus-square` :guilabel:`Attach files` to add more documents."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "Enter the information for an accident repair."
 msgstr ""
 
@@ -4565,7 +4565,7 @@ msgstr ""
 msgid "Open the main *Services* dashboard, by navigating to :menuselection:`Fleet app --> Fleet --> Services`. Next, click on the individual service record to open the detailed service form. Click the desired stage in the top-right corner, above the service form, to change the status."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "The stages as seen from the service form."
 msgstr ""
 
@@ -4581,7 +4581,7 @@ msgstr ""
 msgid "Drag-and-drop the service record to the desired stage."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "The Kanban view of stages, with a card being dragged and dropped to the Running stage."
 msgstr ""
 
@@ -4645,7 +4645,7 @@ msgstr ""
 msgid "This displays the true cost for each vehicle, including both the contract cost (such as the monthly vehicle lease cost) and all service costs, including all accidents. Hover over a column to reveal a data popover window, which displays the vehicle name and the total cost. This allows for a more complete view of the vehicle cost."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "The Cost Analysis report, displaying total costs by vehicle."
 msgstr ""
 
@@ -4653,7 +4653,7 @@ msgstr ""
 msgid "To view the individual cost details for both contract costs and repairs, click the :icon:`oi-view-pivot` :guilabel:`(Pivot)` icon in the top-right corner of the :guilabel:`Cost Analysis` dashboard. This displays each vehicle on a separate line, and displays the :guilabel:`Contract` cost and :guilabel:`Service` cost, as well as the :guilabel:`Total` cost."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "The Cost Analysis report, displaying the contract and service costs separately, as well as\n"
 "the total."
 msgstr ""
@@ -4702,7 +4702,7 @@ msgstr ""
 msgid "Click the :guilabel:`Add` button at the bottom to add the new custom filter."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/accidents.rst:-1
+#: ../../content/applications/hr/fleet/accidents.rst:None
 msgid "The filter settings to be added to only display new and running services."
 msgstr ""
 
@@ -4738,7 +4738,7 @@ msgstr ""
 msgid "Manufacturers re listed alphabetically, and each card shows how many specific :ref:`models <fleet/models>` are configured for each particular manufacturer."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/models.rst:-1
+#: ../../content/applications/hr/fleet/models.rst:None
 msgid "Manufacturer card with the amount of models listed."
 msgstr ""
 
@@ -4919,7 +4919,7 @@ msgstr ""
 msgid "If a vendor is *not* already in the database, add a vendor by clicking :guilabel:`New` in the bottom-left of the :guilabel:`Add: Vendors` pop-up window. In the :guilabel:`Create Vendors` form that appears, enter the necessary information, then click :guilabel:`Save & Close` to add the vendor, or click :guilabel:`Save & New` to add the current vendor and create another new vendor."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/models.rst:-1
+#: ../../content/applications/hr/fleet/models.rst:None
 msgid "Vendor form to fill out when adding a new vendor."
 msgstr ""
 
@@ -4995,7 +4995,7 @@ msgstr "終了日契約アラート"
 msgid "The :guilabel:`End Date Contract Alert` field shows how many days before the end of a vehicle contract an alert should be sent. The :ref:`responsible parties <fleet/responsible>` receive an email informing them that a vehicle contract is about to expire in the number of days defined in this field."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/new_vehicle.rst:-1
+#: ../../content/applications/hr/fleet/new_vehicle.rst:None
 msgid "Settings available for the Fleet application."
 msgstr ""
 
@@ -5055,7 +5055,7 @@ msgstr ""
 msgid ":guilabel:`Tags`: Select any tags from the drop-down menu, or type in a new tag. There is no limit on the amount of tags that can be selected."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/new_vehicle.rst:-1
+#: ../../content/applications/hr/fleet/new_vehicle.rst:None
 msgid "The new vehicle form, showing the model section."
 msgstr ""
 
@@ -5171,9 +5171,9 @@ msgstr ""
 msgid ":guilabel:`Location`: Type in the specific location where the vehicle is typically located in this field. The entry should clearly explain where the vehicle can be found, such as `Main Garage` or `Building 2 Parking Lot`. This is crucial information for companies with many locations where vehicles are stored."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/new_vehicle.rst:-1
-#: ../../content/applications/hr/fleet/new_vehicle.rst:-1
-#: ../../content/applications/hr/fleet/new_vehicle.rst:-1
+#: ../../content/applications/hr/fleet/new_vehicle.rst:None
+#: ../../content/applications/hr/fleet/new_vehicle.rst:None
+#: ../../content/applications/hr/fleet/new_vehicle.rst:None
 msgid "The new vehicle form, showing the vehicle tax section."
 msgstr ""
 
@@ -5333,7 +5333,7 @@ msgstr ""
 msgid ":guilabel:`NOTES`: Enter any notes for the repair at the bottom of the service form. For example, this can include estimate details or parts being replaced."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/service.rst:-1
+#: ../../content/applications/hr/fleet/service.rst:None
 msgid "Enter the information for a new service. The required fields are Service Type and Vehicle."
 msgstr ""
 
@@ -5437,7 +5437,7 @@ msgstr ""
 msgid "At the bottom of the :guilabel:`Cost` column, the total cost of all services and repairs are listed."
 msgstr ""
 
-#: ../../content/applications/hr/fleet/service.rst:-1
+#: ../../content/applications/hr/fleet/service.rst:None
 msgid "The full list of services in the Odoo database."
 msgstr ""
 
@@ -5591,7 +5591,7 @@ msgstr ""
 msgid "An example of how that might appear in a **Discuss** message is: `Main Lobby Check-In: John Doe (555-555-5555) (Odoo, Inc.) to meet Marc Demo.`"
 msgstr ""
 
-#: ../../content/applications/hr/frontdesk.rst:-1
+#: ../../content/applications/hr/frontdesk.rst:None
 msgid "Frontdesk station form with all the information filled out."
 msgstr ""
 
@@ -5646,7 +5646,7 @@ msgstr ""
 msgid "The image selected now appears in the picture field, and is set as the image for the drink."
 msgstr ""
 
-#: ../../content/applications/hr/frontdesk.rst:-1
+#: ../../content/applications/hr/frontdesk.rst:None
 msgid "Drink form with the information filled out for an espresso."
 msgstr ""
 
@@ -5813,7 +5813,7 @@ msgstr ""
 msgid "The PDF badge can be printed onto adhesive labels for the visitor to wear, or onto paper that can be placed into a plastic badge holder."
 msgstr ""
 
-#: ../../content/applications/hr/frontdesk/visitors.rst:-1
+#: ../../content/applications/hr/frontdesk/visitors.rst:None
 msgid "The full list of currently checked in visitors, with the drinks to be served highlighted."
 msgstr ""
 
@@ -5950,50 +5950,50 @@ msgid "Lunch"
 msgstr "ランチ"
 
 #: ../../content/applications/hr/lunch.rst:7
-msgid "The *Lunch* application in Odoo allows users a convenient way to order food and pay for their meal directly from the database."
+msgid "The **Lunch** application in Odoo allows users to conveniently order food and pay for their meal directly from the database."
 msgstr ""
 
 #: ../../content/applications/hr/lunch.rst:10
-msgid "Before employees can use the *Lunch* application, there are a number of configurations to consider: settings, vendors, locations, products, product categories, and alerts. Once these are created, employees can view offerings and order food."
+msgid "Before employees can use the **Lunch** application, there are a number of configurations that need to be made: :ref:`settings <lunch/settings>`, :doc:`vendors <lunch/vendors>`, :ref:`locations <lunch/locations>`, :doc:`products <lunch/products>`, and :ref:`product categories <lunch/product-categories>`. Once these are created and configured, employees can view offerings and order food."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:17
-msgid "Only two settings are needed to configure in the *Lunch* app: overdraft settings and notifications. To access the settings, navigate to :menuselection:`Lunch app --> Configuration: Settings`."
+#: ../../content/applications/hr/lunch.rst:21
+msgid "In the :guilabel:`Settings` menu, only two items need to be configured: overdraft settings and notifications. To access the settings, navigate to :menuselection:`Lunch app --> Configuration --> Settings`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:20
+#: ../../content/applications/hr/lunch.rst:25
 msgid "Configure the following:"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:22
+#: ../../content/applications/hr/lunch.rst:27
 msgid ":guilabel:`Lunch Overdraft`: enter the maximum overdraft amount for employees. The currency format is determined by the localization setting of the company."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:24
-msgid ":guilabel:`Reception notification`: set the message users receive via the *Discuss* app when their food has been delivered. The default message `Your lunch has been delivered. Enjoy your meal!` populates this field, but can be modified, if desired."
-msgstr ""
-
 #: ../../content/applications/hr/lunch.rst:29
-msgid "If in a database with multiple languages installed, many forms in the *Lunch* application have the option of entering translations for various fields."
+msgid ":guilabel:`Reception notification`: set the message users receive via the **Discuss** app when their food has been delivered. The default message `Your lunch has been delivered. Enjoy your meal!` populates this field, but can be modified, if desired."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:32
+#: ../../content/applications/hr/lunch.rst:34
+msgid "If a database has multiple languages installed, many forms in the **Lunch** application have the option of entering translations for various fields."
+msgstr ""
+
+#: ../../content/applications/hr/lunch.rst:37
 msgid "If translations are available to be configured, a language code appears next to a translatable field on a form. To add translations for that field, click the two letter language code (for example, :guilabel:`EN` for English) and a translation pop-up window appears."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:36
+#: ../../content/applications/hr/lunch.rst:41
 msgid "The following is an example for the :guilabel:`Reception notification` field in the settings menu:"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:39
-msgid "Navigate to :menuselection:`Lunch app --> Configuration: Settings`. Click the :guilabel:`EN` In the top-right of the text box beneath the :guilabel:`Reception notification` section. A :guilabel:`Translate: company_lunch_notify_message` pop-up window loads with the option to enter a translation for the other languages used by the database."
+#: ../../content/applications/hr/lunch.rst:44
+msgid "Navigate to :menuselection:`Lunch app --> Configuration --> Settings`. Click the :guilabel:`EN` In the top-right of the text box beneath the :guilabel:`Reception notification` section. A :guilabel:`Translate: company_lunch_notify_message` pop-up window loads with the option to enter a translation for the other languages used by the database."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:44
+#: ../../content/applications/hr/lunch.rst:49
 msgid "The first column lists the different languages in alphabetical order, with the currently selected language in bold. The second column has the currently configured message in each column. The last column in the far-right provides a text box to type in a translation for each language."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:48
+#: ../../content/applications/hr/lunch.rst:53
 msgid "Enter the text that should appear for each language, then click :guilabel:`Save`."
 msgstr ""
 
@@ -6002,101 +6002,101 @@ msgid "The translation text box, with the current language highlighted, and the 
 "translation field highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:56
+#: ../../content/applications/hr/lunch.rst:62
 msgid "Locations"
 msgstr "ロケーション"
 
-#: ../../content/applications/hr/lunch.rst:58
-msgid "By default, Odoo creates an `HQ Office` location when the *Lunch* application is installed. If a company has more than one location, they must be configured."
+#: ../../content/applications/hr/lunch.rst:64
+msgid "By default, Odoo creates an `HQ Office` location when the **Lunch** application is installed. If a company has more than one location, they must be configured."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:61
-msgid "To add a location, navigate to :menuselection:`Lunch app --> Configuration: Locations`. The currently configured locations appear in a list view. Click the :guilabel:`New` button in the top-left corner and a blank line appears beneath the last location in the list."
+#: ../../content/applications/hr/lunch.rst:67
+msgid "To add a location, navigate to :menuselection:`Lunch app --> Configuration --> Locations`. The currently configured locations appear in a list view. Click the :guilabel:`New` button in the top-left corner and a blank line appears beneath the last location in the list."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:65
+#: ../../content/applications/hr/lunch.rst:71
 msgid "Enter the name of the location in the field. Next, click into the :guilabel:`Address` field to the right of the name, and enter the location's address. It is possible to enter multiple lines in the address field."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:69
+#: ../../content/applications/hr/lunch.rst:75
 msgid "Repeat this for all locations that need to be added."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:-1
+#: ../../content/applications/hr/lunch.rst:None
 msgid "A list view of the locations with the new button highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:76
+#: ../../content/applications/hr/lunch.rst:81
 #: ../../content/applications/hr/referrals/alerts.rst:3
 msgid "Alerts"
 msgstr "アラート"
 
-#: ../../content/applications/hr/lunch.rst:78
-msgid "It is possible to set up alerts that can either be displayed in the *Lunch* app, or be sent to specific employees via the *Discuss* app."
+#: ../../content/applications/hr/lunch.rst:83
+msgid "It is possible to set up alerts that can either be displayed in the **Lunch** app, or be sent to specific employees via the **Discuss** app."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:81
-msgid "No alerts are pre-configured by default. To set up an alert, navigate to :menuselection:`Lunch app --> Configuration: Alerts`. Click the :guilabel:`New` button in the top-left corner and a blank lunch alert form loads. Enter the following information on the form:"
-msgstr ""
-
-#: ../../content/applications/hr/lunch.rst:85
-msgid ":guilabel:`Alert Name`: enter a name for the alert. This should be short and descriptive, such as `New Lunch Vendor` or `Order by 11`. This field is **required**."
-msgstr ""
-
-#: ../../content/applications/hr/lunch.rst:87
-msgid ":guilabel:`Display`: select whether the alert is visible in the *Lunch* app (:guilabel:`Alert in app)` or sent to employees via the *Discuss* app in a chat window (:guilabel:`Chat notification`)."
+#: ../../content/applications/hr/lunch.rst:86
+msgid "No alerts are preconfigured by default. To set up an alert, navigate to :menuselection:`Lunch app --> Configuration --> Alerts`. Click the :guilabel:`New` button in the top-left corner and a blank lunch alert form loads. Enter the following information on the form:"
 msgstr ""
 
 #: ../../content/applications/hr/lunch.rst:90
+msgid ":guilabel:`Alert Name`: enter a name for the alert. This should be short and descriptive, such as `New Lunch Vendor` or `Order by 11:00 AM`. This field is **required**."
+msgstr ""
+
+#: ../../content/applications/hr/lunch.rst:92
+msgid ":guilabel:`Display`: select whether the alert is visible in the **Lunch** app (:guilabel:`Alert in app)` or sent to employees via the **Discuss** app in a chat window (:guilabel:`Chat notification`)."
+msgstr ""
+
+#: ../../content/applications/hr/lunch.rst:96
 msgid ":guilabel:`Recipients`: this field only appears if :guilabel:`Chat notification` is selected for the :guilabel:`Display` option. Select who receives the chat alert. The options are: :guilabel:`Everyone`, :guilabel:`Employee who ordered last week`, :guilabel:`Employee who ordered last month`, or :guilabel:`Employee who ordered last year`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:95
+#: ../../content/applications/hr/lunch.rst:101
 msgid ":guilabel:`Location`: select the locations the alert should appear for from the drop-down menu. Multiple locations can be selected. This field is **required**, therefore, if the alert applies to all locations, select all the locations from the drop-down menu."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:98
+#: ../../content/applications/hr/lunch.rst:104
 msgid ":guilabel:`Show Until`: if the alert should expire on a specific date, select the date from the calendar picker."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:100
+#: ../../content/applications/hr/lunch.rst:106
 msgid ":guilabel:`Active`: this option is on (appears green) by default. To turn off the alert, click the toggle so that it no longer appears green."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:102
+#: ../../content/applications/hr/lunch.rst:108
 msgid ":guilabel:`Message`: Enter the alert message in this field. This field is **required**."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:103
+#: ../../content/applications/hr/lunch.rst:109
 msgid ":guilabel:`Notification Time`: select the days of the week the alert should be sent. By default, all seven days are active. Click on a checkbox to change the setting from active to inactive."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:106
+#: ../../content/applications/hr/lunch.rst:112
 msgid "If :guilabel:`Chat notification` was selected for the :guilabel:`Display` option, a :guilabel:`Time` field also appears. Enter the time the chat message should be sent. Next, select if the time is either :guilabel:`AM` or :guilabel:`PM` using the drop-down menu to the right of the :guilabel:`Time` field."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:-1
+#: ../../content/applications/hr/lunch.rst:None
 msgid "An alert form with all of the information filled out for a chat alert sent at 10:30 AM,\n"
 "asking employees to submit orders by 11:30 AM."
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:117
+#: ../../content/applications/hr/lunch.rst:122
 msgid ":doc:`lunch/vendors`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:118
+#: ../../content/applications/hr/lunch.rst:123
 msgid ":doc:`lunch/products`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:119
+#: ../../content/applications/hr/lunch.rst:124
 msgid ":doc:`lunch/orders`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:120
+#: ../../content/applications/hr/lunch.rst:125
 msgid ":doc:`lunch/user-accounts`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch.rst:121
+#: ../../content/applications/hr/lunch.rst:126
 msgid ":doc:`lunch/management`"
 msgstr ""
 
@@ -6105,7 +6105,7 @@ msgid "Lunch management"
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:5
-msgid "In Odoo's *Lunch* application, it is required to have someone manage the orders, vendors, and products. In addition, someone must be responsible for the orders, and notifying employees when their orders have arrived. This can be the same person."
+msgid "In Odoo's **Lunch** application, it is required to have someone manage the orders, vendors, and products. In addition, someone must be responsible for the orders, and notifying employees when their orders have arrived. This can be the same person."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:9
@@ -6113,7 +6113,7 @@ msgid "Orders can be :ref:`cancelled <lunch/cancel>`, :ref:`sent to the vendor <
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:14
-msgid "To manage the *Lunch* app, users need the appropriate :guilabel:`Administrator` rights. These can be set by navigating to the :menuselection:`Settings app` and selecting :guilabel:`Manage Users`. Then, click on the desired user to view their access rights."
+msgid "To manage the **Lunch** app, users need the appropriate :guilabel:`Administrator` rights. These can be set by navigating to the :menuselection:`Settings app` and selecting :guilabel:`Manage Users`. Then, click on the desired user to view their access rights."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:18
@@ -6121,7 +6121,7 @@ msgid "For more information on access rights, refer to the :doc:`Access rights <
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:22
-msgid "Only users with administration rights are able to view the :guilabel:`Manager` and :guilabel:`Configuration` menus in the *Lunch* application."
+msgid "Only users with administration rights are able to view the :guilabel:`Manager` and :guilabel:`Configuration` menus in the **Lunch** application."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:28
@@ -6133,198 +6133,198 @@ msgid "To view and manage the orders for the day, navigate to :menuselection:`Lu
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:35
-#: ../../content/applications/hr/lunch/management.rst:160
+#: ../../content/applications/hr/lunch/management.rst:157
 msgid "The following information appears in the list:"
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:37
-#: ../../content/applications/hr/lunch/management.rst:162
+#: ../../content/applications/hr/lunch/management.rst:159
 msgid ":guilabel:`Order Date`: the date the order was placed."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:38
-#: ../../content/applications/hr/lunch/management.rst:163
+#: ../../content/applications/hr/lunch/management.rst:160
 msgid ":guilabel:`Vendor`: the vendor the product is being ordered from."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:39
-#: ../../content/applications/hr/lunch/management.rst:164
+#: ../../content/applications/hr/lunch/management.rst:161
 msgid ":guilabel:`Product`: the specific product ordered."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:40
-#: ../../content/applications/hr/lunch/management.rst:165
+#: ../../content/applications/hr/lunch/management.rst:162
 msgid ":guilabel:`Extras`: any extras selected for the product."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:41
-#: ../../content/applications/hr/lunch/management.rst:166
+#: ../../content/applications/hr/lunch/management.rst:163
 msgid ":guilabel:`Notes`: any information needed to be sent to the vendor."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:42
-#: ../../content/applications/hr/lunch/management.rst:167
+#: ../../content/applications/hr/lunch/management.rst:164
 msgid ":guilabel:`User`: the user who ordered the product."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:43
-#: ../../content/applications/hr/lunch/management.rst:168
+#: ../../content/applications/hr/lunch/management.rst:165
 msgid ":guilabel:`Lunch Location`: where the product is set to be delivered."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:44
-#: ../../content/applications/hr/lunch/management.rst:169
+#: ../../content/applications/hr/lunch/management.rst:166
 msgid ":guilabel:`Price`: the total price for the product, including all extras."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:45
-#: ../../content/applications/hr/lunch/management.rst:170
+#: ../../content/applications/hr/lunch/management.rst:167
 msgid ":guilabel:`Status`: the current status of the product."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/management.rst:46
-#: ../../content/applications/hr/lunch/management.rst:171
+#: ../../content/applications/hr/lunch/management.rst:168
 msgid ":guilabel:`Company`: the company under which the order was placed. This only appears in a multi-company database."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:-1
+#: ../../content/applications/hr/lunch/management.rst:None
 msgid "The list that appears in the Today's Orders dashboard, with the filters and top column\n"
 "names highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:57
+#: ../../content/applications/hr/lunch/management.rst:56
 msgid "Cancel orders"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:59
-msgid "All users can cancel an order, not just managers of the *Lunch* app."
+#: ../../content/applications/hr/lunch/management.rst:58
+msgid "All users can cancel an order, not only managers of the **Lunch** app."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:61
+#: ../../content/applications/hr/lunch/management.rst:60
 msgid "To cancel an order from a vendor, individual products **must** be cancelled one at a time."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:63
-msgid "On the :guilabel:`Today's Orders` dashboard, a :guilabel:`✖️ Cancel` button is shown at the far-right of each product line that can be cancelled. Click the :guilabel:`✖️ Cancel` button to cancel the order for that individual product."
+#: ../../content/applications/hr/lunch/management.rst:62
+msgid "On the :guilabel:`Today's Orders` dashboard, a :icon:`fa-times` :guilabel:`Cancel` button is shown at the far-right of each product line that can be cancelled. Click the :icon:`fa-times` :guilabel:`Cancel` button to cancel the order for that individual product."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:68
+#: ../../content/applications/hr/lunch/management.rst:67
 msgid "Only products with a red :guilabel:`Status` tag of :guilabel:`Ordered` can be cancelled."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:-1
+#: ../../content/applications/hr/lunch/management.rst:None
 msgid "Order lines with the cancel button highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:77
+#: ../../content/applications/hr/lunch/management.rst:75
 msgid "Send orders"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:79
-msgid "The first step in managing the *Lunch* app is to send the orders to the vendors."
+#: ../../content/applications/hr/lunch/management.rst:77
+msgid "The first step in managing the **Lunch** app is to send the orders to the vendors."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:81
+#: ../../content/applications/hr/lunch/management.rst:79
 msgid "When orders are ready to be sent, the manager responsible for sending orders **must** send the orders to the vendor, outside of the database (call, online order, etc.)."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:84
+#: ../../content/applications/hr/lunch/management.rst:82
 msgid "Once orders have been placed with the vendors, click the :guilabel:`Send Orders` button that appears next to each vendor's name and phone number."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:87
-msgid "Once sent, the :guilabel:`Send Orders` button changes to a :guilabel:`Confirm Orders` button, and the :guilabel:`Status` column is updated from red :guilabel:`Ordered` tags to blue :guilabel:`Sent` tags, indicating the order has been sent to the vendor. Users who have placed orders in the *Lunch* app rely on the :guilabel:`Status` tags to track their orders."
+#: ../../content/applications/hr/lunch/management.rst:85
+msgid "Once sent, the :guilabel:`Send Orders` button changes to a :guilabel:`Confirm Orders` button, and the :guilabel:`Status` column is updated from red :guilabel:`Ordered` tags to blue :guilabel:`Sent` tags, indicating the order has been sent to the vendor. Users who have placed orders in the **Lunch** app rely on the :guilabel:`Status` tags to track their orders."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:-1
+#: ../../content/applications/hr/lunch/management.rst:None
 msgid "A vendor's order with the X Cancel and Send Orders buttons highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:99
+#: ../../content/applications/hr/lunch/management.rst:96
 msgid "Confirm orders"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:101
+#: ../../content/applications/hr/lunch/management.rst:98
 msgid "After orders have been sent to the vendor, the next step is to confirm the orders after they have been delivered."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:104
+#: ../../content/applications/hr/lunch/management.rst:101
 msgid "On the :guilabel:`Today's Orders` dashboard, click the :guilabel:`Confirm Orders` button that appears next to the vendor's name and phone number."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:107
+#: ../../content/applications/hr/lunch/management.rst:104
 msgid "Once confirmed, the :guilabel:`Confirm Orders` button disappears, and the :guilabel:`Status` column is updated from blue :guilabel:`Sent` tags to green :guilabel:`Received` tags, indicating the vendor has delivered the orders."
 msgstr ""
 
+#: ../../content/applications/hr/lunch/management.rst:108
+msgid "In addition, the :icon:`fa-times` :guilabel:`Cancel` button at the end of each product line changes to a :icon:`fa-envelope` :guilabel:`Send Notification` button."
+msgstr ""
+
 #: ../../content/applications/hr/lunch/management.rst:111
-msgid "In addition, the :guilabel:`✖️ Cancel` button at the end of each product line changes to a :guilabel:`✉️ Send Notification` button."
+msgid "If needed, instead of confirming all of the individual products from a vendor, individual products can be confirmed one at a time. To confirm an individual product, click the :icon:`fa-check` :guilabel:`Confirm` button at the end of the individual product line. When confirming individual products with this method, the :guilabel:`Confirm Orders` button remains on the vendor line."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:114
-msgid "If needed, instead of confirming all of the individual products from a vendor, individual products can be confirmed one at a time. To confirm an individual product, click the :guilabel:`✔️ Confirm` button at the end of the individual product line. When confirming individual products with this method, the :guilabel:`Confirm Orders` button remains on the vendor line."
-msgstr ""
-
-#: ../../content/applications/hr/lunch/management.rst:-1
+#: ../../content/applications/hr/lunch/management.rst:None
 msgid "The Today's Orders dashboard, with the two different ways to confirm an order highlighted."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:124
-msgid "A vendor receives an order for three pizzas, and an order of garlic knots. When the delivery is made to the company, the *Lunch* manager notices the garlic knots are missing."
+#: ../../content/applications/hr/lunch/management.rst:120
+msgid "A vendor receives an order for three pizzas, and an order of garlic knots. When the delivery is made to the company, the **Lunch** manager notices the garlic knots are missing."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:127
-msgid "The manager first marks the three pizzas as received, by individually confirming the products with the :guilabel:`✔️ Confirm` button at the end of each product line."
+#: ../../content/applications/hr/lunch/management.rst:123
+msgid "The manager first marks the three pizzas as received, by individually confirming the products with the :icon:`fa-check` :guilabel:`Confirm`  button at the end of each product line."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:130
-msgid "Later, when the vendor delivers the garlic knots, the manager can either click the :guilabel:`✔️ Confirm` button at the end of the line for the garlic knots, or click the :guilabel:`Confirm Orders` button that appears next to the vendor's name and phone number."
+#: ../../content/applications/hr/lunch/management.rst:126
+msgid "Later, when the vendor delivers the garlic knots, the manager can either click the :icon:`fa-check` :guilabel:`Confirm`  button at the end of the line for the garlic knots, or click the :guilabel:`Confirm Orders` button that appears next to the vendor's name and phone number."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:137
+#: ../../content/applications/hr/lunch/management.rst:134
 msgid "Notify employees"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:139
+#: ../../content/applications/hr/lunch/management.rst:136
 msgid "After products are received, and the orders are confirmed, the employees **must** be informed that their orders have been delivered, and are ready to be picked up."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:142
+#: ../../content/applications/hr/lunch/management.rst:139
 msgid "Unlike sending and confirming orders, notifications must be sent individually, and cannot be sent in a batch."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:145
-msgid "To notify the user their product has arrived, click the :guilabel:`✉️ Send Notification` button at the end of each product line. An email is sent to the user informing them their products have been delivered."
+#: ../../content/applications/hr/lunch/management.rst:142
+msgid "To notify the user their product has arrived, click the :icon:`fa-envelope` :guilabel:`Send Notification` button at the end of each product line. An email is sent to the user informing them their products have been delivered."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:152
+#: ../../content/applications/hr/lunch/management.rst:149
 msgid "Control Vendors"
 msgstr "仕入先管理"
 
-#: ../../content/applications/hr/lunch/management.rst:154
+#: ../../content/applications/hr/lunch/management.rst:151
 msgid "All orders for all vendors, both past and present, can be found in the *Control Vendors* dashboard. To access these records, navigate to :menuselection:`Lunch app --> Manager --> Control Vendors`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:157
+#: ../../content/applications/hr/lunch/management.rst:154
 msgid "All orders appear in a list view, grouped alphabetically by :guilabel:`Vendor`. The list loads with all vendors expanded to show all order lines for every vendor, by default."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:174
+#: ../../content/applications/hr/lunch/management.rst:171
 msgid "Orders can be :ref:`cancelled <lunch/cancel>`, :ref:`sent to the vendor <lunch/send-orders>`, :ref:`confirmed <lunch/confirm-orders>` upon arrival, and :ref:`employees can be notified <lunch/notify>` using the same method as on the :ref:`Today's Orders <lunch/todays-orders>` dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:-1
+#: ../../content/applications/hr/lunch/management.rst:None
 msgid "A list view of all the orders as seen in the Control Vendors dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:184
-msgid "The difference between the :ref:`Today's Orders <lunch/todays-orders>` dashboard and the :ref:`Control Vendors <lunch/control_vendors>` dashboard is that the *Today's Orders* dashboard **only** displays orders for the current day, while the :guilabel:`Control Vendors` dashboard displays **all** orders made in the *Lunch* app."
+#: ../../content/applications/hr/lunch/management.rst:180
+msgid "The difference between the :ref:`Today's Orders <lunch/todays-orders>` dashboard and the :ref:`Control Vendors <lunch/control_vendors>` dashboard is that the *Today's Orders* dashboard **only** displays orders for the current day, while the :guilabel:`Control Vendors` dashboard displays **all** orders made in the **Lunch** app."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:190
+#: ../../content/applications/hr/lunch/management.rst:186
 msgid ":doc:`../lunch`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/management.rst:191
+#: ../../content/applications/hr/lunch/management.rst:187
 msgid ":doc:`user-accounts`"
 msgstr ""
 
@@ -6369,7 +6369,7 @@ msgstr ""
 msgid "The main section, beneath the user's information, displays all the products in a default Kanban view. Each product card displays the name, cost, vendor, photo, and description of the product. If the product is configured as new, it also displays a :guilabel:`New` tag."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/orders.rst:-1
+#: ../../content/applications/hr/lunch/orders.rst:None
 msgid "The *Lunch* app dashboard with all areas highlighted."
 msgstr ""
 
@@ -6413,7 +6413,7 @@ msgstr ""
 msgid "When all selections for the product have been made, click the :guilabel:`Add To Cart` button in the lower-left of the pop-up window. To cancel the order, click the :guilabel:`Discard` button."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/orders.rst:-1
+#: ../../content/applications/hr/lunch/orders.rst:None
 msgid "The pop-up window for a personal pizza, with all the extras highlighted and selected."
 msgstr ""
 
@@ -6482,7 +6482,7 @@ msgstr ""
 msgid "The right side of the :guilabel:`Your Order` summary displays the purchasing information. The :guilabel:`Total` amount for the entire day's lunch order is displayed. The :guilabel:`Already Paid` field indicates how much has been paid that day towards the :guilabel:`Total` amount. The :guilabel:`To Pay` field displays how much of the remaining :guilabel:`Total` amount must be paid, in order to place the currently configured   order."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/orders.rst:-1
+#: ../../content/applications/hr/lunch/orders.rst:None
 msgid "The Your Orders section of the dashboard, with the purchasing information highlighted."
 msgstr ""
 
@@ -6550,7 +6550,7 @@ msgstr ""
 msgid "At the end of each product line with a status of :guilabel:`Received`, a :guilabel:`Re-order` button appears. Click :guilabel:`Re-order` to instantly reorder that same product, with the same extras, if applicable. The new order appears in the list, under the current date, and the product is paid for, with money deducted from the user's account."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/orders.rst:-1
+#: ../../content/applications/hr/lunch/orders.rst:None
 msgid "The list view that appears when navigating to the My Orders dashboard."
 msgstr ""
 
@@ -6574,7 +6574,7 @@ msgstr ""
 msgid "Entries with a positive balance either represent funds added to the user's lunch account, or cancelled orders that were eventually refunded to the user. These appear in a `$XX.XX` format."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/orders.rst:-1
+#: ../../content/applications/hr/lunch/orders.rst:None
 msgid "The My Account dashboard with the entry for adding funds to the user's lunch account\n"
 "highlighted."
 msgstr ""
@@ -6623,7 +6623,7 @@ msgstr ""
 msgid "**Image**: Hover over the image box in the top-right corner of the form, and click the :icon:`fa-pencil` :guilabel:`(pencil)` icon that appears. A file explorer pop-up window appears. Navigate to the image, then click :guilabel:`Open`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/products.rst:-1
+#: ../../content/applications/hr/lunch/products.rst:None
 msgid "A product form filled out for a nine inch pizza."
 msgstr ""
 
@@ -6655,7 +6655,7 @@ msgstr ""
 msgid "If desired, add a photo for the category. Hover over the image box in the top-right, and click the :icon:`fa-pencil` :guilabel:`(pencil)` icon that appears. This opens a file explorer pop-up window. Navigate to the image, then click :guilabel:`Open`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/products.rst:-1
+#: ../../content/applications/hr/lunch/products.rst:None
 msgid "The category form, with the fields filled out for a Soup category."
 msgstr ""
 
@@ -6664,54 +6664,54 @@ msgid "Manage user accounts"
 msgstr ""
 
 #: ../../content/applications/hr/lunch/user-accounts.rst:5
-msgid "In Odoo's *Lunch* application, users pay for products directly from their *Lunch* app account. For funds to appear in their account, a *Lunch* app manager **must** transfer funds into each user's account."
+msgid "In Odoo's **Lunch** application, users pay for products directly from their **Lunch** app account. For funds to appear in their account, a **Lunch** app manager **must** transfer funds into each user's account."
 msgstr ""
 
 #: ../../content/applications/hr/lunch/user-accounts.rst:10
-msgid "To add funds and manage user accounts, the user must have :guilabel:`Administrator` access rights set for the *Lunch* application. This is verified by navigating to :menuselection:`Settings app --> → Manage Users`. Then, click on a user to view their various settings and access rights."
+msgid "To add funds and manage user accounts, the user must have :guilabel:`Administrator` access rights set for the **Lunch** application. This is verified by navigating to :menuselection:`Settings app -->` :icon:`oi-arrow-right` :guilabel:`Manage Users`. Then, click on a user to view their various settings and access rights."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:14
+#: ../../content/applications/hr/lunch/user-accounts.rst:15
 msgid "For more information, refer to the :doc:`Access rights <../../general/users/access_rights/>` documentation."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:17
-msgid "The *Lunch* application does **not** directly interface in any way with software or products linked to any monetary accounts or billing. Money **cannot** be transferred from users' bank accounts, nor can users' credit cards be charged."
+#: ../../content/applications/hr/lunch/user-accounts.rst:18
+msgid "The **Lunch** application does **not** directly interface in any way with software or products linked to any monetary accounts or billing. Money **cannot** be transferred from users' bank accounts, nor can users' credit cards be charged."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:21
-msgid "Odoo's *Lunch* application **only** allows for manual entries of cash exchanges that are handled by the *Lunch* app manager. It is up to each individual company to create the method with which lunch accounts are replenished."
+#: ../../content/applications/hr/lunch/user-accounts.rst:22
+msgid "Odoo's **Lunch** application **only** allows for manual entries of cash exchanges that are handled by the **Lunch** app manager. It is up to each individual company to create the method with which lunch accounts are replenished."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:26
+#: ../../content/applications/hr/lunch/user-accounts.rst:27
 msgid "Some examples of how money can be organized and transferred within a company:"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:28
-msgid "Cash is handed to the *Lunch* app manager, who then updates the user's account."
-msgstr ""
-
 #: ../../content/applications/hr/lunch/user-accounts.rst:29
-msgid "Money is automatically deducted from the user's paychecks, then the *Lunch* app manager updates the account when paychecks are issued. This requires :ref:`adding a salary attachment <payroll/worked-days-inputs>` for the user's payslip in the *Payroll* app."
+msgid "Cash is handed to the **Lunch** app manager, who then updates the user's account."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:32
-msgid "Companies can sell \"lunch tickets\" at a set price (for example, one ticket costs $5.00). Users can purchase tickets from a *Lunch* app manager, who then updates the user's account."
+#: ../../content/applications/hr/lunch/user-accounts.rst:30
+msgid "Money is automatically deducted from the user's paychecks, then the **Lunch** app manager updates the account when paychecks are issued. This requires :ref:`adding a salary attachment <payroll/worked-days-inputs>` for the user's payslip in the *Payroll* app."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:38
+#: ../../content/applications/hr/lunch/user-accounts.rst:33
+msgid "Companies can sell \"lunch tickets\" at a set price (for example, one ticket costs $5.00). Users can purchase tickets from a **Lunch** app manager, who then updates the user's account."
+msgstr ""
+
+#: ../../content/applications/hr/lunch/user-accounts.rst:39
 msgid "Cash Moves"
 msgstr "入出金"
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:40
+#: ../../content/applications/hr/lunch/user-accounts.rst:41
 msgid "To add funds to user accounts, each cash move must be individually logged. To view all cash move records, or create a new cash move, navigate to :menuselection:`Lunch app --> Manager --> Cash Moves`. Doing so reveals the :guilabel:`Cash Moves` dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:44
+#: ../../content/applications/hr/lunch/user-accounts.rst:45
 msgid "On the :guilabel:`Cash Moves` dashboard, all cash moves are presented in a default list view, displaying each record's :guilabel:`Date`, :guilabel:`User`, :guilabel:`Description`, and :guilabel:`Amount`. The total of all the cash moves is displayed at the bottom of the :guilabel:`Amount` column."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:-1
+#: ../../content/applications/hr/lunch/user-accounts.rst:None
 msgid "The list view of all cash moves."
 msgstr ""
 
@@ -6743,43 +6743,43 @@ msgstr ""
 msgid ":guilabel:`Description`: enter a brief description of the transaction."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:-1
+#: ../../content/applications/hr/lunch/user-accounts.rst:None
 msgid "The cash move form filled out for a transaction of $40.00."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:75
+#: ../../content/applications/hr/lunch/user-accounts.rst:73
 msgid "Control Accounts"
 msgstr "アカウント管理"
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:77
-msgid "An overview of every transaction in the *Lunch* app, including all cash deposits and purchases, can be viewed on the main *Control Accounts* dashboard. To access this dashboard, navigate to :menuselection:`Lunch app --> Manager --> Control Accounts.`"
+#: ../../content/applications/hr/lunch/user-accounts.rst:75
+msgid "An overview of every transaction in the **Lunch** app, including all cash deposits and purchases, can be viewed on the main *Control Accounts* dashboard. To access this dashboard, navigate to :menuselection:`Lunch app --> Manager --> Control Accounts.`"
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:81
+#: ../../content/applications/hr/lunch/user-accounts.rst:79
 msgid "All transactions are grouped :guilabel:`By Employee`, and listed alphabetically by the user's first name. At the end of the user's name, a number appears. This indicates the number of individual records logged for that user."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:85
-msgid "The default view is to have all individual transactions hidden. To view all transactions for a user, click the :guilabel:`▶ (triangle)` icon to the left of the desired name to expand that specific group."
+#: ../../content/applications/hr/lunch/user-accounts.rst:83
+msgid "The default view is to have all individual transactions hidden. To view all transactions for a user, click the :icon:`fa-caret-right` :guilabel:`(triangle)` icon to the left of the desired name to expand that specific group."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:89
+#: ../../content/applications/hr/lunch/user-accounts.rst:87
 msgid "Each record includes the :guilabel:`Date`, :guilabel:`User`, :guilabel:`Description`, and :guilabel:`Amount`."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:-1
+#: ../../content/applications/hr/lunch/user-accounts.rst:None
 msgid "The Control Accounts dashboard with two employee's transactions expanded."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:97
-msgid "This list only displays the various transactions within the *Lunch* app, and does **not** allow modifications to be made to any records listed."
+#: ../../content/applications/hr/lunch/user-accounts.rst:94
+msgid "This list only displays the various transactions within the **Lunch** app, and does **not** allow modifications to be made to any records listed."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:100
+#: ../../content/applications/hr/lunch/user-accounts.rst:97
 msgid "Cash moves can be modified, but **only** from the :ref:`Cash Moves <lunch/cash-moves>` dashboard, not from the :guilabel:`Control Accounts` dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/user-accounts.rst:103
+#: ../../content/applications/hr/lunch/user-accounts.rst:100
 msgid "It is **not** possible to modify any product-related records."
 msgstr ""
 
@@ -6859,7 +6859,7 @@ msgstr ""
 msgid ":guilabel:`Company`: If this vendor is only available to a specific company, select the company from the drop-down menu. If this field is left blank, the vendor's items are available to **all** companies. This field **only** appears in a multi-company database."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/vendors.rst:-1
+#: ../../content/applications/hr/lunch/vendors.rst:None
 msgid "The top portion of the vendor form filled out."
 msgstr ""
 
@@ -6875,7 +6875,7 @@ msgstr ""
 msgid "By default, Monday through Friday are ticked."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/vendors.rst:-1
+#: ../../content/applications/hr/lunch/vendors.rst:None
 msgid "The default view of the availability section, with Mon-Fri enabled."
 msgstr ""
 
@@ -6903,7 +6903,7 @@ msgstr ""
 msgid ":guilabel:`Order Time`: This field **only** appears if :guilabel:`Email` is selected in the :guilabel:`Send Order By` field. Enter the time that an order must be emailed for it to be accepted. Enter the time in the following format: `HH:MM`. Then select either :guilabel:`AM` or :guilabel:`PM` from the drop-down menu, next to the time field."
 msgstr ""
 
-#: ../../content/applications/hr/lunch/vendors.rst:-1
+#: ../../content/applications/hr/lunch/vendors.rst:None
 msgid "The orders section of a vendor form, with all fields filled out."
 msgstr ""
 
@@ -7177,7 +7177,7 @@ msgstr ""
 msgid ":guilabel:`Contract Update Document Template`: select a default document that a current employee has to sign to update their contract."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A new contract template form, with the fields filled in."
 msgstr ""
 
@@ -7209,7 +7209,7 @@ msgstr ""
 msgid "The :guilabel:`Schedule Pay`, :guilabel:`Wage`, and :guilabel:`Yearly Cost (Real)` fields are all linked. If any of these fields are updated, the other two fields automatically update to reflect the change. It is best practice to check these three fields if any modifications have been made, to ensure they are accurate."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "The salary information tab, with the fields filled in."
 msgstr ""
 
@@ -7257,7 +7257,7 @@ msgstr ""
 msgid "To rearrange the order of the employment types, click the :guilabel:`six small gray boxes` icon to the left of the employment type :guilabel:`Name`, and drag the line to the desired position on the list."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "The employment types in the database by default, in a list view."
 msgstr ""
 
@@ -7294,7 +7294,7 @@ msgstr ""
 msgid "Each work entry type has a code to aid in the creation of payslips, and to ensure all taxes and fees are correctly entered."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "List of all work entry types currently available for use, with the payroll code and color."
 msgstr ""
 
@@ -7400,7 +7400,7 @@ msgstr ""
 msgid ":guilabel:`Unforeseen Absence`: if the work entry should be visible on the unforeseen absences report, check this box."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "New work entry type form with all fields to be filled in."
 msgstr ""
 
@@ -7424,7 +7424,7 @@ msgstr ""
 msgid "A database with five companies that all use a standard 40-hour work week needs to have five separate 40-hour working schedules configured."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "All working schedules available to use currently set up in the database for the company."
 msgstr ""
 
@@ -7452,7 +7452,7 @@ msgstr ""
 msgid "If the working time should be in a two-week configuration, click the :guilabel:`Switch to 2 weeks calendar` button in the top-left. This creates entries for an :guilabel:`Even week` and an :guilabel:`Odd week`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "New working schedule form."
 msgstr ""
 
@@ -7484,7 +7484,7 @@ msgstr ""
 msgid "Typically, :guilabel:`Employee` is used for salaried employees, which is why the wage type is :guilabel:`Monthly Fixed Wage`, and :guilabel:`Worker` is typically used for employees paid by the hour, so the wage type is :guilabel:`Hourly Wage`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "List of all currently configured structure types available to use."
 msgstr ""
 
@@ -7544,7 +7544,7 @@ msgstr ""
 msgid "Depending on the localization settings, this list may contain more options in addition to the default options."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "New structure type form to fill out when creating a new structure type."
 msgstr ""
 
@@ -7620,7 +7620,7 @@ msgstr ""
 msgid "Each :ref:`structure type <payroll/structure-types>` lists the various structures associated with it. Each structure contains a set of rules that define it."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "All available salary structures."
 msgstr ""
 
@@ -7628,7 +7628,7 @@ msgstr ""
 msgid "Click on a structure to view its :guilabel:`Salary Rules`. These rules define how the payslip will be computed for the employee."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "Salary structure details for Regular Pay, listing all the specific Salary Rules."
 msgstr ""
 
@@ -7689,7 +7689,7 @@ msgstr ""
 msgid ":guilabel:`View on Payroll Reporting`: tick the checkbox to have the rule appear on payroll reports."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "Enter the information for the new rule on the new rule form."
 msgstr ""
 
@@ -7755,7 +7755,7 @@ msgstr ""
 msgid "When creating payslips, it is sometimes necessary to add other entries for specific circumstances, like expenses, reimbursements, or deductions. These other inputs can be configured by navigating to :menuselection:`Payroll app --> Configuration --> Salary --> Other Input Types`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A list of other input types for payroll that can be selected when creating a new entry for\n"
 "a payslip."
 msgstr ""
@@ -7768,7 +7768,7 @@ msgstr ""
 msgid "The :guilabel:`Code` is used in the salary rules to compute payslips. If the :guilabel:`Availability in Structure` field is left blank, it indicates that the new input type is available for all payslips and is not exclusive to a specific structure."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A new Input Type form filled in."
 msgstr ""
 
@@ -7797,7 +7797,7 @@ msgstr ""
 msgid "To view the benefits, go to :menuselection:`Payroll app --> Configuration --> Salary Package Configurator: Benefits`. Benefits are grouped by :guilabel:`Structure type`, and the benefit listed for a particular structure type is only available for that specific structure."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A list view of all the benefits available for each structure type."
 msgstr ""
 
@@ -7861,7 +7861,7 @@ msgstr ""
 msgid ":guilabel:`Unit of Measure`: select the metric that the benefit is granted, using the drop-down menu. The options are :guilabel:`Days`, :guilabel:`Percent`, or :guilabel:`Currency`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A new benefit form filled out for an internet subscription."
 msgstr ""
 
@@ -7962,7 +7962,7 @@ msgstr ""
 msgid "The :guilabel:`Personal Info` section lists all of the fields that are available to enter on the employee's card. To access this section, go to :menuselection:`Payroll app --> Configuration --> Salary Package Configurator: Personal Info`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A list of all the personal information that appears on the employee card to enter."
 msgstr ""
 
@@ -7994,7 +7994,7 @@ msgstr ""
 msgid "Checking the :guilabel:`Is Required` box makes the field mandatory on the employee's card. The :guilabel:`Display Type` drop-down menu allows for the information to be entered in a variety of ways, like a :guilabel:`Text` box, to a customizable :guilabel:`Radio` button, a :guilabel:`Checkbox`, a :guilabel:`Document`, and more."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "New personal information entry."
 msgstr ""
 
@@ -8066,7 +8066,7 @@ msgstr ""
 msgid ":guilabel:`Code`: select the code this rule applies to from the drop-down menu."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "The net wage rule form filled out, with all the information for net pay."
 msgstr ""
 
@@ -8095,7 +8095,7 @@ msgstr ""
 msgid "A list of all the job positions appear, along with the corresponding department, on the :guilabel:`Job Position` page."
 msgstr ""
 
-#: ../../content/applications/hr/payroll.rst:-1
+#: ../../content/applications/hr/payroll.rst:None
 msgid "A list of all the job positions and corresponding departments."
 msgstr ""
 
@@ -8155,7 +8155,7 @@ msgstr ""
 msgid "To view the employee contracts, go to the :menuselection:`Payroll app --> Contracts --> Contracts` from the top menu. All employee contracts, and their current contract status, are displayed in a list view, by default. The list view displays running contracts, contracts that require action, expired contracts, and cancelled contracts."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/contracts.rst:-1
+#: ../../content/applications/hr/payroll/contracts.rst:None
 msgid "Contracts dashboard view showing running contracts and contracts with issues."
 msgstr ""
 
@@ -8235,7 +8235,7 @@ msgstr ""
 msgid ":guilabel:`Contract Type`: choose either :guilabel:`Permanent`, :guilabel:`Temporary`, :guilabel:`Seasonal`, :guilabel:`Full-Time`, or :guilabel:`Part-Time` from the drop-down menu."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/contracts.rst:-1
+#: ../../content/applications/hr/payroll/contracts.rst:None
 msgid "New contract form to be filled in when creating a new contract, with required fields\n"
 "outlined in red."
 msgstr ""
@@ -8336,7 +8336,7 @@ msgstr ""
 msgid ":guilabel:`Notes`: a text field where any notes for the employee contract are entered for future reference."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/contracts.rst:-1
+#: ../../content/applications/hr/payroll/contracts.rst:None
 msgid "Contract details in optional tabs for a new contract."
 msgstr ""
 
@@ -8420,7 +8420,7 @@ msgstr ""
 msgid "Click on the following button to send the contract to the employee:"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/contracts.rst:-1
+#: ../../content/applications/hr/payroll/contracts.rst:None
 msgid "Send the contract to the employee via one of the buttons."
 msgstr ""
 
@@ -8457,7 +8457,7 @@ msgstr ""
 msgid "To add a new deduction, first navigate to :menuselection:`Payroll app --> Contracts --> Salary Attachments`. Next, click :guilabel:`Create`, and a new salary attachment form loads."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/contracts.rst:-1
+#: ../../content/applications/hr/payroll/contracts.rst:None
 msgid "The salary attachment form with everything filled in for Ronnie Hart's child support."
 msgstr ""
 
@@ -8629,7 +8629,7 @@ msgstr ""
 msgid "Create an employee by going to :menuselection:`Employees --> New`. Go to the :guilabel:`Settings` tab, and configure the :guilabel:`Australian Payroll` section, for example checking if they are :guilabel:`Non-resident`, if they benefit from the :guilabel:`Tax-free Threshold`, their :guilabel:`TFN Status`, :guilabel:`Employee Type`, etc."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Employee settings tab for the Australian payroll localization."
 msgstr ""
 
@@ -8657,7 +8657,7 @@ msgstr ""
 msgid ":guilabel:`Date of Birth`"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Employee private information tab for the Australian payroll localization."
 msgstr ""
 
@@ -8677,7 +8677,7 @@ msgstr ""
 msgid "Use the :guilabel:`Proportion` field if an employee's contributions should sent to multiple funds at a time."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Configuring a super fund and super account for the Australian payroll localization."
 msgstr ""
 
@@ -8705,7 +8705,7 @@ msgstr ""
 msgid "(for SMFS only) :guilabel:`Bank Account`"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Configuring a super fund for the Australian payroll localization."
 msgstr ""
 
@@ -8729,7 +8729,7 @@ msgstr ""
 msgid "Employment contract creation: recommended steps"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Recommended steps to create an employment contract."
 msgstr ""
 
@@ -8793,7 +8793,7 @@ msgstr ""
 msgid "3. Australia tab"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Australia tab of a contract."
 msgstr ""
 
@@ -8869,7 +8869,7 @@ msgstr ""
 msgid "5. Run the contract"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a running contract."
 msgstr ""
 
@@ -8889,7 +8889,7 @@ msgstr "標準"
 msgid "Pay runs are created by going to :menuselection:`Payroll --> Payslips --> Batches`. After clicking :guilabel:`New`, enter a :guilabel:`Batch Name`, select a :guilabel:`Period`, and click :guilabel:`Generate Payslips`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Steps to generate payslips."
 msgstr ""
 
@@ -8897,7 +8897,7 @@ msgstr ""
 msgid "Employees on a pay run can be filtered down by :guilabel:`Department` and :guilabel:`Job Position`. There is no limit to the amount of payslips that can be created in one batch. After clicking :guilabel:`Generate`, one payslip is created per employee in the :guilabel:`Waiting` stage, in which they can be reviewed and amended before validation."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Generated payslips in the waiting stage."
 msgstr ""
 
@@ -8913,7 +8913,7 @@ msgstr ""
 msgid ":guilabel:`Other inputs` are individual payments or amounts of :ref:`different types <payroll/l10n_au/other-input-types>` (allowances, lump sums, deductions, termination payments, leaves, etc.) that have little to do with the hours worked during the current pay period. The :ref:`previously configured salary attachments <payroll/l10n_au/salary-attachments>` are simply recurring other inputs attached to a contract."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Worked days and other inputs of a payslip."
 msgstr ""
 
@@ -9017,7 +9017,7 @@ msgstr ""
 msgid "Preparing super contribution lines as part of SuperStream compliance. This needs to be done by the :guilabel:`HR Super Send` user selected under :menuselection:`Payroll --> Configuration --> Settings`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a draft payslip."
 msgstr ""
 
@@ -9049,7 +9049,7 @@ msgstr ""
 msgid "a summary of payslips contained in this pay run, auditable from this view."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of an STP record."
 msgstr ""
 
@@ -9071,7 +9071,7 @@ msgstr ""
 msgid "Although you may decide to pay your employees individually, we recommend creating a batch payment from your payslip batch. To do so, click :guilabel:`Pay` on the payslip batch, and select :guilabel:`ABA Credit Transfer` as the :guilabel:`Payment Method`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Selecting the payment method for a payslip batch."
 msgstr ""
 
@@ -9087,7 +9087,7 @@ msgstr ""
 msgid "Creating a :guilabel:`Payment Batch` linked to the payslip batch."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a paid batch of payslips."
 msgstr ""
 
@@ -9095,7 +9095,7 @@ msgstr ""
 msgid "When receiving the bank statement in Odoo, you can now match the statement line with the batch payment in one click. The payment is not reconciled against the payslip batch, and all individual payslips."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Steps to reconcile a bank statement with a batch payment."
 msgstr ""
 
@@ -9119,7 +9119,7 @@ msgstr ""
 msgid "Once posted, predefined accounts will impact the company's balance sheet (PAYGW, wages, and superannuation liabilities) and profit & loss report (wages and superannuation expenses). In addition, the employee's gross wage and PAYG withholding will update the BAS report for the relevant period (see Tax Grid: W1 and W2). Accounts can be adjusted to the company's chart of accounts."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a BAS report PAYG tax witheld section."
 msgstr ""
 
@@ -9139,7 +9139,7 @@ msgstr ""
 msgid "Once a quarter (or more frequently, in preparation for `Payday Super <https://www.ato.gov.au/about-ato/new-legislation/in-detail/superannuation/payday-superannuation>`_), you have to process superannuation payments to your employees' super funds. To do so, go to :menuselection:`Payroll --> Reporting --> Super Contributions`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a super file."
 msgstr ""
 
@@ -9151,7 +9151,7 @@ msgstr ""
 msgid "Once the payment has been processed, it can be traced back to the Super file and matched with a bank statement."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of a super file payment."
 msgstr ""
 
@@ -9179,7 +9179,7 @@ msgstr ""
 msgid ":guilabel:`Termination Type`: the type of redundancy (genuine or non-genuine) affects the computation of unused annual and long service leave withholding."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Terminating the contract of an employee."
 msgstr ""
 
@@ -9191,7 +9191,7 @@ msgstr ""
 msgid "Confirming the termination creates an out-of-cycle payslip with the tag :guilabel:`final pay`. It computes the worked days until the contract end date, in addition to the employee's unused annual and long service leave entitlements."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Example of an out-of-cycle payslip of a terminated employee."
 msgstr ""
 
@@ -9203,7 +9203,7 @@ msgstr ""
 msgid "Employment Termination Payments (ETP) can also be added to the :guilabel:`Other Inputs` table. Odoo has a comprehensive list of excluded and non-excluded ETPs for companies to select from."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Adding employment termination payments."
 msgstr ""
 
@@ -9223,7 +9223,7 @@ msgstr ""
 msgid "When switching from another STP-enabled software to Odoo, you might need to maintain the continuity in the YTD values of your employees. Odoo allows importing employees' YTD values by going to :menuselection:`Payroll --> Configuration --> Settings` and clicking :guilabel:`Import YTD Balances`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Import YTD balances button."
 msgstr ""
 
@@ -9243,7 +9243,7 @@ msgstr ""
 msgid "Ask your previous software provider if you cannot find its BMS ID or your employees' payroll IDs."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Importing YTD balances."
 msgstr ""
 
@@ -9251,7 +9251,7 @@ msgstr ""
 msgid "This will give you the opportunity to add your employees' YTD opening balances in the current fiscal year. The ATO reports on a lot of different types of YTD. These are represented by the 13 following :guilabel:`Salary Rules` in Odoo."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Salary rules for an employee."
 msgstr ""
 
@@ -9355,7 +9355,7 @@ msgstr ""
 msgid "Employers reporting through STP must make a finalization declaration by 14 July each year. To do so, go to :menuselection:`Payroll --> Reporting --> STP Finalisation`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "EOFY finalisation of an employee."
 msgstr ""
 
@@ -9363,7 +9363,7 @@ msgstr ""
 msgid "Both active and terminated employees to finalise are displayed."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "List of employees to finalise."
 msgstr ""
 
@@ -9391,7 +9391,7 @@ msgstr ""
 msgid "To proceed with an individual finalisation, go to :menuselection:`Payroll --> Reporting --> STP Finalisation`, leave the :guilabel:`EOFY Declaration` checkbox unticked, and manually add employees to be finalised."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Individual EOFY finalisation."
 msgstr ""
 
@@ -9415,7 +9415,7 @@ msgstr ""
 msgid "If you need to amend YTD amounts for an employee after a finalisation declaration was made, it is still possible to remove the finalisation indicator for that employee. To do so, go to :menuselection:`Payroll --> Reporting --> STP Finalisation`, select the employee, and leave the :guilabel:`Finalisation` checkbox unticked."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Amending YTD amounts for an employee."
 msgstr ""
 
@@ -9447,7 +9447,7 @@ msgstr ""
 msgid "To do so, open the last STP submission and click :guilabel:`Replace File`. Then, select which payslips need to be reset by ticking the :guilabel:`Reset Payslip` checkbox."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Replace file button."
 msgstr ""
 
@@ -9475,7 +9475,7 @@ msgstr ""
 msgid "First, correct the reset payslips and create their draft entry. Once done, the :guilabel:`Submit to ATO` reappears on the payslip batch to process the full file replacement."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Resubmitting a payslip batch."
 msgstr ""
 
@@ -9580,7 +9580,7 @@ msgstr ""
 msgid ":guilabel:`Unused Leave Type`: choose between :guilabel:`Annual`, :guilabel:`Long Service`, or :guilabel:`Personal Leave`. If :guilabel:`Personal Leave` is selected, the remaining leave balance for this time off type will not show up as an entitlement at the time of termination. Unused leaves of the type :guilabel:`Annual` will include leave loading if the employee is eligible for it."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Configuring time off types."
 msgstr ""
 
@@ -9604,7 +9604,7 @@ msgstr ""
 msgid "If the expense is to be reimbursed as part of the next pay run, click :guilabel:`Report in Next Payslip` instead."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Two ways of reimbursing an expense."
 msgstr ""
 
@@ -9612,7 +9612,7 @@ msgstr ""
 msgid "After an expense has been added to the next payslip, you can find it in the :guilabel:`Other Inputs` table. This input type is then computed as an addition to the net salary."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "The expense reimbursement on a payslip."
 msgstr ""
 
@@ -9620,7 +9620,7 @@ msgstr ""
 msgid "After paying the employee, the payslip's journal item related to the employee's reimbursement is automatically matched against the expense's vendor bill."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "The payslip's journal item related to the employee's expense reimbursement."
 msgstr ""
 
@@ -9692,7 +9692,7 @@ msgstr ""
 msgid "Grouping other input types by :guilabel:`Payment Type` can help you understand the different scenarios in which these inputs can be used."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Other input types grouped by payment type."
 msgstr ""
 
@@ -9700,7 +9700,7 @@ msgstr ""
 msgid "A *work entry type* is a type of attendance for employees (e.g., attendance, paid leave, overtime, etc.). A few work entry types are created by default in every Australian database."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Default work entry types for the Australian localization."
 msgstr ""
 
@@ -9724,7 +9724,7 @@ msgstr ""
 msgid ":guilabel:`STP Code`: only visible in :ref:`developer mode <developer-mode>`, this field tells Odoo how to report the time spent in this category to the ATO. We do not recommend changing the value of this field if it was already set by default."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Configuring a work entry type."
 msgstr ""
 
@@ -9820,7 +9820,7 @@ msgstr ""
 msgid "The API syncs the journal entries from Employment Hero to Odoo and leaves them in draft mode. The reference includes the Employment Hero payslip entry ID in brackets for the user to easily retrieve the same record in Employment Hero and Odoo."
 msgstr "APIは、Employment HeroからOdooに仕訳帳入力を同期し、ドラフトモードでそれらを残します。参照には、ユーザが簡単にEmployment HeroとOdooで同じレコードを取得できるように、括弧内にEmployment Heroの給与明細仕訳IDが含まれています。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Employment Hero journal entries in Odoo."
 msgstr ""
 
@@ -9832,7 +9832,7 @@ msgstr ""
 msgid "Employment Hero payslip entries also work based on double-entry bookkeeping. The accounts used by Employment Hero are defined in the Payroll settings section."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/australia.rst:None
 msgid "Finding the Employment Hero accounts."
 msgstr ""
 
@@ -9856,7 +9856,7 @@ msgstr ""
 msgid "The first section of the payslip contains the employee's general details. It is crucial to verify the accuracy of the civil status and the number of dependents, as these factors influence tax calculations. Employers can ensure updates are made through their internal salary configurator or employee profile management systems."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "How to read a payslip - General Information."
 msgstr ""
 
@@ -9864,7 +9864,7 @@ msgstr ""
 msgid "This section outlines time-off applications and their impact on salary. The base salary typically remains constant unless unpaid leave is taken. If an employee has taken unpaid leave, parental leave, or any unexpected absence, their salary will reflect the corresponding deductions."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "How to read a payslip - Work Entries."
 msgstr ""
 
@@ -10173,7 +10173,7 @@ msgstr ""
 msgid "Based on the allocated and requested time off, the :guilabel:`Simple Holiday Pay N-1` and :guilabel:`Double Holiday Pay N-1` for the December payslip are computed (and editable for manual encoding). Click :guilabel:`Validate` to confirm."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "December Pay Amount."
 msgstr ""
 
@@ -10185,7 +10185,7 @@ msgstr ""
 msgid "The simple holiday pay is included into the gross remuneration."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "December Pay Simple."
 msgstr ""
 
@@ -10193,7 +10193,7 @@ msgstr ""
 msgid "The double holiday pay is computed separately and included into the net amount."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "December Pay Double."
 msgstr ""
 
@@ -11032,7 +11032,7 @@ msgstr ""
 msgid "In the wizard that appears, select the reason for departure, provide a description of the departure, and specify the dismissal date. The employee's seniority is calculated based on their contract history, and the notice period is determined accordingly. You can also indicate whether the employee will be working during the notice period."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Departure Notice Wizard."
 msgstr ""
 
@@ -11239,7 +11239,7 @@ msgstr "手動"
 msgid "In Odoo, when you have the Belgian Payroll Localization installed, as soon as you have a contract set to the running stage, it creates an activity for the HR responsible that they need to introduce the Dimona for today with the correct link to the Dimona Platform (the web channel mentioned in the Channels section of this article)."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Dimona Activity."
 msgstr ""
 
@@ -11539,7 +11539,7 @@ msgstr ""
 msgid "Under :menuselection:`Payroll app --> Configuration --> DMFA: Work Locations`, you can link the work address to a ONSS identification number."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "DmfA - Work Location ONSS ID."
 msgstr ""
 
@@ -11587,9 +11587,9 @@ msgstr ""
 msgid "Web declaration"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "DmfA - Web Declaration."
 msgstr ""
 
@@ -11601,7 +11601,7 @@ msgstr ""
 msgid "For the company:"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "DmfA - PDF Company."
 msgstr ""
 
@@ -11609,7 +11609,7 @@ msgstr ""
 msgid "For a specific employee:"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "DmfA - PDF Employee."
 msgstr ""
 
@@ -12389,7 +12389,7 @@ msgstr ""
 msgid "Then click the **Generate Payslips** button, select the CP200 salary structure type and the Thirteen Month salary structure. You can also filter eligible employees by department and / or job position."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Double Holiday Batch Wizard."
 msgstr ""
 
@@ -12398,7 +12398,7 @@ msgstr ""
 msgid "Once validated, a payslip is generated for each employee."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Double Holiday Payslips."
 msgstr ""
 
@@ -12407,7 +12407,7 @@ msgstr ""
 msgid "You can now check the different payslips before validation. Once validated, the PDF files are generated and posted on employee portals as for classic payslips."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Double Holiday PDF."
 msgstr ""
 
@@ -12684,15 +12684,15 @@ msgstr ""
 msgid "Then click the :guilabel:`Generate Payslips` button, select the :guilabel:`CP200: Belgian Employee` :guilabel:`Salary Structure Type` and the :guilabel:`CP200: Employees 13th Month` :guilabel:`Salary Structure`. You can also filter eligible employees by :guilabel:`Department` and / or :guilabel:`Job Position`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "End of Year Bonus Batch Wizard."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "End of Year Bonus Payslips."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "End of Year Bonus PDF."
 msgstr ""
 
@@ -12833,7 +12833,7 @@ msgstr ""
 msgid "In the employee form view, under the :guilabel:`Settings` tab, you can enter the various amounts from holiday attests provided by the new employee."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Holiday Pay Recovery Configuration."
 msgstr ""
 
@@ -12889,7 +12889,7 @@ msgstr ""
 msgid "The **number of time-off days** has been matched (if the employee's current salary is lower than before)."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Holiday Pay Recovery Simple Payslip."
 msgstr ""
 
@@ -12897,7 +12897,7 @@ msgstr ""
 msgid "Once the **payslip** is validated and paid, the recovered simple holiday pay is reflected in the employee form view."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Holiday Pay Recovery Simple Amount."
 msgstr ""
 
@@ -12921,7 +12921,7 @@ msgstr ""
 msgid "This amount is **editable** if manual adjustments are needed."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Holiday Pay Recovery Double Wizard."
 msgstr ""
 
@@ -12929,7 +12929,7 @@ msgstr ""
 msgid "Once validated, the double pay recovery is applied to the payslip."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Holiday Pay Recovery Double Amount."
 msgstr ""
 
@@ -13212,7 +13212,7 @@ msgstr ""
 msgid "On the first page, the :guilabel:`Employer Information` and the :guilabel:`Employee Information` is listed."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Individual Account PDF Header."
 msgstr ""
 
@@ -13220,7 +13220,7 @@ msgstr ""
 msgid "The next page displays all the employee worked days and payslip lines, month by month, split by structure (e.g., End of year bonus and monthly pay)."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Individual Account PDF Month by Month."
 msgstr ""
 
@@ -13228,7 +13228,7 @@ msgstr ""
 msgid "The next page displays the same information quarter by quarter and summarized for the whole year."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Individual Account PDF Quarter by Quarter."
 msgstr ""
 
@@ -13386,11 +13386,11 @@ msgstr ""
 msgid "Once a payslip is generated, the :abbr:`IP (intellectual property)` part is computed based on the intellectual property percentage and the gross salary. The tax is computed accordingly based on the revenue amount."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Intellectual Property Payslip 1."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Intellectual Property Payslip 2."
 msgstr ""
 
@@ -13410,7 +13410,7 @@ msgstr ""
 msgid "Select the reference :guilabel:`Year` and :guilabel:`Month`, then click :guilabel:`Export XML file` to generate the declaration. Click :guilabel:`Export PDF File` to generate the printed details."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "273S Wizard File Generation."
 msgstr ""
 
@@ -13418,7 +13418,7 @@ msgstr ""
 msgid "On the first PDF section, the company information and the global declaration is listed."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "273S PDF Company Info."
 msgstr ""
 
@@ -13426,7 +13426,7 @@ msgstr ""
 msgid "On the second section, the employees specific information is listed."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "273S PDF Employee Info."
 msgstr ""
 
@@ -13487,7 +13487,7 @@ msgstr ""
 msgid "Navigate to :menuselection:`Payroll app --> Configuration --> Salary --> Rule Parameters`, and search for the `CP200: Representation Fees Threshold` record. Then, adapt the current value or introduce a new one from a given date."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Representation Fees Threshold."
 msgstr ""
 
@@ -13905,7 +13905,7 @@ msgstr ""
 msgid "Navigate to :menuselection:`Payroll app --> Reporting --> Belgium --> Social Balance Sheet` and select the reference :guilabel:`Period`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Balance Sheet Wizard."
 msgstr ""
 
@@ -13917,15 +13917,15 @@ msgstr ""
 msgid "The different pieces of information are split by gender, or by working schedule (Part Time, Full Time, Full Time equivalent), for the whole period, and month by month, as requested by the National Bank of Belgium."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Balance Sheet PDF Header."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Balance Sheet PDF Content."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Balance Sheet XLSX Content."
 msgstr ""
 
@@ -13969,7 +13969,7 @@ msgstr ""
 msgid ":guilabel:`By Employee`"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Security Certificate Wizard."
 msgstr ""
 
@@ -13989,15 +13989,15 @@ msgstr ""
 msgid "Click :guilabel:`Export to XLSX` to generate an Excel file containing all relevant data."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Security Certificate PDF Header."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Security Certificate PDF Content."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Social Security Certificate XLSX Content."
 msgstr ""
 
@@ -14170,7 +14170,7 @@ msgstr ""
 msgid "Based on your employees occupation over last year, the number of available time off is pre-computed for each employee."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Paid Time Off Allocation Wizard."
 msgstr ""
 
@@ -14178,7 +14178,7 @@ msgstr ""
 msgid "Once validated, a draft allocation is generated for each single employee, waiting a manual confirmation that can be done in batch."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Paid Time Off Allocations."
 msgstr ""
 
@@ -14376,7 +14376,7 @@ msgstr ""
 msgid "A follow-up contract is created if applicable."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "Working Schedule Change New Contracts."
 msgstr ""
 
@@ -14789,7 +14789,7 @@ msgstr ""
 msgid "Click on :guilabel:`Export XML file` to generate the file to post on FINPROF portal and the structured communication to link to your payment."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/belgium.rst:None
 msgid "274.XX XML file."
 msgstr ""
 
@@ -15103,7 +15103,7 @@ msgstr "タイムシートはOdooの勤務記録に影響 **しません**。"
 msgid "Once all information has been setup, set the contract status to :guilabel:`Running` by clicking the :guilabel:`Running` button in the top-right of the page."
 msgstr "全ての情報の設定が完了したら、ページ右上の :guilabel:`実行中` ボタンをクリックして、契約ステータスを :guilabel:`実行中` に設定します。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong employment contract."
 msgstr "香港従業員契約。"
 
@@ -15139,7 +15139,7 @@ msgstr ":guilabel:`CAP57: 退職金`: 契約終了時に勤続2年以上の従�
 msgid "Before running the payslips, the accounts used in the salary rule can be adjusted by navigating to :menuselection:`Payroll app --> Configuration --> Rules`."
 msgstr "給与明細を実行する前に、給与規則で使用する勘定科目は :menuselection:`給与アプリ --> 設定 --> 規則` で調整できます。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Salary Rules."
 msgstr "香港給与規則。"
 
@@ -15266,7 +15266,7 @@ msgstr ":guilabel:`正味給与`: 従業員に支払われる最終給与額。"
 msgid "There are no MPF contributions for the first month. Both employee and employer contribution starts on second month."
 msgstr "初月はMPF拠出はありません。2ヶ月目から従業員と雇用者の両方が拠出します。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Salary computation."
 msgstr "香港給与計算。"
 
@@ -15354,11 +15354,11 @@ msgstr ":menuselection:`給与アプリ` で、:menuselection:`給与アプリ -
 msgid "Next, generate the :ref:`payslips <payroll/l10n_hk/running_payslips>` and process the payment."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Attendance Work Entry."
 msgstr "香港勤怠勤務記録。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Attendance Payslip."
 msgstr "香港勤怠給与明細。"
 
@@ -15386,7 +15386,7 @@ msgstr ":guilabel:`713を使用` : 713の計算の一部としてこの休暇タ
 msgid ":guilabel:`Non-full pay`: 80% of the :abbr:`ADW (Average Daily Wage)`."
 msgstr ":guilabel:`非満額支払`: :abbr:`ADW(平均日給)` の80%。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Work Entry Type."
 msgstr "香港勤務記録タイプ。"
 
@@ -15609,7 +15609,7 @@ msgstr ":guilabel:`雇用主ファイル番号`"
 msgid ":guilabel:`Manulife MPF Scheme`"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Payroll Settings."
 msgstr "Hong Kong給与管理設定。"
 
@@ -15657,7 +15657,7 @@ msgstr ":guilabel:`従業員申告` のステータスは :guilabel:`ドラフ�
 msgid "Once the PDF is generated, the IRD form may be downloaded."
 msgstr "PDFが作成されると、IRDフォームをダウンロードすることができます。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong IR56B report."
 msgstr "香港IR56Bレポート"
 
@@ -15685,7 +15685,7 @@ msgstr " :guilabel:`XLSXを作成`。"
 msgid "The *Manulife MPF XLSX* file is then generated, and available for download."
 msgstr "*Manulife MPF XLSX* ファイルが生成され、ダウンロードできるようになります。"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong Manulife Sheet."
 msgstr "香港Manulifeシート。"
 
@@ -15705,7 +15705,7 @@ msgstr "HSBC自動支払レポート"
 msgid "If *HSBC Autopay* is selected as the batch payment method, click on :guilabel:`Create HSBC Autopay Report`, and fill in the mandatory fields:"
 msgstr "一括支払方法として*HSBC自動支払* が選択されている場合、 :guilabel:`HSBC自動支払レポートの作成` をクリックし、必須項目を入力して下さい:"
 
-#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:-1
+#: ../../content/applications/hr/payroll/payroll_localizations/hong_kong.rst:None
 msgid "Hong Kong HSBC Autopay wizard."
 msgstr "香港HSBC自動支払ウィザード。"
 
@@ -16468,7 +16468,7 @@ msgstr ""
 msgid "These three sections provide all the tools needed to create payslips for employees, including individual payslips, a batch of payslips, or commission payslips."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "Payslips menu selection in Payroll."
 msgstr ""
 
@@ -16480,7 +16480,7 @@ msgstr "未払"
 msgid "Click on :menuselection:`Payroll app --> Payslips --> To Pay` to see the payslips that need to be paid."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "View all payslips that need to be paid on the Payslips To Pay page."
 msgstr ""
 
@@ -16556,7 +16556,7 @@ msgstr ""
 msgid "If no employee and/or no contract is selected yet, all available :guilabel:`Structures` appear in the list. Once an employee and/or contract is selected, any unavailable :guilabel:`Structures` set for that employee and/or contract do not appear. This field is **required**."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The top fields for a new payslip all filled out for a February payslip."
 msgstr ""
 
@@ -16588,7 +16588,7 @@ msgstr ""
 msgid "Using the drop-down menu in the :guilabel:`Type` column, select a :guilabel:`Type` for the input. Next, enter a :guilabel:`Description`, if desired. Lastly, enter the amount in the :guilabel:`Count` field."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The fields filled out in the worked days and inputs tab."
 msgstr ""
 
@@ -16600,7 +16600,7 @@ msgstr ""
 msgid ":guilabel:`Salary Computation`: the :guilabel:`Salary Computation` tab is automatically filled in after the :guilabel:`Compute Sheet` button is clicked. Doing so displays the wages, deductions, taxes, etc. for the entry."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The fields filled out in the salary computation tab."
 msgstr ""
 
@@ -16644,7 +16644,7 @@ msgstr ""
 msgid ":guilabel:`Add an Internal Note...`: any note or reference message for the new entry can be typed in this field."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The fields filled out in the other info tab."
 msgstr ""
 
@@ -16676,7 +16676,7 @@ msgstr ""
 msgid "To print the payslip, click the :guilabel:`Print` button. To cancel the payslip, click the :guilabel:`Cancel` button."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The new payslip is emailed to the employee and the email appears in the chatter."
 msgstr ""
 
@@ -16708,7 +16708,7 @@ msgstr ""
 msgid "To view the warnings, navigate to :menuselection:`Payroll app --> Dashboard`. The warnings appear in the top-left corner of the dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The dashboard view of the Payroll app, with the warnings box highlighted."
 msgstr ""
 
@@ -16752,7 +16752,7 @@ msgstr ""
 msgid ":guilabel:`Paid`: the employee has been paid."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "View all payslips organized by batches. Click on the arrow to expand each batch."
 msgstr ""
 
@@ -16772,7 +16772,7 @@ msgstr ""
 msgid "Payslips can also be exported to an Excel spreadsheet. To export **all** payslips, click on the :guilabel:`⚙️ (gear)` icon at the end of the words :guilabel:`Employee Payslips` in the top-left corner. This reveals a drop-down menu. Click :guilabel:`Export All` to export all payslips to a spreadsheet."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "Click on the Export All smart button to export all payslips to an Excel payslip."
 msgstr ""
 
@@ -16780,7 +16780,7 @@ msgstr ""
 msgid "To export only select payslips, first select the payslips to be exported from the list. Then, click the checkbox to the left of each individual payslip to select it. As payslips are selected, a smart button appears in the top-center of the page, indicating the number of selected payslips. Then, click the :guilabel:`⚙️ (gear) Actions` icon in the top-center of the page, and click :guilabel:`Export`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "The individual list of employee ayslips with three selected to be exported."
 msgstr ""
 
@@ -16800,7 +16800,7 @@ msgstr ""
 msgid "Each batch displays the :guilabel:`Name`, :guilabel:`Date From` and :guilabel:`Date To` dates, its :guilabel:`Status`, the number of payslips in the batch (:guilabel:`Payslips Count`), and the :guilabel:`Company`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "View displaying all batches created."
 msgstr ""
 
@@ -16824,7 +16824,7 @@ msgstr ""
 msgid "The current company populates the :guilabel:`Company` field. If operating in a multi-company environment, it is **not** possible to modify the :guilabel:`Company` from the form. The batch **must** be created while in the database for the desired company."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "Enter the details for the new batch."
 msgstr ""
 
@@ -16941,7 +16941,7 @@ msgstr ""
 msgid "Doing so reveals a :guilabel:`Generate Warrant Payslips` pop-up window, in which the necessary information **must** be filled out."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/payslips.rst:-1
+#: ../../content/applications/hr/payroll/payslips.rst:None
 msgid "Enter the commission details."
 msgstr ""
 
@@ -16993,7 +16993,7 @@ msgstr ""
 msgid "To view all the available reports for the database, including all the localization-specific ones, navigate to :menuselection:`Payroll app --> Reporting` to view the available reports in a drop-down menu. Click on a specific report to view it."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Report dashboard view showing extra reports for Belgium databases."
 msgstr ""
 
@@ -17009,7 +17009,7 @@ msgstr ""
 msgid "Click on :menuselection:`Payroll app --> Reporting --> Payroll` to display the :guilabel:`Payroll Analysis` report. This report shows all the payslips generated in the last 365 days, due to the default :ref:`filter <payroll/filters>`: `Last 365 Days Payslip`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Payroll overview report showing payroll for the last 365 days."
 msgstr ""
 
@@ -17073,7 +17073,7 @@ msgstr ":guilabel:`件数`"
 msgid ":guilabel:`Net Wage` is the default metric for the :guilabel:`Payroll` report."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "The various measures available to display for the Payroll Analysis report."
 msgstr ""
 
@@ -17109,7 +17109,7 @@ msgstr ""
 msgid "These options can be combined to create a variety of views."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Menu buttons with the line chart called out, along with the other option buttons."
 msgstr ""
 
@@ -17129,7 +17129,7 @@ msgstr ""
 msgid "An option to display the columns in :ref:`Descending <payroll/descending>` or :ref:`Ascending <payroll/ascending>` order appears at the end of the options."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Menu buttons with the bar chart called out, along with the other option buttons."
 msgstr ""
 
@@ -17145,7 +17145,7 @@ msgstr "円グラフ"
 msgid "To display the data in a pie chart, click on the :guilabel:`Pie Chart` button (represented by a :guilabel:`(pie chart)` icon) in the menu bar. There are no additional options available in this view."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Menu buttons with the pie chart called out."
 msgstr ""
 
@@ -17165,7 +17165,7 @@ msgstr ""
 msgid "To display more information on the report, click the :guilabel:`Measures` button to reveal a drop-down menu. Then, click on any other metric to display it on the pivot table."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Pivot table view with the various metrics called out."
 msgstr ""
 
@@ -17177,7 +17177,7 @@ msgstr ""
 msgid "To export the data in an XLSX format, click the :guilabel:`Download xlsx` button, represented by a :guilabel:`⬇️ (down arrow above a horizontal bar)` icon, located at the far-right of the available icons. The information is then downloaded into a spreadsheet."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "The menu options with the download button highlighted."
 msgstr ""
 
@@ -17185,7 +17185,7 @@ msgstr ""
 msgid "Any report can be inserted into a spreadsheet by clicking the :guilabel:`Insert in Spreadsheet` button. A :guilabel:`Select a spreadsheet to insert your (type of report)` pop-up window appears, asking which spreadsheet to place the information in. Select an existing spreadsheet or dashboard, or select a new :guilabel:`Blank spreadsheet`. Click the :guilabel:`Confirm` button to move to a spreadsheet view with the report added to it."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "The view of data sent to a spreadsheet."
 msgstr ""
 
@@ -17213,7 +17213,7 @@ msgstr ""
 msgid "The :guilabel:`Work Entries Analysis` report has two default filters, the `Current month:(Month) (Year)` filter, and the `Validated` filter."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/reporting.rst:-1
+#: ../../content/applications/hr/payroll/reporting.rst:None
 msgid "Filters enabled for the Work Entries Analysis report."
 msgstr ""
 
@@ -17281,7 +17281,7 @@ msgstr ""
 msgid "Each entry displays the total amount paid for each specific type of salary attachment, for each employee."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/salary_attachment.rst:-1
+#: ../../content/applications/hr/payroll/salary_attachment.rst:None
 msgid "The Attachment of Salary report that shows all salary garnishments in a condensed view."
 msgstr ""
 
@@ -17313,7 +17313,7 @@ msgstr ""
 msgid "The report updates and displays the current time period values, and the previous time period values, as well as the :guilabel:`Variation` between the two, in a percentage."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/salary_attachment.rst:-1
+#: ../../content/applications/hr/payroll/salary_attachment.rst:None
 msgid "The salary attachment report modified to compare to the previous year."
 msgstr ""
 
@@ -17341,7 +17341,7 @@ msgstr ""
 msgid "Each salary attachment type displays the :guilabel:`Name` of the attachment type, the :guilabel:`Code` used when calculating payslips, a checkbox to indicate if there is :guilabel:`No End Date`, and whether it is :guilabel:`Country` specific (or universal)."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/salary_attachments.rst:-1
+#: ../../content/applications/hr/payroll/salary_attachments.rst:None
 msgid "The default salary attachment types."
 msgstr ""
 
@@ -17417,7 +17417,7 @@ msgstr ""
 msgid ":guilabel:`Total Amount`: This field **only** appears if the :ref:`salary attachment type <payroll/salary-attachment/types>` has no end date (the :guilabel:`No End Date` option is **not** ticked.)"
 msgstr ""
 
-#: ../../content/applications/hr/payroll/salary_attachments.rst:-1
+#: ../../content/applications/hr/payroll/salary_attachments.rst:None
 msgid "The salary attachment form with all fields filled out."
 msgstr ""
 
@@ -17509,7 +17509,7 @@ msgstr ""
 msgid "To remove the filter from the :guilabel:`Search...` bar to view all work entries, click the :guilabel:`✖️ (remove)` icon on the :guilabel:`Conflicting` filter in the :guilabel:`Search...` bar, and all work entries appear in the list."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "Conflicts dashboard view showing all employee's conflicts in work entries."
 msgstr ""
 
@@ -17577,7 +17577,7 @@ msgstr ""
 msgid "Once the desired information is entered, click :guilabel:`Save & Close` to save the entry, and close the pop-up form."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "Filling in the work entry Create form in Odoo."
 msgstr ""
 
@@ -17597,7 +17597,7 @@ msgstr ""
 msgid "Conflicts are indicated with an orange triangle in the top-left corner of each individual work entry. Click on an individual work entry to see the date and time for the specific work entry, then click :guilabel:`Edit` to view the conflict details in a pop-up window."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "A row of conflicts, with one entry showing details for the conflict."
 msgstr ""
 
@@ -17613,7 +17613,7 @@ msgstr ""
 msgid "If the conflict is due to a time off request that has not been approved yet, a :guilabel:`Time Off` field appears on the left side, with the type of time off requested in the description."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "The detailed conflict pop-up window that appears when Edit is clicked."
 msgstr ""
 
@@ -17657,7 +17657,7 @@ msgstr ""
 msgid "Click the :guilabel:`Approve` button to approve the request, then click the :guilabel:`Save & Close` button to save the changes, and go back to the work entry conflict pop-up window."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "The detailed time off request form."
 msgstr ""
 
@@ -17705,7 +17705,7 @@ msgstr ""
 msgid "Click the :guilabel:`Regenerate Work Entries` button, and the work entries are recreated. Once finished, the pop-up window closes."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "Regenerate a work entry for a particular employee."
 msgstr ""
 
@@ -17753,7 +17753,7 @@ msgstr ""
 msgid "Click the :guilabel:`Payslips` smart button at the top of the page to view all the payslips for the batch."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "Information that appears when generating payslips."
 msgstr ""
 
@@ -17773,7 +17773,7 @@ msgstr ""
 msgid "Click the :guilabel:`Print` button, and a PDF file is created with all the specified payslips."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "Print button for printing the payslips."
 msgstr ""
 
@@ -17809,7 +17809,7 @@ msgstr ""
 msgid "All time off requests that need to be applied to the following pay period appear with a :guilabel:`Payslip State` of :guilabel:`To defer to next payslip`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "A list of all time off requests that were not approved before payslips were generated."
 msgstr ""
 
@@ -17829,7 +17829,7 @@ msgstr ""
 msgid "When all the desired work entries are selected, click the :guilabel:`Actions` button, and a menu appears with several choices. Click :guilabel:`Defer to Next Month` in the list, and all selected entries are deferred to the following month."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "The actions button and # Selected buttons that appear after any selections are made."
 msgstr ""
 
@@ -17857,7 +17857,7 @@ msgstr ""
 msgid "To go back to the :guilabel:`Time Off to Report` list, click on :guilabel:`Time Off` in the breadcrumb menu."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entries.rst:-1
+#: ../../content/applications/hr/payroll/work_entries.rst:None
 msgid "The time off details for an individual request that needs to be deferred."
 msgstr ""
 
@@ -17897,7 +17897,7 @@ msgstr ""
 msgid "The report updates and displays the data for the current time period, data for the selected previous time period, as well as the :guilabel:`Variation` between the two, in a percentage."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entry_analysis.rst:-1
+#: ../../content/applications/hr/payroll/work_entry_analysis.rst:None
 msgid "A pivot table comparing the work entries of the current month and the previous month."
 msgstr ""
 
@@ -17941,7 +17941,7 @@ msgstr ""
 msgid "In this example, it can be determined that :guilabel:`Marc Demo` worked the most overtime in :guilabel:`August 2024`, whereas :guilabel:`Beth Evans` worked the most overtime hours in :guilabel:`September 2024`. Additionally, :guilabel:`Mitchell Admin` had the largest variation change, with a :guilabel:`-100%` change from :guilabel:`August 2024` to :guilabel:`September 2024`."
 msgstr ""
 
-#: ../../content/applications/hr/payroll/work_entry_analysis.rst:-1
+#: ../../content/applications/hr/payroll/work_entry_analysis.rst:None
 msgid "A pivot table comparing the overtime from September 2024 with August 2024."
 msgstr ""
 
@@ -18053,7 +18053,7 @@ msgstr ""
 msgid "If the browser window is set to a size smaller than the entire width of the screen (not full-screen), then the resumé does not appear on the right-side. Instead, the resumé appears in the :guilabel:`Files` section of the chatter, below the applicant's card."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "The resumé on an applicant's card, appearing on the right side."
 msgstr ""
 
@@ -18109,7 +18109,7 @@ msgstr ""
 msgid "To access the Kanban view for a job position, navigate to the main :menuselection:`Recruitment app` dashboard, which is the default view when opening the application. All job positions appear on the main dashboard. Click the :guilabel:`(#) New Applications` smart button on a job position card to navigate to the Kanban view for all the applicants for that particular job position."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "Main dashboard view of job position card, showing new applications button."
 msgstr ""
 
@@ -18145,7 +18145,7 @@ msgstr ""
 msgid "The last column, :guilabel:`Contract Signed`, is folded by default. Folded columns appear gray, and the applicants in it are hidden from view. To expand the folded stage and view the applicant cards for that column, click anywhere on the thin gray column that says the stage name and the column expands, revealing the applicants."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "Expand a folded column by clicking on it in the Kanban view."
 msgstr ""
 
@@ -18169,7 +18169,7 @@ msgstr ""
 msgid "The status for each card is set manually. To set the status, click on the small circle in the lower-left of the applicant card. A status pop-up window appears. Click on the desired status for the applicant. The status dot on the applicant card as well as the status bar updates."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "The applicant card statuses, and status bar."
 msgstr ""
 
@@ -18193,7 +18193,7 @@ msgstr ""
 msgid "To create a new stage, click on :icon:`fa-plus` :guilabel:`Stage` and a new column appears. Enter the title for the new stage in the :guilabel:`Stage title` field, then click :guilabel:`Add`. The new column appears, and another new stage is available to create. If no new stages are needed, click anywhere on the screen to exit the new stage creation."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "The plus sign to click to add a new column to the Kanban stages."
 msgstr ""
 
@@ -18206,7 +18206,7 @@ msgstr ""
 msgid "To modify the settings of a stage, hover over the name of the stage, and a :icon:`fa-cog` :guilabel:`(gear)` icon appears in the upper right hand side of the stage. Click on the :icon:`fa-cog` :guilabel:`(gear)` icon and a menu appears. Then click on the :guilabel:`Edit` option. An :guilabel:`Edit: (Stage)` form appears. Make any desired modifications to the form, then click :guilabel:`Save & Close` when done."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "The gear icon that appears when a column name is moused over, and the drop-down menu it\n"
 "displays when clicked."
 msgstr ""
@@ -18303,7 +18303,7 @@ msgstr ""
 msgid "To manually send an email, click :guilabel:`Send message` in the chatter. A text box appears, as well as the applicant's email address."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
 msgid "Send an email from the chatter."
 msgstr ""
 
@@ -18331,8 +18331,8 @@ msgstr ""
 msgid "If any changes need to be made to the email, edit the body of the email. If the edits should be saved to be used in the future, the email can be saved as a new template. Click the :guilabel:`Save Template` button in the bottom. To send the email, click :guilabel:`Send` and the email is sent to the applicant. The email then appears in the chatter."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment.rst:-1
-#: ../../content/applications/hr/recruitment/recruitment-flow.rst:-1
+#: ../../content/applications/hr/recruitment.rst:None
+#: ../../content/applications/hr/recruitment/recruitment-flow.rst:None
 msgid "Send a custom survey, also referred to as an interview form, to an applicant using a\n"
 "pre-configured template."
 msgstr ""
@@ -18434,7 +18434,7 @@ msgstr ""
 msgid "When doing a quick add, clicking away from an empty card, or clicking the :icon:`fa-trash-o` (:guilabel:`trash`) icon, discards the applicant."
 msgstr "クイック追加を行う場合、空のカードから離れた場所でクリックするか、 :icon:`fa-trash-o` (:guilabel:`ごみ箱`)アイコンをクリックすると、応募者は破棄されます。"
 
-#: ../../content/applications/hr/recruitment/add-new-applicants.rst:-1
+#: ../../content/applications/hr/recruitment/add-new-applicants.rst:None
 msgid "All the fields for a new applicant form entered when using the Quick Add option."
 msgstr ""
 
@@ -18454,7 +18454,7 @@ msgstr ""
 msgid "Depending on installed applications and configurations, some fields may **not** be displayed."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/add-new-applicants.rst:-1
+#: ../../content/applications/hr/recruitment/add-new-applicants.rst:None
 msgid "All the fields for a new applicant form entered."
 msgstr ""
 
@@ -18575,175 +18575,223 @@ msgid "Skills can be added to the applicant's card. For details on adding skills
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:5
-msgid "In Odoo *Recruitment*, all job positions are shown on the default dashboard in the *Recruitment* app. This includes positions that are being actively recruited for, as well as inactive positions."
+msgid "In Odoo's **Recruitment** application, all job positions are shown on the default dashboard in the **Recruitment** app, which includes both active and inactive positions."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:8
-msgid "Each job position is shown in an individual Kanban card. If the job position is active, and candidates can apply, a :guilabel:`Published` banner appears in the top-right corner of the card."
+msgid "Each job position is shown in an individual Kanban card. If the job position is active, and candidates can apply, a :guilabel:`PUBLISHED` banner appears in the top-right corner of the card."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:11
 msgid "View submitted applications by clicking anywhere on a job position card."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:-1
+#: ../../content/applications/hr/recruitment/new_job.rst:None
 msgid "Main dashboard view of Recruitment app showing all job positions."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:18
+#: ../../content/applications/hr/recruitment/new_job.rst:17
 msgid "Create a new job position"
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:20
-msgid "To create a new job position from the main dashboard in the *Recruitment* app, click the :guilabel:`New` button in the top-left corner, and a :guilabel:`Create a Job Position` modal appears."
+#: ../../content/applications/hr/recruitment/new_job.rst:19
+msgid "To create a new job position from the main dashboard in the **Recruitment** app, click the :guilabel:`New` button in the top-left corner, and a :guilabel:`Create a Job Position` pop-up window appears."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:24
+#: ../../content/applications/hr/recruitment/new_job.rst:23
 msgid "First, enter the name of the :guilabel:`Job Position` (such as `Sales Manager`, `Mechanical Engineer`, etc.) in the field."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:27
+#: ../../content/applications/hr/recruitment/new_job.rst:26
 msgid "Next, enter an :guilabel:`Application email` by typing in the first half of the email address in the first field, then select the second half of the email using the drop-down menu in the second field. Applicants can send a resumé to this specific email address, and Odoo creates an application for them automatically."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:32
+#: ../../content/applications/hr/recruitment/new_job.rst:31
 msgid "When complete, click the :guilabel:`Create` button to save the entry, or the :guilabel:`Discard` button to delete it."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:-1
+#: ../../content/applications/hr/recruitment/new_job.rst:None
 msgid "Create a new job position."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:39
-msgid "Once the job position has been created, it appears as a card in the Kanban view on the main *Recruitment* app dashboard."
+#: ../../content/applications/hr/recruitment/new_job.rst:37
+msgid "Once the job position has been created, it appears as a card in the Kanban view on the main **Recruitment** app dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:45
+#: ../../content/applications/hr/recruitment/new_job.rst:43
 msgid "Edit a new job position"
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:47
-msgid "After the job position is created, it's time to enter the details for the position. Click on the :guilabel:`⋮ (three dots)` icon in the upper-right corner of the relevant card to reveal several options, and then click :guilabel:`Configuration` to edit the details."
+#: ../../content/applications/hr/recruitment/new_job.rst:45
+msgid "After the job position is created, it is time to enter the details for the position. Click on the :icon:`fa-ellipsis-v` :guilabel:`(Dropdown menu)` icon in the upper-right corner of the relevant card to reveal several options, and then click :guilabel:`Configuration` to edit the details."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:-1
+#: ../../content/applications/hr/recruitment/new_job.rst:None
 msgid "Edit the job position card."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:55
-msgid "All the basic information about the job position is listed under the :guilabel:`Recruitment` tab."
+#: ../../content/applications/hr/recruitment/new_job.rst:53
+msgid "The top-right corner of the card has a toggle to publish the job position to the website. If the job position is published, a green :guilabel:`Published` toggle is visible. If the job position is *not* published a gray :guilabel:`Not Published` toggle appears. Click the toggle to publish or unpublish the job position."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:57
-msgid "None of the fields are required, but it is important to configure and populate the :guilabel:`Department`, :guilabel:`Location`, :guilabel:`Employment Type`, and :guilabel:`Job Summary` fields, as they are all visible to prospective applicants on the website."
+#: ../../content/applications/hr/recruitment/new_job.rst:59
+msgid "Recruitment tab"
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:61
-msgid "The fields can be filled out as follows:"
+msgid "All the basic information about the job position is listed under the :guilabel:`Recruitment` tab."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:63
-msgid ":guilabel:`Department`: select the relevant department for the job position. This is visible on the website."
+msgid "None of the fields are required, but it is important to configure and populate the :guilabel:`Department`, :guilabel:`Job Location`, :guilabel:`Employment Type` fields, and the :guilabel:`Job Summary` tab, as they are all visible to prospective applicants on the website."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:65
-msgid ":guilabel:`Job Location`: select the physical address for the job. If the job position is remote, leave this field blank. This is visible on the website."
+#: ../../content/applications/hr/recruitment/new_job.rst:68
+msgid "Some fields listed below may not appear depending on the database configuration and other installed applications."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:67
-msgid ":guilabel:`Email Alias`: enter an email address to which applicants can send a resumé. Once emailed, Odoo automatically creates an application for them."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:69
-msgid ":guilabel:`Employment Type`: select what type of position the job is, using the drop-down menu. The default options are :guilabel:`Permanent`, :guilabel:`Temporary`, :guilabel:`Seasonal`, :guilabel:`Interim`, :guilabel:`Full-Time`, and :guilabel:`Part-Time`. This is visible on the website."
+#: ../../content/applications/hr/recruitment/new_job.rst:71
+msgid "The fields can be filled out as follows:"
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:73
-msgid ":guilabel:`Company`: select the company the job is for. This field only appears if using a multi-company database."
+msgid ":guilabel:`Department`: Select the relevant department for the job position. This is visible on the website."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:75
-msgid ":guilabel:`Target`: enter the number of employees to be hired for this position."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:76
-msgid ":guilabel:`Is Published`: activate this option to publish the job online."
+msgid ":guilabel:`Job Location`: Select the physical address for the job. If the job position is remote, leave this field blank. This is visible on the website."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:77
-msgid ":guilabel:`Website`: select the website the job is published on."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:78
-msgid ":guilabel:`Recruiter`: select the person responsible for recruiting this role."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:79
-msgid ":guilabel:`Interviewers`: select who should perform the interviews. Multiple people can be selected."
+msgid ":guilabel:`Industry`: Select the relevant industry the job position falls under. This field corresponds to the industries on job boards. Odoo comes with 86 preconfigured industries. It is *not* recommended to add a new industry, as it may hide the job position during some searched on the various job boards."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:81
-msgid ":guilabel:`Interview Form`: select an :ref:`Interview form <recruitment/interview>` that applicants fill out prior to their interview."
+msgid ":guilabel:`Email Alias`: Enter an email address to which applicants can send a resumé. Once emailed, Odoo automatically creates an application for them. If an email was entered when creating the job position, this field is populated."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:83
-msgid ":guilabel:`Contract Template`: select a contract template to be used when offering the job to a candidate."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:85
-msgid ":guilabel:`Process Details` section: this section contains information that is displayed online for the job position. This informs the applicants of the timeline and steps for the recruitment process, so they know when to expect a reply."
+#: ../../content/applications/hr/recruitment/new_job.rst:84
+msgid ":guilabel:`Employment Type`: select what type of position the job is, using the drop-down menu. The default options are :guilabel:`Permanent`, :guilabel:`Temporary`, :guilabel:`Seasonal`, :guilabel:`Full-Time`, :guilabel:`Intern`, :guilabel:`Student`, :guilabel:`Apprenticeship`, :guilabel:`Thesis`, :guilabel:`Statutory`, and :guilabel:`Employee`. Depending on the installed localization, other options may be available. This is visible on the website."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:89
-msgid ":guilabel:`Time to Answer`: enter the number of days before the applicant is contacted."
-msgstr ""
-
-#: ../../content/applications/hr/recruitment/new_job.rst:90
-msgid ":guilabel:`Process`: enter the various stages the candidate goes through during the recruitment process."
+msgid ":guilabel:`Working Schedule`: Select the working schedule for the job position. Odoo provides one working schedule by default, :guilabel:`Standard 40 hours/week`, but all working schedules in the database are available."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:92
-msgid ":guilabel:`Days to get an Offer`: enter the number of days before the applicant should expect an offer after the recruitment process has ended."
+msgid ":guilabel:`Salary Range`: Enter both the minimum and maximum salaries offered for the position in the two fields. Then, set the last field to the time-frame for the salary range. The default options are :guilabel:`Hour`, :guilabel:`Day`, :guilabel:`Week`, :guilabel:`Bi-Week`, :guilabel:`Month`, and :guilabel:`Year`."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:96
-msgid "The :guilabel:`Process Details` section is a text field. All answers are typed in rather than selected from a drop-down menu. The text is displayed on the website exactly as it appears in this tab."
+msgid ":guilabel:`Expected Skills`: Select all the desired skills for the job position, using the drop-down menu. The skills presented are :ref:`configured in the Employees app <employees/skills>`."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:100
-msgid "Finally, enter the job description in the :guilabel:`Job Summary` tab."
+#: ../../content/applications/hr/recruitment/new_job.rst:99
+msgid ":guilabel:`Company`: Select the company the job is for. This field only appears if using a multi-company database."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:-1
-msgid "Enter job information details in the recruitment tab."
+#: ../../content/applications/hr/recruitment/new_job.rst:101
+msgid ":guilabel:`Mission Dates`: Using the calendar selector, set the start date for the job position. If the job is temporary and has a specific end date, set the end date in the second field."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:109
-msgid "Create interview form"
+#: ../../content/applications/hr/recruitment/new_job.rst:103
+msgid ":guilabel:`Target`: Enter the number of employees to be hired for this position."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:111
-msgid "An *Interview Form* is used to determine if a candidate is a good fit for a job position. Interview forms can be as specific or general as desired, and can take the form of a certification, an exam, or a general questionnaire. Interview forms are determined by the recruitment team."
+#: ../../content/applications/hr/recruitment/new_job.rst:104
+msgid ":guilabel:`Website`: Select the website the job is published on."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:115
-msgid "Before creating an interview form, ensure the proper settings are enabled. Navigate to :menuselection:`Recruitment app --> Configuration --> Settings`, and under the :guilabel:`Recruitment Process` section, ensure the :guilabel:`Send Interview Survey` option is enabled."
+#: ../../content/applications/hr/recruitment/new_job.rst:105
+msgid ":guilabel:`Recruiter`: Select the person responsible for recruiting this role."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:120
-msgid "Since there are no pre-configured forms in Odoo, all interview forms must be created. To create an interview form, start from the :guilabel:`Recruitment` tab of the :guilabel:`Job Position` form. In the :guilabel:`Interview Form` field, enter a name for the new interview form. As the name is typed, several options populate beneath the entry: :guilabel:`Create (interview form name)`, :guilabel:`Search More...`, and :guilabel:`Create and edit...`. Click :guilabel:`Create and edit...` and a :guilabel:`Create Interview Form` modal appears."
+#: ../../content/applications/hr/recruitment/new_job.rst:106
+msgid ":guilabel:`Interviewers`: Select who should perform the interviews. Multiple people can be selected."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:-1
-msgid "The blank interview form modal."
+#: ../../content/applications/hr/recruitment/new_job.rst:108
+msgid ":guilabel:`Interview Form`: select an :ref:`Interview form <recruitment/interview>` that applicants fill out prior to their interview."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:110
+msgid ":guilabel:`Contract Template`: Select a contract template to be used when offering the job to a candidate."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:None
+msgid "The job information details in the Recruitment tab."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:117
+msgid "Job summary tab"
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:119
+msgid "Enter the job description in the :guilabel:`Job Summary` tab. This description is visible on the website."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:None
+msgid "The summary of the position in the Job Summary tab."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:126
+msgid "Application info tab"
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:128
+msgid "The :guilabel:`Process Details` section of the :guilabel:`Application Info` tab contains information that is displayed online for the job position. This informs the applicants of the timeline and steps for the recruitment process, so they know when to expect a reply."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/new_job.rst:132
+msgid "The following fields are populated by default, but can be modified to suit the recruitment timeline of the business:"
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:135
+msgid ":guilabel:`Time to Answer`: Enter the number of days before the applicant is contacted. :guilabel:`2 open days` populates this field by default."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:137
+msgid ":guilabel:`Process`: Enter the various stages the candidate goes through during the recruitment process. By default, two process steps are visible: :guilabel:`1 Phone Call` and :guilabel:`1 Onsite Interview`."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:140
+msgid ":guilabel:`Days to get an Offer`: Enter the number of days before the applicant should expect an offer after the recruitment process has ended. The default is :guilabel:`4 Days after Interview`."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:None
+msgid "Enter job information details in the recruitment tab."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:147
+msgid "The :guilabel:`Process Details` section is a text field. All answers are typed in rather than selected from a drop-down menu. The text is displayed on the website exactly as it appears in this tab."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:154
+msgid "Create interview form"
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:156
+msgid "An *Interview Form* is used to determine if a candidate is a good fit for a job position. Interview forms can be as specific or general as desired, and can take the form of a certification, an exam, or a general questionnaire. Interview forms are determined by the recruitment team."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:160
+msgid "Before creating an interview form, ensure the proper settings are enabled. Navigate to :menuselection:`Recruitment app --> Configuration --> Settings`, and under the :guilabel:`Recruitment Process` section, ensure the :guilabel:`Send Interview Survey` option is enabled."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:165
+msgid "Since there are no preconfigured forms in Odoo, all interview forms must be created. To create an interview form, start from the :guilabel:`Recruitment` tab of the :guilabel:`Job Position` form. In the :guilabel:`Interview Form` field, enter a name for the new interview form. As the name is typed, several options populate beneath the entry: :guilabel:`Create (interview form name)`, :guilabel:`Search More...`, and :guilabel:`Create and edit...`. Click :guilabel:`Create and edit...` and a :guilabel:`Create Interview Form` pop-up window appears."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:None
+msgid "The blank interview form pop-up window."
+msgstr ""
+
+#: ../../content/applications/hr/recruitment/new_job.rst:176
 msgid "The option :guilabel:`Search More...` only appears if there are any interview forms already created. If no interview forms exist, the only options available are :guilabel:`Create (interview form name)`, and :guilabel:`Create and edit...`."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/new_job.rst:136
-msgid "Proceed to fill out the modal interview form as a typical survey. For specific directions on how to create a survey, refer to the :doc:`survey essentials <../../marketing/surveys/create>` document, which provides step-by-step instructions on how to create and configure a survey."
+#: ../../content/applications/hr/recruitment/new_job.rst:180
+msgid "Proceed to fill out the interview form pop-up window as a typical survey. For specific directions on how to create a survey, refer to the :doc:`survey essentials <../../marketing/surveys/create>` document, which provides step-by-step instructions on how to create and configure a survey."
 msgstr ""
 
 #: ../../content/applications/hr/recruitment/offer_job_positions.rst:3
@@ -18866,7 +18914,7 @@ msgstr ""
 msgid "To send an offer, ensure the *Sign* application is installed. This is necessary, so the offer can be sent to the applicant by the recruiter, and they can actually sign the offer. The applicant does **not** need any software installed to sign the offer."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/offer_job_positions.rst:-1
+#: ../../content/applications/hr/recruitment/offer_job_positions.rst:None
 msgid "Send an email to the applicant with a link to the offered salary."
 msgstr ""
 
@@ -18906,7 +18954,7 @@ msgstr ""
 msgid "Once the applicant is moved to the :guilabel:`Contract Signed` stage, a green :guilabel:`HIRED` banner appears in the top-right of the applicant's card and form."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/offer_job_positions.rst:-1
+#: ../../content/applications/hr/recruitment/offer_job_positions.rst:None
 msgid "Hired banner in the top right corner of applicant card."
 msgstr ""
 
@@ -19091,7 +19139,7 @@ msgstr ""
 msgid "Alternatively, open the desired applicant's card from the :guilabel:`Applications` page, and click the :guilabel:`First Interview` stage on the status bar at the top of the individual applicant's card."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/recruitment-flow.rst:-1
+#: ../../content/applications/hr/recruitment/recruitment-flow.rst:None
 msgid "An applicant's card moves from one stage to another by using the click and drag method."
 msgstr ""
 
@@ -19175,7 +19223,7 @@ msgstr ""
 msgid "Hover the cursor over a month of the chart, and a pop-up window appears, displaying the specific numbers for that month."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:None
 msgid "The default Recruitment Analysis report."
 msgstr ""
 
@@ -19196,8 +19244,8 @@ msgstr ""
 msgid "In this example, there are 17 total applicants. Out of that, three have been hired, and four refused. The :guilabel:`Experienced Developer` position has eight total applicants, two of which were hired, and two were refused."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:-1
-#: ../../content/applications/hr/recruitment/team_performance.rst:-1
+#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:None
+#: ../../content/applications/hr/recruitment/team_performance.rst:None
 msgid "The detailed pivot table view."
 msgstr ""
 
@@ -19221,7 +19269,7 @@ msgstr ""
 msgid "Now, the column displays the number of applicants that came from a referral in the :guilabel:`Has Referrer` column, and the total number of applicants in the :guilabel:`Count` column."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:None
 msgid "The detailed pivot table view displaying the number of referrals and the total applicants."
 msgstr ""
 
@@ -19249,7 +19297,7 @@ msgstr ""
 msgid "To expand the other rows, and display the various states, click on the :icon:`fa-plus-square` :guilabel:`[job position]` button."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/recruitment_analysis.rst:None
 msgid "The detailed pivot table view displaying applicants hired through referrals."
 msgstr ""
 
@@ -19413,7 +19461,7 @@ msgstr ""
 msgid "After clicking the :guilabel:`Refuse` button on an applicant form, a :ref:`Refuse Reason <recruitment/refuse-reasons>` can be selected from the :guilabel:`refuse reason` pop-up window. Then, two fields appear below the selected refusal reason: :guilabel:`Send Email` and :guilabel:`Email Template`."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/refuse_applicant.rst:-1
+#: ../../content/applications/hr/recruitment/refuse_applicant.rst:None
 msgid "The Refuse Reason pop-up window that appears when refusing an applicant."
 msgstr ""
 
@@ -19433,7 +19481,7 @@ msgstr ""
 msgid "To send the refusal email to the applicant, ensure the :guilabel:`Send Email` checkbox is ticked, then click :guilabel:`Refuse` at the bottom of the :guilabel:`Refuse Reason` pop-up window. The refusal email is sent to the applicant, and a red :guilabel:`Refused` banner appears on the applicant's card in the top-right corner."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/refuse_applicant.rst:-1
+#: ../../content/applications/hr/recruitment/refuse_applicant.rst:None
 msgid "An applicant's card with the refused banner appearing in the top-right corner in red."
 msgstr ""
 
@@ -19501,7 +19549,7 @@ msgstr ""
 msgid "To change the currently loaded meetings and events being displayed, uncheck an attendee whose calendar events are to be hidden. Only the checked attendees are visible on the calendar."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The calendar view, highlighting how to change the displayed meetings."
 msgstr ""
 
@@ -19625,7 +19673,7 @@ msgstr ""
 msgid ":guilabel:`Reminders`: select a reminder from the drop-down menu. Default options include :guilabel:`Notification`, :guilabel:`Email`, and :guilabel:`SMS Text Message`, each with a specific time period before the event (hours, days, etc). The chosen reminder chosen alerts the meeting participants of the meeting, via the selected option at the specified time. Multiple reminders can be selected in this field."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "A new meeting card with all the details populated, and ready to save."
 msgstr ""
 
@@ -19649,7 +19697,7 @@ msgstr ""
 msgid "The followers of the job application, as well as the user who created the meeting, are added as :guilabel:`Recipients` by default. If needed, add the applicant's email address to the list to send the email to the applicant, as well. Make any other desired changes to the email. If an attachment is needed, click the :guilabel:`Attachments` button, navigate to the file, then click :guilabel:`Open`. Once the email is ready to be sent, click :guilabel:`Send`."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "Enter the information to send the event via email."
 msgstr ""
 
@@ -19669,7 +19717,7 @@ msgstr ""
 msgid "The number of characters, and amount of text messages required to send the message (according to GSM7 criteria) appears beneath the :guilabel:`Message` field. Click :guilabel:`Put In Queue` to have the text sent later, after any other messages are scheduled, or click :guilabel:`Send Now` to send the message immediately."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "Send a text message to the attendees of the meeting."
 msgstr ""
 
@@ -19701,7 +19749,7 @@ msgstr ""
 msgid "Hover over the name of the stage, and a :icon:`fa-cog` :guilabel:`(gear)` icon appears in the upper-right hand side of the stage name. Click the :icon:`fa-cog` :guilabel:`(gear)` icon, and a drop-down menu appears. Then, click on the :guilabel:`Edit` option, and an :guilabel:`Edit: (Stage)` form appears."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The drop-down that appears after clicking the cog."
 msgstr ""
 
@@ -19709,7 +19757,7 @@ msgstr ""
 msgid "The :guilabel:`Email Template` field is blank, by default. Using the drop-down menu, select :guilabel:`Recruitment: Schedule interview` for the :guilabel:`Email Template` field, then click :guilabel:`Save & Close` when done."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The Recruitment: Schedule Interview email template populating the Email Template field."
 msgstr ""
 
@@ -19749,7 +19797,7 @@ msgstr ""
 msgid "First, if there is an option of who to meet with, the user selects who they are scheduling their meeting with, by clicking on their icon and name. If only one person is available to interview the applicant, this step is not available. If the applicant does not wish to chose an interviewer, they can just click :guilabel:`See all availabilities` :icon:`fa-arrow-right`."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The first screen seen after clicking 'Plan my interview', where the applicant selects their\n"
 "interviewer."
 msgstr ""
@@ -19766,7 +19814,7 @@ msgstr ""
 msgid "Then the applicant clicks on an available day on the calendar, signified by a square around the date. Once a day is selected, they click on one of the available times to select that date and time."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The calendar screen with dates and times to schedule an interview."
 msgstr ""
 
@@ -19782,7 +19830,7 @@ msgstr ""
 msgid "When everything is entered on the :guilabel:`Add more details about you` page, the applicant clicks the :guilabel:`Confirm Appointment` button, and the interview is scheduled."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/schedule_interviews.rst:-1
+#: ../../content/applications/hr/recruitment/schedule_interviews.rst:None
 msgid "The confirmation page with all the details for the interview displayed."
 msgstr ""
 
@@ -19823,7 +19871,7 @@ msgstr ""
 msgid "Hover the cursor over any column to view the specific numbers fort that column."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/source_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/source_analysis.rst:None
 msgid "The default bar chart of the source analysis information."
 msgstr ""
 
@@ -19851,7 +19899,7 @@ msgstr ""
 msgid "This information, as presented, makes it difficult to view the specific numbers for each source. Click the :icon:`fa-exchange` :guilabel:`(Flip axis)` icon, to swap the information. After that, the rows represent the source, and the columns represent the job positions, further divided by stage."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/source_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/source_analysis.rst:None
 msgid "The axes flipped in the source analysis report, in pivot table view."
 msgstr ""
 
@@ -19879,7 +19927,7 @@ msgstr ""
 msgid "Once :guilabel:`Medium` is selected for one source, clicking into another row automatically reveals the specific metrics for the mediums for that source."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/source_analysis.rst:-1
+#: ../../content/applications/hr/recruitment/source_analysis.rst:None
 msgid "The sources rows, expanded to also show the medium for each source."
 msgstr ""
 
@@ -19919,7 +19967,7 @@ msgstr ""
 msgid "Hover the cursor over any column to view a popover window, displaying the specific details for that column."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/team_performance.rst:-1
+#: ../../content/applications/hr/recruitment/team_performance.rst:None
 msgid "The default bar chart of the team performance report."
 msgstr ""
 
@@ -19959,7 +20007,7 @@ msgstr ""
 msgid "Next, click the :icon:`fa-caret-down` :guilabel:`(down arrow)` in the search bar, revealing a drop-down menu. Click :guilabel:`Add Custom Group` :icon:`oi-caret-down` at the bottom of the :icon:`oi-group` :guilabel:`Group By` column, then click :guilabel:`Recruiter`. Click away from the drop-down menu to close it. Now, each row on the table represents a recruiter."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/team_performance.rst:-1
+#: ../../content/applications/hr/recruitment/team_performance.rst:None
 msgid "The pivot table now displaying the recruiters in the rows."
 msgstr ""
 
@@ -19975,7 +20023,7 @@ msgstr ""
 msgid "After making this selection, a :icon:`fa-adjust` :guilabel:`Comparison` column appears. Click :guilabel:`Start Date: Previous Period` to compare the third quarter with the second quarter, for the various recruiters."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/team_performance.rst:-1
+#: ../../content/applications/hr/recruitment/team_performance.rst:None
 msgid "A comparison table of recruiter totals of Q2 and Q3."
 msgstr ""
 
@@ -20023,7 +20071,7 @@ msgstr ""
 msgid "In this view, it is easier to visualize the differences between the job positions, regarding how long applicants stay in each stage. From this view, recruiters can more easily determine which job positions have delays or bottlenecks at certain stages."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/time_in_stage.rst:-1
+#: ../../content/applications/hr/recruitment/time_in_stage.rst:None
 msgid "The bar chart view of the Time In Stage Analysis report."
 msgstr ""
 
@@ -20043,7 +20091,7 @@ msgstr ""
 msgid "If a field is empty, it indicates no applicant has been in that stage. Instead, all applicants moved from a previous stage without being placed in the stage with an empty field."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/time_in_stage.rst:-1
+#: ../../content/applications/hr/recruitment/time_in_stage.rst:None
 msgid "The pivot table view of the Time In Stage Analysis report."
 msgstr ""
 
@@ -20055,7 +20103,7 @@ msgstr ""
 msgid "After doing so, the data presented is grouped with the various months from the previous 365 days for the rows, leaving the :guilabel:`Days In Stage` as the columns."
 msgstr ""
 
-#: ../../content/applications/hr/recruitment/time_in_stage.rst:-1
+#: ../../content/applications/hr/recruitment/time_in_stage.rst:None
 msgid "The pivot table showing the months averages for times in stage."
 msgstr ""
 
@@ -20123,7 +20171,7 @@ msgstr ""
 msgid "At any point during onboarding, the :guilabel:`Skip` button may be clicked. This exits the onboarding, and the main *Referrals* dashboard loads. If :guilabel:`Skip` is clicked, onboarding slides will not load anymore when opening the *Referrals* application."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "An onboarding slide with the skip and next buttons visible at the bottom."
 msgstr ""
 
@@ -20151,7 +20199,7 @@ msgstr ""
 msgid "The image can be modified, as well. Hover over the image thumbnail in the top-right corner of the form. A :guilabel:`✏️ (pencil)` icon and :guilabel:`🗑️ (garbage can)` icon appear. Click the :guilabel:`✏️ (pencil)` icon to change the image. A file navigator window loads. Navigate to the desired image, select it, then click :guilabel:`Open`. The new image appears in the thumbnail. To delete an image, click the :guilabel:`🗑️ (garbage can)` icon, then select a new image using the :guilabel:`✏️ (pencil)` icon."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "An onboarding slide in edit mode, with the main fields highlighted."
 msgstr ""
 
@@ -20159,7 +20207,7 @@ msgstr ""
 msgid "The sequence in which the slides appear can be changed from the *Onboarding* dashboard. Click the :guilabel:`(six small gray boxes)` icon to the left of the the slide text, and drag the slide to the desired position."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "The onboarding slides in a list, with the drag and drop arrows highlighted."
 msgstr ""
 
@@ -20183,7 +20231,7 @@ msgstr ""
 msgid "If more than one referral was hired since opening the *Referrals* application, after selecting the first avatar, the user is prompted to select another avatar for the subsequent hired referral. Once all avatars have been selected, the dashboard loads and all the avatars are now visible. Mouse over each avatar and their name is displayed above them."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "The hired screen. A selection of avatars are presented to chose from, with any already\n"
 "chosen are greyed out."
 msgstr ""
@@ -20212,7 +20260,7 @@ msgstr ""
 msgid "The referral friend form automatically saves, but can be saved manually at any time by clicking the *Save manually* option, represented by a :guilabel:`(cloud upload)` icon, located in the top-left corner. To cancel any changes made, click the :guilabel:`✖️ (Discard all changes)` icon to delete any changes, and revert to the original content."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "A friend form in edit mode."
 msgstr ""
 
@@ -20265,7 +20313,7 @@ msgstr ""
 msgid "The level form saves automatically, but can be saved manually at any time by clicking the *save manually* option, represented by a :guilabel:`(cloud upload)` icon, located in the top-left corner. To cancel any changes made, click the :guilabel:`✖️ (Discard all changes)` icon to delete any changes, and revert to the original content."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "A level form in edit mode."
 msgstr ""
 
@@ -20289,7 +20337,7 @@ msgstr ""
 msgid "Leveling up does not cost the user any points, the user simply needs to earn the specified amount of points required."
 msgstr ""
 
-#: ../../content/applications/hr/referrals.rst:-1
+#: ../../content/applications/hr/referrals.rst:None
 msgid "A 'Click to level up!' appears beneath the user's image, and a large 'Level up!' appears\n"
 "above their image."
 msgstr ""
@@ -20326,7 +20374,7 @@ msgstr ""
 msgid "Alerts remain on the main *Referrals* dashboard for the specified amount of time configured on the individual alert."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/alerts.rst:-1
+#: ../../content/applications/hr/referrals/alerts.rst:None
 msgid "Two alert banners appear above the user's photo."
 msgstr ""
 
@@ -20382,7 +20430,7 @@ msgstr ""
 msgid ":guilabel:`Specify URL`: the alert contains a link to a specific URL that, when clicked, navigates to that URL. When selected, a :guilabel:`URL` field appears below the :guilabel:`On Click` section. Enter the desired URL in that field."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/alerts.rst:-1
+#: ../../content/applications/hr/referrals/alerts.rst:None
 msgid "An alert form completely filled in with all selections entered."
 msgstr ""
 
@@ -20446,7 +20494,7 @@ msgstr ""
 msgid "For referrals that have been hired, the selected avatar also appears on the card."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/points.rst:-1
+#: ../../content/applications/hr/referrals/points.rst:None
 msgid "Two referral cards, one hired and one in-progress."
 msgstr ""
 
@@ -20570,7 +20618,7 @@ msgstr ""
 msgid "This information can be helpful to the recruitment team, so they can determine the most active referrers in the company, and who is the most successful in terms of hires."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/reporting.rst:-1
+#: ../../content/applications/hr/referrals/reporting.rst:None
 msgid "The customized report showing which employees have the most referrals and hires."
 msgstr ""
 
@@ -20642,7 +20690,7 @@ msgstr ""
 msgid ":guilabel:`Description` tab: type in the description for the reward. This is visible on the reward card, beneath the title. This field is required."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/rewards.rst:-1
+#: ../../content/applications/hr/referrals/rewards.rst:None
 msgid "A filled out reward form with all details entered."
 msgstr ""
 
@@ -20678,7 +20726,7 @@ msgstr ""
 msgid "After :guilabel:`OK` is clicked, the pop-up window closes, and the points used to purchase the reward are subtracted from the user's available points. The rewards presented are now updated to reflect the user's current available points."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/rewards.rst:-1
+#: ../../content/applications/hr/referrals/rewards.rst:None
 msgid "Buy button appears below a mug and backpack reward, while the bicycle reward states how\n"
 "many more reward points are needed to redeem."
 msgstr ""
@@ -20703,7 +20751,7 @@ msgstr "求人を見る"
 msgid "To see all job positions that are actively recruiting candidates, click the :guilabel:`View Jobs` button on the main *Referrals* dashboard. This presents all job positions, with each individual job presented with its own card."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/share_jobs.rst:-1
+#: ../../content/applications/hr/referrals/share_jobs.rst:None
 msgid "The 'View Jobs' screen, displaying all current open job positions. All information is\n"
 "displayed on the card."
 msgstr ""
@@ -20760,7 +20808,7 @@ msgstr ""
 msgid "If desired, add any text or closing salutation to the email body. When all edits have been made, click :guilabel:`Send Mail` to send the email, or click :guilabel:`Cancel` to close the pop-up window."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/share_jobs.rst:-1
+#: ../../content/applications/hr/referrals/share_jobs.rst:None
 msgid "Referral email pop-up window with the email message inside it."
 msgstr ""
 
@@ -20772,7 +20820,7 @@ msgstr ""
 msgid "Other than sending an email, job positions can be shared, via social media platforms, and by tracking links to the job position. At the bottom of each job position card are four icons, and corresponding tracking links, that can be used to share the job position, keeping track of applicants in the *Referrals* application."
 msgstr ""
 
-#: ../../content/applications/hr/referrals/share_jobs.rst:-1
+#: ../../content/applications/hr/referrals/share_jobs.rst:None
 msgid "The various sharing icons that appear for each job."
 msgstr ""
 
@@ -21056,7 +21104,7 @@ msgstr ""
 msgid "These settings allow Sara to submit a request for five days of the `Vacation` time off type. If approved, her `Vacation` time off balance will be negative two (-2) days."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "The top half of the time off type form, with all the information filled out for sick time\n"
 "off."
 msgstr ""
@@ -21101,7 +21149,7 @@ msgstr ""
 msgid ":guilabel:`Cover Image`: Select an icon to be used in the **Time Off** app dashboard."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "The lower half of the time off type form, with all the information filled out for sick time\n"
 "off."
 msgstr ""
@@ -21182,7 +21230,7 @@ msgstr ""
 msgid ":guilabel:`Company`: This field **only** appears in a multi-company database. Using the drop-down menu, select the company the accrual plan applies to. If left blank, the accrual plan can be used for all companies."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "An accrual plan form with all the entries filled out."
 msgstr ""
 
@@ -21274,7 +21322,7 @@ msgstr ""
 msgid "Once the form is completed, click :guilabel:`Save & Close` to save the :guilabel:`Create Milestone` form, and close the modal, or click :guilabel:`Save & New` to save the form and create another milestone. Add as many milestones as desired."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "A milestone form with all the entries filled out."
 msgstr ""
 
@@ -21359,7 +21407,7 @@ msgstr ""
 msgid ":guilabel:`Work Entry Type`: If using the **Payroll** app, this field defines how the :ref:`work entries <payroll/work-entries>` for the holiday appear. Select the work entry type from the drop-down menu."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "The list of public holidays in the configuration menu."
 msgstr ""
 
@@ -21419,7 +21467,7 @@ msgstr ""
 msgid ":guilabel:`Color`: If desired, select a color from the available presented options. If no color is desired, select the `No color` option, represented by a white box with a red line diagonally across it. The selected color appears on the main **Time Off** app dashboard, in both the calendar and in the legend."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "The Mandatory Days section with three configured days."
 msgstr ""
 
@@ -21467,7 +21515,7 @@ msgstr ""
 msgid "Click on a time off entry to view the details for the specific time off entry. The total number of hours or days are listed, along with the start and end time of the time off. To view the details of the time off request in a modal, click the :guilabel:`View` button."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "Overview of the user's team, with time off requests shown."
 msgstr ""
 
@@ -21503,7 +21551,7 @@ msgstr ""
 msgid "The information shown in the list includes: the :guilabel:`Employee` name, :guilabel:`Number of Days` off requested, the :guilabel:`Start Date`, :guilabel:`End Date`, :guilabel:`Status`, and :guilabel:`Description`."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "Report of time off, shown by each employee in a list view."
 msgstr ""
 
@@ -21527,7 +21575,7 @@ msgstr ""
 msgid "Hover over a bar to view the :guilabel:`Duration (Days)` of that specific time off type."
 msgstr ""
 
-#: ../../content/applications/hr/time_off.rst:-1
+#: ../../content/applications/hr/time_off.rst:None
 msgid "The various time off types, and how many days requested, in a bar chart. Details are\n"
 "highlighted in a red box."
 msgstr ""
@@ -21656,7 +21704,7 @@ msgstr ""
 msgid ":guilabel:`Add a reason...`: If any description or note is necessary to explain the time off allocation, enter it in this field at the bottom of the form."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/allocations.rst:-1
+#: ../../content/applications/hr/time_off/allocations.rst:None
 msgid "A new allocation form with all the fields filled out for the annual two week vacation\n"
 "granted to all employees."
 msgstr ""
@@ -21705,7 +21753,7 @@ msgstr ""
 msgid "Fill out the remainder of the :ref:`Multiple Requests form <time_off/allocation-form>`, then click :guilabel:`Create Allocations` when done."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/allocations.rst:-1
+#: ../../content/applications/hr/time_off/allocations.rst:None
 msgid "An allocation request form filled out for sick time for all employees within the sales\n"
 "department."
 msgstr ""
@@ -21754,7 +21802,7 @@ msgstr ""
 msgid "If the form was completed from the :guilabel:`My Allocations` list view, the information is automatically saved as it is entered. However, the form can be saved manually at any time by clicking the :icon:`fa-cloud-upload` :guilabel:`(cloud upload)` icon."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/allocations.rst:-1
+#: ../../content/applications/hr/time_off/allocations.rst:None
 msgid "An allocation request form filled out for an employee requesting an additional week of\n"
 "sick time."
 msgstr ""
@@ -21840,7 +21888,7 @@ msgstr ""
 msgid "To refuse a request, click the :icon:`fa-times` :guilabel:`Refuse` button at the far end of the line."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/management.rst:-1
+#: ../../content/applications/hr/time_off/management.rst:None
 msgid "Time off requests with the filter, groupings, and status sections highlighted."
 msgstr ""
 
@@ -21912,7 +21960,7 @@ msgstr ""
 msgid "To approve an allocation request, click the :icon:`fa-check` :guilabel:`Validate` button at the end of the line. To refuse a request, click the :icon:`fa-times` :guilabel:`Refuse` button."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/management.rst:-1
+#: ../../content/applications/hr/time_off/management.rst:None
 msgid "Allocations with the filter, groupings, and status sections highlighted."
 msgstr ""
 
@@ -21976,7 +22024,7 @@ msgstr ""
 msgid "To view the full details of a time off balance, click the :icon:`fa-question-circle-o` :guilabel:`(question mark)` icon at the end of the :guilabel:`(DAYS/HOURS) AVAILABLE` on the time off summary. The complete details are presented in a popover window, including the :guilabel:`Allocated` time, :guilabel:`Accrual (Future)` time, :guilabel:`Approved` time off scheduled, :guilabel:`Planned` time off, and the currently :guilabel:`Available` time off."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/my_time.rst:-1
+#: ../../content/applications/hr/time_off/my_time.rst:None
 msgid "A view of the complete time off balance details in the popover window."
 msgstr ""
 
@@ -22012,7 +22060,7 @@ msgstr ""
 msgid "New allocation requests can also be made from the :guilabel:`Dashboard`. Click the :guilabel:`New Allocation Request` button to request more time off, and a :ref:`New Allocation <time_off/request-allocation>` pop-up window appears."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/my_time.rst:-1
+#: ../../content/applications/hr/time_off/my_time.rst:None
 msgid "Time off dashboard view with the legend, time off summaries, and view buttons highlighted."
 msgstr ""
 
@@ -22132,7 +22180,7 @@ msgstr ""
 msgid "If the form was completed from the :guilabel:`My Time Off` list view, the information is automatically saved as it is entered. However, the form can be saved manually at any time by clicking the :icon:`fa-cloud-upload` :guilabel:`(cloud upload)` icon."
 msgstr ""
 
-#: ../../content/applications/hr/time_off/request_time_off.rst:-1
+#: ../../content/applications/hr/time_off/request_time_off.rst:None
 msgid "A time off request form filled out for an employee home sick for two days with the flu."
 msgstr ""
 

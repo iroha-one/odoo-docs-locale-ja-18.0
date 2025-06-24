@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-30 14:37+0000\n"
-"PO-Revision-Date: 2025-06-22 04:46\n"
+"POT-Creation-Date: 2025-06-22 22:44+0000\n"
+"PO-Revision-Date: 2025-06-24 11:31\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "用途"
 msgid "Once an approval rule has been defined for a button, a **user avatar** icon is displayed next to the button's label for each approval step. Clicking an icon reveals the step(s)."
 msgstr ""
 
-#: ../../content/applications/studio/approval_rules.rst:-1
+#: ../../content/applications/studio/approval_rules.rst:None
 msgid "Confirm button with two approval steps"
 msgstr ""
 
@@ -301,7 +301,7 @@ msgstr "値が更新されました"
 msgid "The triggers available in this category depend on the model and are based on common field changes, such as adding a specific tag (e.g., to a task) or setting the :guilabel:`User` field. Select the trigger, then select a value if required."
 msgstr ""
 
-#: ../../content/applications/studio/automated_actions.rst:-1
+#: ../../content/applications/studio/automated_actions.rst:None
 msgid "Example of a Values Updated trigger"
 msgstr ""
 
@@ -1774,7 +1774,7 @@ msgstr ""
 msgid "Click the :guilabel:`Export` button to download the ZIP file."
 msgstr ""
 
-#: ../../content/applications/studio/models_modules_apps.rst:-1
+#: ../../content/applications/studio/models_modules_apps.rst:None
 msgid "Choosing to export both data and demo data"
 msgstr ""
 
@@ -2062,7 +2062,7 @@ msgstr ""
 msgid "The dashed rectangles represent **conditional blocks** (*if/else* statements). These are used to show/hide content based on specific conditions. Click on the block to view the conditions."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "View conditions applied to a block."
 msgstr ""
 
@@ -2070,7 +2070,7 @@ msgstr ""
 msgid "Select a value to preview its corresponding output and edit it if necessary."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Preview the output of another condition."
 msgstr ""
 
@@ -2114,7 +2114,7 @@ msgstr ""
 msgid "To add a field, type `/` and select the :guilabel:`Field` command. In the list that opens, select or search for the field; click the right arrow next to the field name to access the list of related fields if needed. Then, specify the default value that will be shown if the field is not completed in the record and press `Enter`."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Select a related field."
 msgstr "関連するフィールドを選択します。"
 
@@ -2150,7 +2150,7 @@ msgstr ""
 msgid "You can insert, move and delete columns and rows using the table tools. Position the cursor on top of the column or to the left of the row then click the purple rectangle and select an option."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available options for editing table structure."
 msgstr ""
 
@@ -2190,7 +2190,7 @@ msgstr ""
 msgid "To add a field to a cell, delete any placeholder text then add the :ref:`field of your choice <studio/pdf-reports/add-field>`. The dialog box that opens shows the source object for the field (e.g., the *Order Lines* model) and the list of available fields."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available fields for the sale order lines model."
 msgstr ""
 

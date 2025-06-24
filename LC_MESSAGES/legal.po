@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-08 12:48+0000\n"
-"PO-Revision-Date: 2025-06-22 04:46\n"
+"POT-Creation-Date: 2025-06-22 22:44+0000\n"
+"PO-Revision-Date: 2025-06-24 11:31\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid "In order to contribute to any of the Odoo projects, companies and individ
 msgstr ""
 
 #: ../../content/legal/cla.rst:10
-msgid "More information about this requirement, the procedure to sign the agreement, and a FAQ can be found on our `GitHub project page <https://github.com/odoo/odoo/blob/17.0/doc/cla/sign-cla.md>`_."
+msgid "More information about this requirement, the procedure to sign the agreement, and a FAQ can be found on our `GitHub project page <https://github.com/odoo/odoo/blob/18.0/doc/cla/sign-cla.md>`_."
 msgstr ""
 
 #: ../../content/legal/coc.rst:7
@@ -166,52 +166,68 @@ msgid "Licenses"
 msgstr ""
 
 #: ../../content/legal/licenses.rst:11
-msgid "Odoo 16 Community Edition"
+msgid "Odoo 18 Community Edition"
 msgstr ""
 
 #: ../../content/legal/licenses.rst:13
-msgid "Odoo 16 Community Edition is licensed under `LGPL version 3 <http://www.gnu.org/licenses/lgpl-3.0.en.html>`_  (also known as LGPLv3). See also the `GPL FAQ <http://www.gnu.org/licenses/gpl-faq.en.html>`_ and the `compatibility matrix <http://www.gnu.org/licenses/gpl-faq.en.html#AllCompatibility>`_."
+msgid "Odoo 18 Community Edition is licensed under `LGPL version 3 <http://www.gnu.org/licenses/lgpl-3.0.en.html>`_  (also known as LGPLv3). See also the `GPL FAQ <http://www.gnu.org/licenses/gpl-faq.en.html>`_ and the `compatibility matrix <http://www.gnu.org/licenses/gpl-faq.en.html#AllCompatibility>`_."
 msgstr ""
 
 #: ../../content/legal/licenses.rst:22
-msgid "Odoo 16 Enterprise Edition"
+msgid "Odoo 18 Enterprise Edition"
 msgstr ""
 
 #: ../../content/legal/licenses.rst:24
-msgid "Odoo 16 Enterprise Edition is licensed under the Odoo Enterprise Edition License v1.0, defined as follows:"
+msgid "Odoo 18 Enterprise Edition is licensed under the Odoo Enterprise Edition License v1.0, defined as follows:"
 msgstr ""
 
+#: ../../content/legal/licenses/enterprise_license.txt:1
 #: ../../content/legal/terms/i18n/enterprise_fr.rst:658
+#: ../../content/legal/licenses/enterprise_license.txt:1
 #: ../../content/legal/terms/i18n/partnership_fr.rst:423
 #: ../../content/legal/licenses/enterprise_license.txt:1
 msgid "Odoo Enterprise Edition License v1.0"
 msgstr ""
 
 #: ../../content/legal/licenses/enterprise_license.txt:3
+#: ../../content/legal/licenses/enterprise_license.txt:3
+#: ../../content/legal/licenses/enterprise_license.txt:3
 msgid "This software and associated files (the \"Software\") can only be used (executed, modified, executed after modifications) with a valid Odoo Enterprise Subscription for the correct number of users."
 msgstr ""
 
+#: ../../content/legal/licenses/enterprise_license.txt:7
+#: ../../content/legal/licenses/enterprise_license.txt:7
 #: ../../content/legal/licenses/enterprise_license.txt:7
 msgid "With a valid Partnership Agreement with Odoo S.A., the above permissions are also granted, as long as the usage is limited to a testing or development environment."
 msgstr ""
 
 #: ../../content/legal/licenses/enterprise_license.txt:11
+#: ../../content/legal/licenses/enterprise_license.txt:11
+#: ../../content/legal/licenses/enterprise_license.txt:11
 msgid "You may develop Odoo modules based on the Software and distribute them under the license of your choice, provided that it is compatible with the terms of the Odoo Enterprise Edition License (For example: LGPL, MIT, or proprietary licenses similar to this one)."
 msgstr ""
 
 #: ../../content/legal/licenses/enterprise_license.txt:16
+#: ../../content/legal/licenses/enterprise_license.txt:16
+#: ../../content/legal/licenses/enterprise_license.txt:16
 msgid "You may use Odoo modules published under any license along with the Software, provided that their license is compatible with the terms of the Odoo Enterprise License (Including, but not limited to, any module published on the Odoo Apps Store on odoo.com/apps)"
 msgstr ""
 
+#: ../../content/legal/licenses/enterprise_license.txt:21
 #: ../../content/legal/licenses.rst:69
+#: ../../content/legal/licenses/enterprise_license.txt:21
 #: ../../content/legal/licenses/enterprise_license.txt:21
 msgid "It is forbidden to publish, distribute, sublicense, or sell copies of the Software or modified copies of the Software."
 msgstr ""
 
 #: ../../content/legal/licenses/enterprise_license.txt:24
+#: ../../content/legal/licenses/enterprise_license.txt:24
+#: ../../content/legal/licenses/enterprise_license.txt:24
 msgid "The above copyright notice and this permission notice must be included in all  copies or substantial portions of the Software."
 msgstr ""
 
+#: ../../content/legal/licenses/enterprise_license.txt:27
+#: ../../content/legal/licenses/enterprise_license.txt:27
 #: ../../content/legal/licenses/enterprise_license.txt:27
 msgid "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
 msgstr ""
@@ -245,7 +261,7 @@ msgid "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 msgstr ""
 
 #: ../../content/legal/licenses.rst:90
-msgid "Odoo 9 - Odoo 15"
+msgid "Odoo 9 - Odoo 17"
 msgstr ""
 
 #: ../../content/legal/licenses.rst:92
@@ -269,7 +285,7 @@ msgid "Odoo Enterprise Subscription Agreement"
 msgstr ""
 
 #: ../../content/legal/terms/enterprise.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/enterprise.rst:11
@@ -910,7 +926,7 @@ msgid "Odoo Enterprise Abonnementsvertrag"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_de.rst:10
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement_de.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement_de.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_de.rst:12
@@ -1486,7 +1502,7 @@ msgid "Acuerdo de suscripción de Odoo Enterprise"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_es.rst:10
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement_es.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement_es.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_es.rst:18
@@ -2074,7 +2090,7 @@ msgid "Odoo Enterprise Subscription Agreement (FR)"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_fr.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement_fr.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement_fr.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_fr.rst:11
@@ -2696,7 +2712,7 @@ msgid "Odoo Enterprise Subscription Agreement (NL)"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_nl.rst:10
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement_nl.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement_nl.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_nl.rst:12
@@ -3264,7 +3280,7 @@ msgid "Odoo Enterprise Subscription Agreement (PT)"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_pt_BR.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_enterprise_agreement_pt_BR.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement_pt_BR.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/enterprise_pt_BR.rst:11
@@ -3876,7 +3892,7 @@ msgid "Odoo Partnership Agreement (ES)"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_partnership_agreement_es.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_partnership_agreement_es.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:15
@@ -4094,7 +4110,10 @@ msgid "Tasa de Retención mínima"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:123
+#: ../../content/legal/terms/i18n/partnership_es.rst:123
 #: ../../content/legal/terms/i18n/partnership_fr.rst:128
+#: ../../content/legal/terms/i18n/partnership_fr.rst:128
+#: ../../content/legal/terms/partnership.rst:119
 #: ../../content/legal/terms/partnership.rst:119
 msgid "n/a"
 msgstr ""
@@ -4171,13 +4190,38 @@ msgid "Derechos de uso de la marca registrada “Odoo” y logotipos"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:154
+#: ../../content/legal/terms/i18n/partnership_es.rst:154
+#: ../../content/legal/terms/i18n/partnership_es.rst:154
+#: ../../content/legal/terms/i18n/partnership_es.rst:154
+#: ../../content/legal/terms/i18n/partnership_es.rst:159
+#: ../../content/legal/terms/i18n/partnership_es.rst:159
+#: ../../content/legal/terms/i18n/partnership_es.rst:159
 #: ../../content/legal/terms/i18n/partnership_es.rst:159
 #: ../../content/legal/terms/i18n/partnership_es.rst:161
+#: ../../content/legal/terms/i18n/partnership_es.rst:161
+#: ../../content/legal/terms/i18n/partnership_es.rst:161
+#: ../../content/legal/terms/i18n/partnership_es.rst:161
+#: ../../content/legal/terms/i18n/partnership_es.rst:165
+#: ../../content/legal/terms/i18n/partnership_es.rst:165
+#: ../../content/legal/terms/i18n/partnership_es.rst:165
 #: ../../content/legal/terms/i18n/partnership_es.rst:165
 #: ../../content/legal/terms/i18n/partnership_es.rst:168
+#: ../../content/legal/terms/i18n/partnership_es.rst:168
+#: ../../content/legal/terms/i18n/partnership_es.rst:168
+#: ../../content/legal/terms/i18n/partnership_es.rst:168
+#: ../../content/legal/terms/i18n/partnership_es.rst:171
+#: ../../content/legal/terms/i18n/partnership_es.rst:171
+#: ../../content/legal/terms/i18n/partnership_es.rst:171
 #: ../../content/legal/terms/i18n/partnership_es.rst:171
 #: ../../content/legal/terms/i18n/partnership_es.rst:181
+#: ../../content/legal/terms/i18n/partnership_es.rst:181
+#: ../../content/legal/terms/i18n/partnership_es.rst:181
 #: ../../content/legal/terms/i18n/partnership_es.rst:186
+#: ../../content/legal/terms/i18n/partnership_es.rst:186
+#: ../../content/legal/terms/i18n/partnership_es.rst:186
+#: ../../content/legal/terms/i18n/partnership_es.rst:186
+#: ../../content/legal/terms/i18n/partnership_es.rst:188
+#: ../../content/legal/terms/i18n/partnership_es.rst:188
 #: ../../content/legal/terms/i18n/partnership_es.rst:188
 msgid "Sí"
 msgstr ""
@@ -4220,15 +4264,24 @@ msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:176
 #: ../../content/legal/terms/i18n/partnership_es.rst:179
+#: ../../content/legal/terms/i18n/partnership_es.rst:179
 #: ../../content/legal/terms/i18n/partnership_fr.rst:179
 #: ../../content/legal/terms/i18n/partnership_fr.rst:182
+#: ../../content/legal/terms/i18n/partnership_fr.rst:182
 #: ../../content/legal/terms/partnership.rst:171
+#: ../../content/legal/terms/partnership.rst:173
 #: ../../content/legal/terms/partnership.rst:173
 msgid "10%"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_es.rst:176
+#: ../../content/legal/terms/i18n/partnership_es.rst:176
+#: ../../content/legal/terms/i18n/partnership_es.rst:176
 #: ../../content/legal/terms/i18n/partnership_fr.rst:179
+#: ../../content/legal/terms/i18n/partnership_fr.rst:179
+#: ../../content/legal/terms/i18n/partnership_fr.rst:179
+#: ../../content/legal/terms/partnership.rst:171
+#: ../../content/legal/terms/partnership.rst:171
 #: ../../content/legal/terms/partnership.rst:171
 msgid "50%"
 msgstr ""
@@ -4441,8 +4494,8 @@ msgstr ""
 msgid "Este contrato se rige y se interpreta de acuerdo con las leyes de Bélgica. Todas las disputas que surjan en relación con este contrato para las que no se pueda encontrar una solución amistosa serán resueltas definitivamente en los Tribunales de Bélgica en Nivelles."
 msgstr ""
 
-#: ../../content/legal/terms/i18n/partnership_es.rst:-1
 #: ../../content/legal/terms/i18n/partnership_es.rst:370
+#: ../../content/legal/terms/i18n/partnership_es.rst:None
 msgid "Firmas"
 msgstr ""
 
@@ -4467,7 +4520,7 @@ msgid "Odoo Partnership Agreement (FR)"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_fr.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/odoo_partnership_agreement_fr.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/odoo_partnership_agreement_fr.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_fr.rst:11
@@ -4648,13 +4701,38 @@ msgid "Droit d’utiliser la marque déposée et les logos"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_fr.rst:159
+#: ../../content/legal/terms/i18n/partnership_fr.rst:159
+#: ../../content/legal/terms/i18n/partnership_fr.rst:159
+#: ../../content/legal/terms/i18n/partnership_fr.rst:159
+#: ../../content/legal/terms/i18n/partnership_fr.rst:164
+#: ../../content/legal/terms/i18n/partnership_fr.rst:164
+#: ../../content/legal/terms/i18n/partnership_fr.rst:164
 #: ../../content/legal/terms/i18n/partnership_fr.rst:164
 #: ../../content/legal/terms/i18n/partnership_fr.rst:166
+#: ../../content/legal/terms/i18n/partnership_fr.rst:166
+#: ../../content/legal/terms/i18n/partnership_fr.rst:166
+#: ../../content/legal/terms/i18n/partnership_fr.rst:166
+#: ../../content/legal/terms/i18n/partnership_fr.rst:170
+#: ../../content/legal/terms/i18n/partnership_fr.rst:170
+#: ../../content/legal/terms/i18n/partnership_fr.rst:170
 #: ../../content/legal/terms/i18n/partnership_fr.rst:170
 #: ../../content/legal/terms/i18n/partnership_fr.rst:172
+#: ../../content/legal/terms/i18n/partnership_fr.rst:172
+#: ../../content/legal/terms/i18n/partnership_fr.rst:172
+#: ../../content/legal/terms/i18n/partnership_fr.rst:172
+#: ../../content/legal/terms/i18n/partnership_fr.rst:174
+#: ../../content/legal/terms/i18n/partnership_fr.rst:174
+#: ../../content/legal/terms/i18n/partnership_fr.rst:174
 #: ../../content/legal/terms/i18n/partnership_fr.rst:174
 #: ../../content/legal/terms/i18n/partnership_fr.rst:187
+#: ../../content/legal/terms/i18n/partnership_fr.rst:187
+#: ../../content/legal/terms/i18n/partnership_fr.rst:187
 #: ../../content/legal/terms/i18n/partnership_fr.rst:192
+#: ../../content/legal/terms/i18n/partnership_fr.rst:192
+#: ../../content/legal/terms/i18n/partnership_fr.rst:192
+#: ../../content/legal/terms/i18n/partnership_fr.rst:192
+#: ../../content/legal/terms/i18n/partnership_fr.rst:194
+#: ../../content/legal/terms/i18n/partnership_fr.rst:194
 #: ../../content/legal/terms/i18n/partnership_fr.rst:194
 msgid "Oui"
 msgstr ""
@@ -4704,6 +4782,12 @@ msgid "Commission sur la Maintenance de Modules Supplémentaires"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/partnership_fr.rst:184
+#: ../../content/legal/terms/i18n/partnership_fr.rst:184
+#: ../../content/legal/terms/i18n/partnership_fr.rst:184
+#: ../../content/legal/terms/i18n/partnership_fr.rst:184
+#: ../../content/legal/terms/partnership.rst:175
+#: ../../content/legal/terms/partnership.rst:175
+#: ../../content/legal/terms/partnership.rst:175
 #: ../../content/legal/terms/partnership.rst:175
 msgid "82%"
 msgstr ""
@@ -4925,10 +5009,10 @@ msgstr ""
 msgid "Ce Contrat sera gouverné par et interprété en accord avec la loi belge. Tout litige naissant en lien avec le Contrat et pour lequel aucun règlement à l’amiable ne peut être trouvé sera finalement réglé par les Tribunaux de Belgique à Nivelles."
 msgstr ""
 
-#: ../../content/legal/terms/i18n/partnership_fr.rst:-1
 #: ../../content/legal/terms/i18n/partnership_fr.rst:382
-#: ../../content/legal/terms/partnership.rst:-1
+#: ../../content/legal/terms/i18n/partnership_fr.rst:None
 #: ../../content/legal/terms/partnership.rst:370
+#: ../../content/legal/terms/partnership.rst:None
 msgid "Signatures"
 msgstr ""
 
@@ -4953,7 +5037,7 @@ msgid "Allgemeine Verkaufsbedingungen"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_de.rst:9
-msgid "`PDF herunterladen <https://www.odoo.com/documentation/17.0/terms_of_sale_de.pdf>`_"
+msgid "`PDF herunterladen <https://www.odoo.com/documentation/18.0/terms_of_sale_de.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_de.rst:11
@@ -5017,7 +5101,7 @@ msgid "Términos Generales de Venta"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_es.rst:9
-msgid "`Descargar PDF <https://www.odoo.com/documentation/17.0/terms_of_sale_es.pdf>`_"
+msgid "`Descargar PDF <https://www.odoo.com/documentation/18.0/terms_of_sale_es.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_es.rst:11
@@ -5081,7 +5165,7 @@ msgid "Conditions Générales de Vente"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_fr.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/terms_of_sale_fr.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/terms_of_sale_fr.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_fr.rst:11
@@ -5142,6 +5226,70 @@ msgstr ""
 
 #: ../../content/legal/terms/i18n/terms_of_sale_fr.rst:88
 msgid "Tout litige résultant de la présente convention ressort de l’application du droit belge et est de la compétence des Tribunaux de l’arrondissement du siège social d’Odoo S.A. hormis le droit d’Odoo S.A. de porter le litige devant une autre juridiction compétente."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:5
+msgid "Termos Gerais de Venda"
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:9
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/terms_of_sale_pt_BR.pdf>`_"
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:11
+msgid "Última revisão: 12 de setembro de 2023."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:13
+msgid "Estes Termos Gerais de Venda regem a venda de produtos e serviços pela Odoo S.A. e suas afiliadas (coletivamente, \"Odoo S.A.\") ao cliente. Termos adicionais podem ser aplicados para serviços fornecidos pela Odoo S.A. (por exemplo, o Odoo Enterprise Subscription Agreement). Se estes termos adicionais forem inconsistentes com os Termos Gerais de Venda, os termos adicionais prevalecerão sobre os Termos Gerais de Venda."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:19
+msgid "Leia estes termos cuidadosamente antes de realizar um pedido à Odoo S.A. Ao aceitar a pedido feito à Odoo S.A., o cliente afirma a sua concordância com estes termos."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:22
+msgid "O cliente renuncia explicitamente às suas próprias condições gerais de venda, mesmo que estas tenham sido redigidas após as presentes condições gerais de venda. Para ser válida, qualquer derrogação deve ser objeto de um acordo prévio e expresso por escrito."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:26
+msgid "As nossas faturas devem ser pagas no prazo de 21 dias úteis, salvo se indicado outro prazo de pagamento na fatura ou no pedido. Em caso de não pagamento na data de vencimento, a Odoo S.A. reserva-se o direito de solicitar um pagamento de juros fixos de 15% do valor em dívida. A Odoo S.A. está autorizada a suspender qualquer prestação de serviços sem aviso prévio em caso de atraso de pagamento."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:32
+msgid "Se um pagamento ainda estiver pendente mais de sessenta (60) dias após a data de vencimento, Odoo S.A. reserva-se o direito de recorrer aos serviços de uma empresa de cobrança de dívidas. Todas as despesas legais ficarão a cargo do cliente."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:36
+msgid "Alguns países aplicam retenções na fonte sobre o valor das faturas, em conformidade com a sua legislação interna. Qualquer retenção na fonte será paga pelo cliente às autoridades fiscais. A Odoo S.A. não pode, em caso algum, envolver-se em custos relacionados com a legislação de um país. O valor da fatura será, portanto, devido à Odoo S.A. na sua totalidade e não inclui custos relacionados com a legislação do país em que o cliente está localizado."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:42
+msgid "Para clientes com uma presença global, o preço aplicável baseia-se sempre na localização do cliente com a lista de preços mais elevada, exceto se especificado diferentemente, por escrito, no momento da compra."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:46
+msgid "As assinaturas mensais estão disponíveis apenas para hospedagem na plataforma de nuvem (Odoo SaaS e Odoo SH). O pagamento das assinaturas mensais só pode ser efetuado por cartão de crédito ou por um método de débito automático suportado equivalente. A Odoo S.A. reserva-se o direito de recusar qualquer assinatura mensal que não cumpra estas condições."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:51
+msgid "A Odoo S.A. compromete-se a envidar todos os esforços para prestar os serviços em tempo útil e de acordo com os prazos acordados. No entanto, nenhuma das suas obrigações pode ser considerada como uma obrigação de entregar resultados. O cliente, não pode, em caso algum, solicitar intervenção da Odoo S.A. como terceiro, no âmbito de qualquer reivindicação de indemnização apresentada contra o cliente por um consumidor final."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:57
+msgid "Para que seja admissível, a Odoo S.A. deve ser notificada de qualquer reclamação através de carta enviada para a sua sede social por correio registrado no prazo de oito dias após a entrega dos bens ou a prestação dos serviços."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:61
+msgid "Na medida máxima permitida por lei, a responsabilidade agregada de cada uma das partes, juntamente com as suas afiliadas, não excederá 50% do valor total pago pelo Cliente sob as presentes condições durante os 12 meses imediatamente anteriores à data do fato que deu origem à reivindicação. Reivindicações múltiplas não aumentarão esta limitação."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:66
+msgid "A Odoo S.A. reserva-se o direito de modificar as presentes condições em qualquer momento sem aviso prévio. O cliente estará sujeito às condições em vigor no momento da aceitação dessas condições."
+msgstr ""
+
+#: ../../content/legal/terms/i18n/terms_of_sale_pt_BR.rst:69
+msgid "Todas as nossas relações contratuais serão regidas exclusivamente pela lei belga. Além disso, qualquer litígio que possa surgir será exclusivamente da competência dos tribunais do distrito de Nivelles (Bélgica)."
 msgstr ""
 
 #: ../../content/legal/terms/odoo_sh_terms.rst:5
@@ -5333,13 +5481,38 @@ msgid "Right to use \"Odoo\" trademark and Partner Logo"
 msgstr ""
 
 #: ../../content/legal/terms/partnership.rst:150
+#: ../../content/legal/terms/partnership.rst:150
+#: ../../content/legal/terms/partnership.rst:150
+#: ../../content/legal/terms/partnership.rst:150
+#: ../../content/legal/terms/partnership.rst:155
+#: ../../content/legal/terms/partnership.rst:155
+#: ../../content/legal/terms/partnership.rst:155
 #: ../../content/legal/terms/partnership.rst:155
 #: ../../content/legal/terms/partnership.rst:157
+#: ../../content/legal/terms/partnership.rst:157
+#: ../../content/legal/terms/partnership.rst:157
+#: ../../content/legal/terms/partnership.rst:157
+#: ../../content/legal/terms/partnership.rst:161
+#: ../../content/legal/terms/partnership.rst:161
+#: ../../content/legal/terms/partnership.rst:161
 #: ../../content/legal/terms/partnership.rst:161
 #: ../../content/legal/terms/partnership.rst:164
+#: ../../content/legal/terms/partnership.rst:164
+#: ../../content/legal/terms/partnership.rst:164
+#: ../../content/legal/terms/partnership.rst:164
+#: ../../content/legal/terms/partnership.rst:166
+#: ../../content/legal/terms/partnership.rst:166
+#: ../../content/legal/terms/partnership.rst:166
 #: ../../content/legal/terms/partnership.rst:166
 #: ../../content/legal/terms/partnership.rst:178
+#: ../../content/legal/terms/partnership.rst:178
+#: ../../content/legal/terms/partnership.rst:178
 #: ../../content/legal/terms/partnership.rst:183
+#: ../../content/legal/terms/partnership.rst:183
+#: ../../content/legal/terms/partnership.rst:183
+#: ../../content/legal/terms/partnership.rst:183
+#: ../../content/legal/terms/partnership.rst:185
+#: ../../content/legal/terms/partnership.rst:185
 #: ../../content/legal/terms/partnership.rst:185
 msgid "Yes"
 msgstr ""
@@ -5617,7 +5790,7 @@ msgid "General Terms of Sale"
 msgstr ""
 
 #: ../../content/legal/terms/terms_of_sale.rst:9
-msgid "`Download PDF <https://www.odoo.com/documentation/17.0/terms_of_sale.pdf>`_"
+msgid "`Download PDF <https://www.odoo.com/documentation/18.0/terms_of_sale.pdf>`_"
 msgstr ""
 
 #: ../../content/legal/terms/terms_of_sale.rst:11

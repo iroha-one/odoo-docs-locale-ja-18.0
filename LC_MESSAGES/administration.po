@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 07:10+0000\n"
-"PO-Revision-Date: 2025-06-22 04:46\n"
+"POT-Creation-Date: 2025-06-22 22:44+0000\n"
+"PO-Revision-Date: 2025-06-24 11:31\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -458,7 +458,7 @@ msgstr "Odooアカウントの削除は元に戻せません。Odoo.comアカウ
 msgid "Upon clicking the :guilabel:`Delete Account` button, a pop-up window appears, requesting confirmation for the account deletion."
 msgstr ":guilabel:`アカウントの削除` ボタンをクリックすると、アカウントの削除を確認するポップアップウィンドウが表示されます。"
 
-#: ../../content/administration/odoo_accounts.rst:-1
+#: ../../content/administration/odoo_accounts.rst:None
 msgid "Clicking on the Delete Account button will populate a window verifying the change."
 msgstr "アカウントの削除ボタンをクリックすると、変更を検証するウィンドウが表示されます。"
 
@@ -554,7 +554,7 @@ msgstr "データベースを管理するには、`データベースマネジ�
 msgid "All the main database management options are available by clicking the database name, except the upgrade option, which can be accessed by clicking the **arrow in a circle** icon next to the database name. It is only displayed if an upgrade is available."
 msgstr "データベース名をクリックすると、アップグレードオプションを除き、全ての主要なデータベース管理オプションが利用できます。アップグレードオプションは、データベース名の隣にある **円に矢印** のアイコンをクリックすることでアクセスできます。アップグレードが利用可能な場合にのみ表示されます。"
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "Accessing the database management options"
 msgstr "データベース管理オプションへのアクセス"
 
@@ -695,7 +695,7 @@ msgstr "データベースを削除すると、全てのデータが永久に失
 msgid "Carefully read the warning message and only proceed if the implications of deleting a database are fully understood."
 msgstr "警告メッセージをよくお読みになり、データベースを削除することの意味を十分に理解した上で、作業を進めて下さい。"
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "The warning message displayed before deleting a database"
 msgstr "データベースを削除する前に表示される警告メッセージ"
 
@@ -727,7 +727,7 @@ msgstr "ユーザを招待 /  削除する"
 msgid "To invite users, fill out the new user's email address and click :guilabel:`Invite`. To add multiple users, click :guilabel:`Add more users`."
 msgstr "ユーザを招待するには、新しいユーザのEメールアドレスを入力し、:guilabel:`招待する` をクリックします。複数のユーザを追加するには、:guilabel:`ユーザを追加` をクリックします。"
 
-#: ../../content/administration/odoo_online.rst:-1
+#: ../../content/administration/odoo_online.rst:None
 msgid "Inviting a user on a database"
 msgstr "ユーザをデータベースに招待する"
 
@@ -963,7 +963,7 @@ msgstr "ファイルを保存し、Odooシェルを実行します: "
 msgid "Finally, *via* the Odoo Shell, you can trigger the piece of code/function/method you want to debug."
 msgstr "最後に、Odooシェルを *経由* して、デバッグしたいコード/関数/メソッドのトリガを起動することができます。"
 
-#: ../../content/administration/odoo_sh/advanced/containers.rst:-1
+#: ../../content/administration/odoo_sh/advanced/containers.rst:None
 msgid "Console screenshot showing ``pdb`` running in an Odoo.sh shell."
 msgstr "Odoo.shシェルで ``pdb`` が実行されている様子を示すコンソール画面のスクリーンショット。"
 
@@ -3177,7 +3177,7 @@ msgstr "登録エラー"
 msgid "In case of a registration error, the following message should be displayed."
 msgstr "登録エラーが発生した場合は、以下のメッセージが表示されます。"
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database registration error message"
 msgstr "データベース登録エラーメッセージ"
 
@@ -3201,7 +3201,7 @@ msgstr "テスト用または開発用のデータベースが必要な場合は
 msgid "Verify that **no databases share the same UUID** (Universally Unique Identifier) by opening your `Odoo Contract <https://accounts.odoo.com/my/subscription>`_. If two or more databases share the same UUID, their name will be displayed."
 msgstr "Odoo契約書 <https://accounts.odoo.com/my/subscription>`_ を開き、**同じUUID(Universally Unique Identifier) を共有するデータベースが存在しない** ことを確認します。2つ以上のデータベースが同じUUIDを共有している場合、それらの名前が表示されます。"
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database UUID error message"
 msgstr "データベースUUIDエラーメッセージ"
 
@@ -3233,7 +3233,7 @@ msgstr "ユーザが多すぎるエラー"
 msgid "If you have more users in a local database than provisioned in your Odoo Enterprise subscription, the following message should be displayed."
 msgstr "ローカルデータベースのユーザ数がOdoo企業版サブスクリプションで予定された数よりも多い場合、次のメッセージが表示されます。"
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Too many users on a database error message"
 msgstr "データベースにユーザが多すぎるというエラーメッセージ"
 
@@ -3266,7 +3266,7 @@ msgstr "データベースの使用期限切れエラー"
 msgid "If your database expires before you renew your subscription, the following message should be displayed."
 msgstr "サブスクリプションを更新する前にデータベースの使用期限が切れた場合、以下のメッセージが表示されます。"
 
-#: ../../content/administration/on_premise.rst:-1
+#: ../../content/administration/on_premise.rst:None
 msgid "Database expired error message"
 msgstr "データベースの使用期限切れエラーメッセージ"
 

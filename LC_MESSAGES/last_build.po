@@ -13,11 +13,15 @@ msgstr ""
 "X-Crowdin-Project: odoo-docs-locale-ja-180\n"
 "X-Crowdin-Project-ID: 801722\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: index.pot\n"
-"X-Crowdin-File-ID: 416\n"
+"X-Crowdin-File: last_build.pot\n"
+"X-Crowdin-File-ID: 470\n"
 "Language: ja_JP\n"
 
-#: ../../content/index.rst:5
-msgid "Odoo Documentation"
-msgstr "Odooドキュメント"
+#: ../../content/last_build.rst:6
+msgid "Last build date"
+msgstr "最終ビルド日時"
+
+#: ../../content/last_build.rst:8
+msgid "The last time the documentation was built in version |version| was on |today|."
+msgstr "最後にバージョンでドキュメントを構築したのは|version| でした|today|です。"
 
