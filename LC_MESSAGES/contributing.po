@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 22:44+0000\n"
-"PO-Revision-Date: 2025-06-24 12:09\n"
+"PO-Revision-Date: 2025-06-24 21:56\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -201,7 +201,8 @@ msgstr "`github.com/odoo/odoo <https://github.com/odoo/odoo>`_ にアクセス�
 #: ../../content/contributing/install_git.rst:1
 #: ../../content/contributing/install_git.rst:1
 msgid "`Install Git <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_. It is a command-line (:dfn:`a text interface`) tool that allows tracking the history of changes made to a file and, more importantly, working on different versions of that file simultaneously. It means you do not need to worry about overwriting someone else’s pending work when making changes."
-msgstr ""
+msgstr "`Git をインストール <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_ します。Git はコマンドライン（:dfn:`テキストベースのインターフェイス` ）ツールであり、ファイルに加えられた変更履歴を記録するだけでなく、同じファイルの異なるバージョンを同時に作業できる点が大きな特長です。\n"
+"つまり、他の人が保留中の作業をしていても、それを上書きする心配をせずに自分の変更作業を進めることができます。"
 
 #: ../../content/contributing/install_git.rst:6
 #: ../../content/contributing/install_git.rst:6
@@ -292,7 +293,7 @@ msgstr "環境がセットアップされたので、コードベースへの貢
 
 #: ../../content/contributing/development.rst:105
 msgid "Choose the version of Odoo to which you want to make changes. Keep in mind that contributions targeting an :doc:`unsupported version of Odoo </administration/supported_versions>` are not accepted. This guide assumes that the changes target Odoo 18, which corresponds to branch `18.0`."
-msgstr ""
+msgstr "変更を加えたいバージョンのOdooを選択します。 :doc:`サポートされていないバージョンの Odoo </administration/supported_versions>` を対象とした貢献は受け付けていません。 このガイドでは、`18.0`のブランチに対応するOdoo 18を変更することを想定しています。"
 
 #: ../../content/contributing/development.rst:109
 #: ../../content/contributing/documentation.rst:222
@@ -301,7 +302,7 @@ msgstr "ブランチ 18.0 から始まる新しいブランチを作成します
 
 #: ../../content/contributing/development.rst:123
 msgid "`Sign the Odoo CLA <https://github.com/odoo/odoo/blob/18.0/doc/cla/sign-cla.md>`_ if not already done. Skip this step if you work at Odoo."
-msgstr ""
+msgstr "まだ署名していない場合は、 `Odoo CLA に署名する <https://github.com/odoo/odoo/blob/18.0/doc/cla/sign-cla.md>`_ で署名してください。Odoo 社に勤務している方は、この手順をスキップしてください。"
 
 #: ../../content/contributing/development.rst:125
 msgid "Make the desired changes to the codebase. When working on the codebase, follow these rules:"
@@ -339,7 +340,7 @@ msgstr "GitHub で :abbr:`PR (Pull Request)` を開き、変更内容をレビ�
 
 #: ../../content/contributing/development.rst:155
 msgid "Go to the `compare page of the odoo/odoo codebase <https://github.com/odoo/odoo/compare>`_, or the `compare page of the odoo/enterprise codebase <https://github.com/odoo/enterprise/compare>`_, depending on which codebase your changes target."
-msgstr ""
+msgstr "変更対象のコードベースに応じて、`odoo/odoo コードベースの 比較ページ <https://github.com/odoo/odoo/compare>`_ または `odoo/enterprise コードベースの 比較ページ <https://github.com/odoo/enterprise/compare>`_ にアクセスしてください。"
 
 #: ../../content/contributing/development.rst:159
 #: ../../content/contributing/documentation.rst:284
@@ -353,7 +354,7 @@ msgstr ":guilabel:`compare across forks` をクリックします。"
 
 #: ../../content/contributing/development.rst:161
 msgid "Select **<your_github_account>/odoo** or **<your_github_account>/enterprise** for the head repository. Replace `<your_github_account>` with the name of the GitHub account on which you created the fork or by **odoo-dev** if you work at Odoo."
-msgstr ""
+msgstr "Headリポジトリには **<your_github_account>/odoo** または **<your_github_account>/enterprise** を選択してください。 `<your_github_account>` には、フォークを作成したご自身の GitHub アカウント名を入力します。Odoo 社で作業している場合は、 **odoo-dev** に置き換えてください。"
 
 #: ../../content/contributing/development.rst:164
 #: ../../content/contributing/documentation.rst:193
@@ -418,23 +419,24 @@ msgstr "ディレクトリ"
 
 #: ../../content/contributing/development/coding_guidelines.rst:39
 msgid "A module is organized in important directories. Those contain the business logic; having a look at them should make you understand the purpose of the module."
-msgstr "モジュールは重要なディレクトリで構成されています。 それらはビジネスロジックを含んでいる; それらを見ることはモジュールの目的を理解させるべきである。"
+msgstr "モジュールは重要なディレクトリで構成されています。ビジネスロジックが含まれており、\n"
+"それを確認することで、モジュールの目的を理解できるはずです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:42
 msgid "*data/* : demo and data xml"
-msgstr "*data/* : デモと xml"
+msgstr "*data/* : デモやデータのxml"
 
 #: ../../content/contributing/development/coding_guidelines.rst:43
 msgid "*models/* : models definition"
-msgstr "*モデル/* : モデル定義"
+msgstr "*models/* : モデルの定義"
 
 #: ../../content/contributing/development/coding_guidelines.rst:44
 msgid "*controllers/* : contains controllers (HTTP routes)"
-msgstr "*controllers/* : コントローラーを含む (HTTP ルート)"
+msgstr "*controllers/* : コントローラー(HTTP ルート)が含まれている"
 
 #: ../../content/contributing/development/coding_guidelines.rst:45
 msgid "*views/* : contains the views and templates"
-msgstr "*views/* : ビューとテンプレートが含まれています"
+msgstr "*views/* : ビューやテンプレートが含まれている"
 
 #: ../../content/contributing/development/coding_guidelines.rst:46
 msgid "*static/* : contains the web assets, separated into *css/, js/, img/, lib/, ...*"
@@ -442,35 +444,35 @@ msgstr "*static/* : *css/, js/, img/, lib/, ...*"
 
 #: ../../content/contributing/development/coding_guidelines.rst:48
 msgid "Other optional directories compose the module."
-msgstr "他のオプションディレクトリがモジュールを構成します。"
+msgstr "モジュールは、その他の任意のディレクトリによって構成されることもあります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:50
 msgid "*wizard/* : regroups the transient models (``models.TransientModel``) and their views"
-msgstr "*ウィザード/* : 一時モデル (``models.TransientModel``) とそのビューを再グループ化します。"
+msgstr "*wizard/* : 一時モデル (``models.TransientModel``) とそのビューをまとめています"
 
 #: ../../content/contributing/development/coding_guidelines.rst:51
 msgid "*report/* : contains the printable reports and models based on SQL views. Python objects and XML views are included in this directory"
-msgstr "*report/* : SQL ビューに基づく印刷可能なレポートとモデルが含まれています。Python オブジェクトと XML ビューは、このディレクトリに含まれています。"
+msgstr "*report/* : SQL ビューに基づく印刷可能なレポートとモデルが含まれる。Python オブジェクトと XML ビューがこのディレクトリに含まれる"
 
 #: ../../content/contributing/development/coding_guidelines.rst:52
 msgid "*tests/* : contains the Python tests"
-msgstr "*tests/* : Python テストが含まれています"
+msgstr "*tests/* : Python テストが含まれる"
 
 #: ../../content/contributing/development/coding_guidelines.rst:56
 msgid "File naming"
-msgstr "ファイルの名前"
+msgstr "ファイルの命名"
 
 #: ../../content/contributing/development/coding_guidelines.rst:58
 msgid "File naming is important to quickly find information through all odoo addons. This section explains how to name files in a standard odoo module. As an example we use a `plant nursery <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ application. It holds two main models *plant.nursery* and *plant.order*."
-msgstr "ファイル名は、すべてのアドオンから情報をすばやく見つけるために重要です。このセクションでは、標準の odoo モジュールでファイルに名前を付ける方法を説明します。 例として、`plant murde <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ applicationを使用します。*plant.narsery*と*plant.order*の2つの主要なモデルを保持します。"
+msgstr "ファイルの命名は、すべてのアドオンから情報をすばやく見つけるために重要です。このセクションでは、標準の odoo モジュールでファイルに名前を付ける方法を説明します。 例として、`plant murde <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ applicationを使用します。それには、 *plant.narsery* と *plant.order* の2つの主要なモデルが含まれています。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:63
 msgid "Concerning *models*, split the business logic by sets of models belonging to a same main model. Each set lies in a given file named based on its main model. If there is only one model, its name is the same as the module name. Each inherited model should be in its own file to help understanding of impacted models."
-msgstr "*モデル*については、同じメインモデルに属するモデルでビジネスロジックを分割します。 各セットは、メインモデルに基づいて指定されたファイルにあります。 モデルが 1 つだけの場合は、モジュール名と同じ名前になります。 それぞれの継承されたモデルは、影響を受けたモデルの理解に役立つ独自のファイルでなければなりません。"
+msgstr "*models* については、同じメインモデルに属するモデルでビジネスロジックを分割します。 各セットは、メインモデルに基づいて指定されたファイルにあります。 モデルが 1 つだけの場合は、モジュール名と同じ名前になります。 それぞれの継承されたモデルは、影響を受けるモデルを理解できるように、個別のファイルにします。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:77
 msgid "Concerning *security*, three main files should be used:"
-msgstr "*セキュリティ*については、3つの主要なファイルを使用する必要があります:"
+msgstr "*security* については、3つの主要なファイルを使用する必要があります："
 
 #: ../../content/contributing/development/coding_guidelines.rst:79
 msgid "First one is the definition of access rights done in a :file:`ir.model.access.csv` file."
@@ -486,35 +488,35 @@ msgstr "レコード ルールは :file:`<model>_security.xml` で定義され�
 
 #: ../../content/contributing/development/coding_guidelines.rst:92
 msgid "Concerning *views*, backend views should be split like models and suffixed by ``_views.xml``. Backend views are list, form, kanban, activity, graph, pivot, .. views. To ease split by model in views main menus not linked to specific actions may be extracted into an optional ``<module>_menus.xml`` file. Templates (QWeb pages used notably for portal / website display) are put in separate files named ``<model>_templates.xml``."
-msgstr ""
+msgstr "*views* については、バックエンドビューもモデルと同様に分割し、ファイル名の末尾に ``_views.xml`` を付ける必要があります。バックエンドビューには、リストビュー、フォームビュー、カンバン、アクティビティビュー、グラフ、ピボットビューなどが含まれます。モデルごとにビューを分けやすくするために、特定のアクションに紐づかないメインメニューは、オプションで ``<module>_menus.xml`` というファイルに分離することができます。テンプレート（主にポータルやウェブサイト表示で使われる QWeb ページ）は、 ``<model>_templates.xml`` という名前の別ファイルにまとめます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:110
 msgid "Concerning *data*, split them by purpose (demo or data) and main model. Filenames will be the main_model name suffixed by ``_demo.xml`` or ``_data.xml``. For instance for an application having demo and data for its main model as well as subtypes, activities and mail templates all related to mail module:"
-msgstr "*data*については、目的(デモまたはデータ)とメインモデルで分割します。ファイル名は ``_demo.xml`` または ``_data.xml`` でサフィックスされた main_model 名になります。 たとえば、メインモデルとサブタイプのデモとデータを持つアプリケーションの場合。 アクティビティとメールテンプレートはすべてメールモジュールに関連しています:"
+msgstr "*data* については、目的(デモまたはデータ)とメインモデルで分割します。ファイル名は、main_modelに ``_demo.xml`` または ``_data.xml`` のサフィックスをつなげた名になります。 たとえば、メインモデルとサブタイプのデモとデータを持つアプリケーションの場合、アクティビティとメールテンプレートはすべてメールモジュールに関連しています："
 
 #: ../../content/contributing/development/coding_guidelines.rst:123
 msgid "Concerning *controllers*, generally all controllers belong to a single controller contained in a file named ``<module_name>.py``. An old convention in Odoo is to name this file ``main.py`` but it is considered as outdated. If you need to inherit an existing controller from another module do it in ``<inherited_module_name>.py``. For example adding portal controller in an application is done in ``portal.py``."
-msgstr ""
+msgstr "*controllers* については、通常すべてのコントローラーは 1 つのファイルにまとめられており、そのファイル名は ``<module_name>.py`` とします。以前の Odoo ではこのファイルを ``main.py`` と名付ける慣習がありましたが、現在では非推奨とされています。他のモジュールの既存コントローラーを継承する必要がある場合は、そのモジュール名に基づいたファイル名である ``<inherited_module_name>.py`` として定義します。たとえば、アプリケーションにポータル用のコントローラーを追加する場合は、　``portal.py`` に実装します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:137
 msgid "Concerning *static files*, Javascript files follow globally the same logic as python models. Each component should be in its own file with a meaningful name. For instance, the activity widgets are located in ``activity.js`` of mail module. Subdirectories can also be created to structure the 'package' (see web module for more details). The same logic should be applied for the templates of JS widgets (static XML files) and for their styles (scss files). Don't link data (image, libraries) outside Odoo: do not use an URL to an image but copy it in the codebase instead."
-msgstr "*静的ファイル*については、JavascriptファイルはPythonモデルと同じロジックに従います。 各コンポーネントは、意味のある名前のファイルに含める必要があります。たとえば、メールモジュールの ``activity.js`` にアクティビティウィジェットがあります。 サブディレクトリは 'package' を構造化するために作成することもできます (詳細は web モジュールを参照してください)。 JSウィジェットのテンプレート(静的XMLファイル)とスタイル(scssファイル)に同じロジックを適用する必要があります。 Odoo の外にあるデータ (画像、ライブラリ) をリンクしないでください: URL を画像に使用せず、代わりにコードベースにコピーしてください。"
+msgstr "*static群* については、JavascriptファイルはPythonモデルと同じロジックに従います。 各コンポーネントは、意味のある名前のファイルに含める必要があります。たとえば、メールモジュールの ``activity.js`` にアクティビティウィジェットがあります。 サブディレクトリは 'package' を構造化するために作成することもできます (詳細は web モジュールを参照してください)。 JSウィジェットのテンプレート(静的XMLファイル)とスタイル(scssファイル)に同じロジックを適用する必要があります。 Odoo の外にあるデータ (画像、ライブラリ) をリンクしないでください: URL を画像に使用せず、代わりにコードベースにコピーしてください。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:146
 msgid "Concerning *wizards*, naming convention is the same of for python models: ``<transient>.py`` and ``<transient>_views.xml``. Both are put in the wizard directory. This naming comes from old odoo applications using the wizard keyword for transient models."
-msgstr "*ウィザード*については、命名規則はPythonモデルと同じです: ``<transient>.py`` と ``<transient>_views.xml`` 。 両方ともウィザードディレクトリに配置されています。この名前は、一時モデルのウィザードキーワードを使用している古いodoアプリケーションから来ています。"
+msgstr "*wizards* については、命名規則はPythonモデルと同様で、 ``<transient>.py`` や ``<transient>_views.xml`` のようにします。 両方ともウィザードディレクトリに配置されます。この名称は、一時モデルのウィザードキーワードを使用している古いodooアプリケーションに由来しています。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:158
 msgid "Concerning *statistics reports* done with python / SQL views and classic views naming is the following :"
-msgstr "Python/SQLビューと古典的なビュー名称で行われた*統計レポート*は以下の通りです:"
+msgstr "*統計的な reports* については、Python や SQL ビュー、また従来のビューで構成されますが、そのファイルの命名は次の通りです："
 
 #: ../../content/contributing/development/coding_guidelines.rst:168
 msgid "Concerning *printable reports* which contain mainly data preparation and Qweb templates naming is the following :"
-msgstr "主にデータ準備やQWebテンプレートの命名を含む*印刷可能なレポート*については、以下の通りです:"
+msgstr "*印刷可能な reports* については、主にデータの準備処理やQWeb テンプレートで構成されますが、そのファイルの命名は次の通りです："
 
 #: ../../content/contributing/development/coding_guidelines.rst:178
 msgid "The complete tree of our Odoo module therefore looks like"
-msgstr "したがって、Odoo モジュールの完全なツリーは次のようになります。"
+msgstr "まとめると、Odoo モジュールの完全なツリーは次のようになります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:236
 msgid "File names should only contain ``[a-z0-9_]`` (lowercase alphanumerics and ``_``)"
@@ -1636,7 +1638,7 @@ msgstr "環境が設定されたので、ドキュメントへの貢献を開始
 
 #: ../../content/contributing/documentation.rst:217
 msgid "Choose the version of the documentation to which you want to make changes. Keep in mind that contributions targeting an :doc:`unsupported version of Odoo </administration/supported_versions>` are not accepted. This guide assumes that the changes target the documentation of Odoo 18, which corresponds to branch `18.0`."
-msgstr ""
+msgstr "変更を加えたいバージョンのOdooを選択します。 :doc:`サポートされていないバージョンの Odoo </administration/supported_versions>` を対象とした貢献は受け付けられません。 このガイドでは、`18.0`のブランチに対応するOdoo 18を変更することを想定しています。"
 
 #: ../../content/contributing/documentation.rst:239
 msgid "Compress all PNG images that were added or modified."
