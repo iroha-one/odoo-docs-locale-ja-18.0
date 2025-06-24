@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 22:44+0000\n"
-"PO-Revision-Date: 2025-06-24 11:31\n"
+"PO-Revision-Date: 2025-06-24 22:37\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -7059,7 +7059,7 @@ msgstr "Odoo に翻訳ファイルをインポートするには、 :menuselecti
 #: ../../content/developer/reference.rst:8
 #: ../../content/developer/reference/frontend/odoo_editor.rst:135
 msgid "Reference"
-msgstr "参照"
+msgstr "リファレンス"
 
 #: ../../content/developer/reference/backend.rst:6
 msgid "Server framework"
