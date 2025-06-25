@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 22:44+0000\n"
-"PO-Revision-Date: 2025-06-24 21:56\n"
+"PO-Revision-Date: 2025-06-25 22:06\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -536,31 +536,32 @@ msgstr "書式"
 
 #: ../../content/contributing/development/coding_guidelines.rst:249
 msgid "To declare a record in XML, the **record** notation (using *<record>*) is recommended:"
-msgstr "XMLでレコードを宣言するには、**記録** (*<record>*を使用) を推奨します。"
+msgstr "XML でレコードを宣言するには、**record** 表記（*<record>* を使用）を推奨します："
 
 #: ../../content/contributing/development/coding_guidelines.rst:251
 msgid "Place ``id`` attribute before ``model``"
-msgstr "``model`` の前に ``id`` 属性を配置します"
+msgstr "``model`` 属性の前に ``id`` 属性を配置します"
 
 #: ../../content/contributing/development/coding_guidelines.rst:252
 msgid "For field declaration, ``name`` attribute is first. Then place the *value* either in the ``field`` tag, either in the ``eval`` attribute, and finally other attributes (widget, options, ...) ordered by importance."
-msgstr "フィールド宣言の場合、``name`` 属性が最初です。 次に、``field`` タグのどちらかに *value* を、``eval`` 属性のどちらかに、そして最後に重要性によって順序付けられた他の属性 (ウィジェット、オプション、...) に配置します。"
+msgstr "フィールドを宣言する際は、まず ``name`` 属性を記述します。その後、　*値* を ``field`` タグ内、または ``eval`` 属性のいずれかに記述し、最後にその他の属性（widget、options など）を重要度順に並べます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:257
 msgid "Try to group the record by model. In case of dependencies between action/menu/views, this convention may not be applicable."
-msgstr "モデル別にレコードをグループ化してみてください。アクション/メニュー/ビュー間の依存関係がある場合、この規則は適用できない場合があります。"
+msgstr "レコードはできるだけモデルごとにまとめて記述するようにしてください。ただし、アクション／メニュー／ビュー間に依存関係がある場合、この規則は適用できないことがあります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:259
 msgid "Use naming convention defined at the next point"
-msgstr "次の点で定義された命名規則を使用する"
+msgstr "次の項で定義されている命名規則を使用してください"
 
 #: ../../content/contributing/development/coding_guidelines.rst:260
 msgid "The tag *<data>* is only used to set not-updatable data with ``noupdate=1``. If there is only not-updatable data in the file, the ``noupdate=1`` can be set on the ``<odoo>`` tag and do not set a ``<data>`` tag."
-msgstr ""
+msgstr "*<data>* タグは、 ``noupdate=1`` を指定して更新不可のデータを設定する場合にのみ使用されます。\n"
+"ファイル内に更新不可のデータしか含まれていない場合は、``<odoo>`` タグに ``noupdate=1`` を指定し、 ``<data>`` タグは使用しないでください。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:278
 msgid "Odoo supports custom tags acting as syntactic sugar:"
-msgstr "Odooは構文糖として機能するカスタムタグをサポートしています:"
+msgstr "Odooは糖衣構文として機能するカスタムタグをサポートしています："
 
 #: ../../content/contributing/development/coding_guidelines.rst:280
 msgid "menuitem: use it as a shortcut to declare a ``ir.ui.menu``"
@@ -572,11 +573,11 @@ msgstr "template: ビューの ``arch`` セクションのみが必要な QWeb �
 
 #: ../../content/contributing/development/coding_guidelines.rst:283
 msgid "These tags are preferred over the *record* notation."
-msgstr "これらのタグは *レコード* 表記よりも優先されます。"
+msgstr "これらのタグは *record* 表記よりも優先されます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:287
 msgid "XML IDs and naming"
-msgstr "XML IDと名前"
+msgstr "XML IDとその命名規則"
 
 #: ../../content/contributing/development/coding_guidelines.rst:290
 msgid "Security, View and Action"
@@ -588,47 +589,49 @@ msgstr "次のパターンを使用します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:294
 msgid "For a menu: :samp:`{<model_name>}_menu`, or :samp:`{<model_name>}_menu_{do_stuff}` for submenus."
-msgstr "メニューの場合: :samp:`{<model_name>}_menu`, or :samp:`{<model_name>}_menu_{do_stuff}` のサブメニュー。"
+msgstr "メニューの場合: :samp:`{<model_name>}_menu` 。サブメニューの場合は、 :samp:`{<model_name>}_menu_{do_stuff}` 。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:295
 msgid "For a view: :samp:`{<model_name>}_view_{<view_type>}`, where *view_type* is ``kanban``, ``form``, ``list``, ``search``, ..."
-msgstr "ビューについて: :samp:`{<model_name>}_view_{<view_type>}`, *view_type* は ``kanban``, ``form``, ``list``, ``search``, ..."
+msgstr "ビューの場合: :samp:`{<model_name>}_view_{<view_type>}`。 ここでの *view_type* は ``kanban``, ``form``, ``list``, ``search`` などです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:297
 msgid "For an action: the main action respects :samp:`{<model_name>}_action`. Others are suffixed with :samp:`_{<detail>}`, where *detail* is a lowercase string briefly explaining the action. This is used only if multiple actions are declared for the model."
-msgstr ""
+msgstr "アクションの場合: メインのアクションには :samp:`{<model_name>}_action` という命名規則に従います。\n"
+"他のアクションには :samp:`_{<detail>}` という接尾辞を付けます。ここでの *detail* は、そのアクションの内容を簡潔に表す小文字の文字列です。これは、同じモデルに対して複数のアクションが定義されている場合にのみ適用されます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:301
 msgid "For window actions: suffix the action name by the specific view information like :samp:`{<model_name>}_action_view_{<view_type>}`."
-msgstr "ウィンドウアクションの場合: :samp:`{<model_name>}_action_view_{<view_type> }` のような特定のビュー情報でアクション名をサフィックスします。"
+msgstr "ウィンドウアクションの場合: :samp:`{<model_name>}_action_view_{<view_type> }` のような特定のビュー情報でアクション名に接尾辞を付けます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:303
 msgid "For a group: :samp:`{<module_name>}_group_{<group_name>}` where *group_name* is the name of the group, generally 'user', 'manager', ..."
-msgstr "グループの場合: :samp:`{<module_name>}_group_{<group_name>}` *group_name* はグループの名前です。一般的には 'user', 'manager', ..."
+msgstr "グループの場合: :samp:`{<module_name>}_group_{<group_name>}` 。ここでの *group_name* はグループの名前です。一般的には 'user', 'manager' などがあります…"
 
 #: ../../content/contributing/development/coding_guidelines.rst:305
 msgid "For a rule: :samp:`{<model_name>}_rule_{<concerned_group>}` where *concerned_group* is the short name of the concerned group ('user' for the 'model_name_group_user', 'public' for public user, 'company' for multi-company rules, ...)."
-msgstr "ルールの場合: :samp:`{<model_name>}_rule_{<concerned_group>}` ここで *concerned_group* は関係するグループの短い名前です ('user' for the 'model_name_group_user', 公開ユーザーの「公開」、マルチ企業規則の「会社」。 )."
+msgstr "ルールの場合: :samp:`{<model_name>}_rule_{<concerned_group>}` 。ここでの *concerned_group* には、対象となるグループの短い名称を指定します（ 'model_name_group_user' には、 'user' 、公開ユーザーには、 'public' 、マルチカンパニー用ルールには、 'company' のように）。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:310
 msgid "Name should be identical to xml id with dots replacing underscores. Actions should have a real naming as it is used as display name."
-msgstr "名前は xml id と同じで、アンダースコアを置き換えるドットである必要があります。表示名として使用されるアクションは実際の名前を持つ必要があります。"
+msgstr "Nameは、XML IDのアンダースコア（_）をドット（.）に置き換えた同一な名称にしてください。\n"
+"また、アクションには実際に意味のある名称を付けてください。これは、その名称が表示名として使用されるからです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:364
 msgid "Inheriting XML"
-msgstr "XMLの継承中"
+msgstr "XMLの継承"
 
 #: ../../content/contributing/development/coding_guidelines.rst:366
 msgid "Xml Ids of inheriting views should use the same ID as the original record. It helps finding all inheritance at a glance. As final Xml Ids are prefixed by the module that creates them there is no overlap."
-msgstr "ビューを継承する XML ID は、元のレコードと同じ ID を使用する必要があります。一目ですべての継承を見つけるのに役立ちます。 最終的なXml Idsはそれらを作成するモジュールの前に追加されるため、重複はありません。"
+msgstr "継承ビューの XML ID は、元のレコードと同じ ID を使用するようにしてください。これにより、どのビューがどれを継承しているのかを一目で把握しやすくなります。最終的な XML ID は、それを作成したモジュールに対応する接頭辞が付くため、他のモジュールと衝突することはありません。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:370
 msgid "Naming should contain an ``.inherit.{details}`` suffix to ease understanding the override purpose when looking at its name."
-msgstr "名前は ``.inherited from に含まれている必要があります。{details}`` サフィックスは、その名前を参照するときにオーバーライドの目的を理解しやすくします。"
+msgstr "命名には ``.inherit.{details}`` という接尾辞を含めてください。これにより、name を見ただけで何をオーバーライドしているのかが明確になり、理解しやすくなります。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:381
 msgid "New primary views do not require the inherit suffix as those are new records based upon the first one."
-msgstr "新しいプライマリビューでは、最初のレコードに基づく新しいレコードなので、継承サフィックスは必要ありません。"
+msgstr "新しいプライマリビューには inherit 接尾辞を付ける必要はありません。それは既存ビューの継承ではなく、元となるビューに基づいて新たに定義される独立したレコードであるためです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:396
 #: ../../content/contributing/documentation/rst_guidelines.rst:1125
