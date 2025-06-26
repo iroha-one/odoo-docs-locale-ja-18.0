@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 22:44+0000\n"
-"PO-Revision-Date: 2025-06-25 22:06\n"
+"PO-Revision-Date: 2025-06-26 20:55\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -902,11 +902,12 @@ msgstr "Odoo Model を定義する場合: *res.partnerS* と *saleS.orderS* の�
 
 #: ../../content/contributing/development/coding_guidelines.rst:822
 msgid "When defining an Odoo Transient (wizard) : use ``<related_base_model>.<action>`` where *related_base_model* is the base model (defined in *models/*) related to the transient, and *action* is the short name of what the transient do. Avoid the *wizard* word. For instance : ``account.invoice.make``, ``project.task.delegate.batch``, ..."
-msgstr ""
+msgstr "Odooの一時モデル（ウィザード）を定義する際は、 ``<related_base_model>.<action>`` という形式を使用してください。ここでの *related_base_model* はその一時モデルに関連する基本モデル（ *models/* ディレクトリで定義）を指し、 *action* はその一時モデルが実行する処理の短い名前です。 *wizard* という語の使用は避けてください。例：account.invoice.make、project.task.delegate.batch など。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:826
 msgid "When defining *report* model (SQL views e.i.) : use ``<related_base_model>.report.<action>``, based on the Transient convention."
-msgstr ""
+msgstr "Odooの *report* モデル（たとえばSQLビュー）を定義する際は、Transientモデルの命名規則に基づき、\n"
+" ``<related_base_model>.report.<action>`` という形式を使用してください。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:829
 msgid "Odoo Python Class : use camelcase (Object-oriented style)."
@@ -1258,7 +1259,7 @@ msgstr ":ref:`scoped variables form <contributing/coding_guidelines/scss/scoped_
 
 #: ../../content/contributing/development/coding_guidelines.rst:1219
 msgid "`Mixins on the SASS Documentation <https://sass-lang.com/documentation/at-rules/mixin>`_"
-msgstr ""
+msgstr "`SASSドキュメントにおけるMixin <https://sass-lang.com/documentation/at-rules/mixin>`_"
 
 #: ../../content/contributing/development/coding_guidelines.rst:1220
 msgid "`Functions on the SASS Documentation <https://sass-lang.com/documentation/at-rules/function>`_"
@@ -1442,7 +1443,7 @@ msgstr "タグとモジュール名には意味のあるコミットメッセー
 
 #: ../../content/contributing/development/git_guidelines.rst:84
 msgid "Commit message header should make a valid sentence once concatenated with ``if applied, this commit will <header>``. For example ``[IMP] base: prevent to archive users linked to active partners`` is correct as it makes a valid sentence ``if applied, this commit will prevent users to archive...``."
-msgstr ""
+msgstr "コミットメッセージの書き出し（header）は、 ``if applied, this commit will <header>`` という文に連結したときに、文法的に正しい英文になるようにしてください。たとえば、 ``[IMP] base: prevent to archive users linked to active partners`` は、 ``if applied, this commit will prevent users to archive...`` という正しい文になるため、適切です。"
 
 #: ../../content/contributing/development/git_guidelines.rst:90
 msgid "Commit message full description"
@@ -1510,7 +1511,7 @@ msgstr "reStructuredText (RST)"
 
 #: ../../content/contributing/documentation.rst:36
 msgid "The documentation is written in **reStructuredText** (RST), a `lightweight markup language <https://en.wikipedia.org/wiki/Lightweight_markup_language>`_ consisting of regular text augmented with markup, which allows including headings, images, notes, and so on. :abbr:`RST (reStructuredText)` is easy to use, even if you are not familiar with it."
-msgstr ""
+msgstr "このドキュメントは **reStructuredText** （RST） で記述されています。 :abbr:`RST (reStructuredText)` は、通常のテキストにマークアップを加えることで、見出し・画像・注釈などを含められる`軽量マークアップ言語 <https://en.wikipedia.org/wiki/Lightweight_markup_language>`_ です。 :abbr:`RST (reStructuredText)` は、たとえ初めてでも簡単に使うことができます。"
 
 #: ../../content/contributing/documentation.rst:42
 msgid "Be mindful of our :doc:`content <documentation/content_guidelines>` and :doc:`RST <documentation/rst_guidelines>` guidelines as you write documentation. This ensures that the documentation stays consistent and facilitates the approval of changes by the Odoo team."
@@ -1575,7 +1576,7 @@ msgstr "macOS"
 
 #: ../../content/contributing/documentation.rst:143
 msgid "Follow the `guide to install Make on macOS <https://formulae.brew.sh/formula/make>`_"
-msgstr ""
+msgstr "`macOSにMakeをインストールするためのガイド <https://formulae.brew.sh/formula/make>`_ に従ってください"
 
 #: ../../content/contributing/documentation.rst:147
 msgid "Follow the `guide to install Make on Windows <https://www.technewstoday.com/install-and-use-make-in-windows>`_."
@@ -1673,7 +1674,7 @@ msgstr "`compare page of the odoo/documentation codebase <https://github.com/odo
 
 #: ../../content/contributing/documentation.rst:286
 msgid "Select **<your_github_account>/odoo** for the head repository. Replace `<your_github_account>` with the name of the GitHub account on which you created the fork. Skip this step if you work at Odoo."
-msgstr ""
+msgstr "**<your_github_account>/odoo** をヘッドリポジトリとして選択してください。 `<your_github_account>` の部分は、自分がフォークを作成したGitHubアカウント名に置き換えてください。Odoo社の社員であれば、この手順はスキップして構いません。"
 
 #: ../../content/contributing/documentation/content_guidelines.rst:3
 msgid "Content guidelines"
@@ -1701,7 +1702,8 @@ msgstr "ほとんどのトピックでは、単一のページがジョブを実
 
 #: ../../content/contributing/documentation/content_guidelines.rst:23
 msgid "For more complex topics, several pages may be needed to cover all their aspects. Usually, you will find yourself adding documentation to a topic that is already partially covered. In that case, either create a new page and place it at the same level as other related pages or add new sections to an existing page. When documenting a complex topic from scratch, organize the content across several child pages that are referenced on that directory's parent page (the :abbr:`TOC (Table Of Contents)` page); whenever possible, write content on the parent page and not only on the child pages. Make the parent page accessible from the navigation menu by using the :ref:`show-content <contributing/rst/document-metadata>` metadata directive."
-msgstr ""
+msgstr "複雑なトピックを扱う場合、そのすべての側面を網羅するには複数のページが必要になることがあります。\n"
+"通常は、すでに一部が記述されているトピックにドキュメントを追加することになるでしょう。その場合は、新しいページを作成して他の関連ページと同じ階層に配置するか、既存のページに新しいセクションを追加してください。トピック全体を一から文書化する場合は、内容を複数の子ページに分割し、それらをディレクトリ内の親ページ（ :abbr:`TOC (Table Of Contents)` ページ）から参照するように構成します。可能な限り、子ページだけでなく親ページにも内容を書くようにしてください。親ページをナビゲーションメニューからアクセス可能にするには、 :ref:`show-content <contributing/rst/document-metadata>` メタデータディレクティブを使用します。"
 
 #: ../../content/contributing/documentation/content_guidelines.rst:33
 msgid "Avoid duplicating content whenever possible; if a topic is already documented on another page, :ref:`reference <contributing/rst/hyperlinks>` that existing information instead of repeating it."
@@ -1709,7 +1711,7 @@ msgstr "可能な限りコンテンツの複製は避けてください。トピ
 
 #: ../../content/contributing/documentation/content_guidelines.rst:37
 msgid "When deleting or moving a `.rst` file, update the corresponding text file in the :file:`redirects` folder based on your branch's version (e.g., :file:`17.0.txt`). To do so, add a new line at the bottom of the relevant section (e.g., `# applications/sales`). On this line, first, add the redirection entry point with the old file location, followed by a space, and then add the exit point with the new or relevant file location. For example, if moving the file :file:`unsplash.rst` from :file:`applications/websites/website/configuration` to :file:`applications/general/integrations`, add the following entry under the section `# applications/websites`:"
-msgstr ""
+msgstr "`.rst` ファイルを削除または移動する場合は、ブランチのバージョンに対応する :file:`redirects` フォルダ内のテキストファイル（例： :file:`17.0.txt` ）を更新してください。その際、該当セクション（例： `# applications/sales` ）の末尾に新しい行を追加します。その行には、まず旧ファイルのパス（リダイレクト元）を記述し、スペースを空けてから新しいファイルのパス（リダイレクト先）を記述します。たとえば、 :file:`unsplash.rst` を :file:`applications/websites/website/configuration` から :file:`applications/general/integrations` に移動する場合は、 `# applications/websites` セクションの下に以下のようなエントリを追加します："
 
 #: ../../content/contributing/documentation/content_guidelines.rst:53
 msgid "Document structure"
@@ -2191,7 +2193,7 @@ msgstr "書式設定"
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:29
 msgid "Use specific formatting to improve clarity and readability. For example, apply :ref:`contributing/rst/menuselection` for menu paths, :ref:`contributing/rst/guilabel` for other user interface elements, such as fields, buttons, and options, :ref:`contributing/rst/note` for notes, :ref:`contributing/rst/example` for examples, etc."
-msgstr ""
+msgstr "明確さと読みやすさを向上させるために、適切なフォーマットを使用してください。たとえば、メニューパスには :ref:`contributing/rst/menuselection` を、フィールド・ボタン・オプションなどのユーザーインターフェース要素には :ref:`contributing/rst/guilabel` を、注釈には :ref:`contributing/rst/note` を、例には :ref:`contributing/rst/example` を適用してください。"
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:35
 msgid "Add a blank line between different block elements, such as paragraphs, lists, and directives to ensure proper rendering and formatting."
@@ -2508,7 +2510,8 @@ msgstr "既存のビルド済みファイルを削除し、HTMLにドキュメ�
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:418
 msgid "Use the `icon` markup to add the class name of an icon. There are three icon sets used in Odoo: `FontAwesome4 <https://fontawesome.com/v4/icons/>`_ (`fa-*`), :ref:`Odoo UI <ui/odoo-ui-icons>` (`oi-*`) and :ref:`Odoo Spreadsheet <ui/odoo-spreadsheet-icons>` (`os-*`) icons."
-msgstr ""
+msgstr "`icon` マークアップを使用して、アイコンのクラス名を追加してください。\n"
+"Odooで使用されているアイコンセットは次の3種類です： `FontAwesome4 <https://fontawesome.com/v4/icons/>`_ （ `fa-*` ）アイコン、 :ref:`Odoo UI <ui/odoo-ui-icons>` （ `oi-*` ）アイコン、 :ref:`Odoo スプレッドシート <ui/odoo-spreadsheet-icons>` （ `os-*` ）アイコン。"
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:422
 msgid "Follow the icon with its name as a :ref:`contributing/rst/guilabel` in brackets as a descriptor."
@@ -2624,7 +2627,7 @@ msgstr "```label <target_>`_`` ラベルはターゲットの名前を置き換�
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:565
 msgid "A `proof-of-concept <https://en.wikipedia.org/wiki/Proof_of_concept>`_ is a simplified version, a prototype of what is expected to agree on the main lines of expected changes. `PoC <https://en.wikipedia.org/wiki/Proof_of_concept>`_ is a common abbreviation."
-msgstr ""
+msgstr "`proof-of-concept <https://en.wikipedia.org/wiki/Proof_of_concept>`_ とは、想定される変更の主要な方向性に合意するために作成される、簡易版またはプロトタイプのことです。 `PoC <https://en.wikipedia.org/wiki/Proof_of_concept>`_ はその一般的な略称です。"
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:579
 msgid "Custom anchors"
@@ -2660,7 +2663,7 @@ msgstr ":ref:`external hyperlinks <contributing/rst/external-hyperlinks> `で行
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:605
 msgid "Please refer to the :ref:`contributing/rst/hyperlinks-guidelines` section to learn more about :ref:`relative links <contributing/rst/relative-links>`."
-msgstr ""
+msgstr ":ref:`relative links <contributing/rst/relative-links>` について詳しく知りたい場合は、 :ref:`contributing/rst/hyperlinks-guidelines` セクションを参照してください。"
 
 #: ../../content/contributing/documentation/rst_guidelines.rst:626
 msgid "Documentation page hyperlinks"

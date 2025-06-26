@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-180\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 22:44+0000\n"
-"PO-Revision-Date: 2025-06-25 22:06\n"
+"PO-Revision-Date: 2025-06-26 20:55\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -33408,7 +33408,7 @@ msgstr "このチュートリアルの目的は、不動産資産を管理する
 
 #: ../../content/developer/tutorials/server_framework_101.rst:25
 msgid "Before going further, make sure you have prepared your development environment with the :doc:`setup guide <setup_guide>`."
-msgstr "さらに進む前に、 :doc:`setup guide <setup_guide> ` を使用して開発環境を準備していることを確認してください。"
+msgstr "さらに進む前に、 :doc:`セットアップガイド <setup_guide>` を使用して開発環境を準備していることを確認してください。"
 
 #: ../../content/developer/tutorials/server_framework_101.rst:28
 #: ../../content/developer/tutorials/website_theme.rst:44
